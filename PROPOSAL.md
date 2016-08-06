@@ -5,9 +5,20 @@ Hi all;
 
 I have been working on converting the PCGen documentation into a new system.
 
-* Convert documentation from HTML into Markdown
+* Convert documentation from HTML (hard to edit) into Markdown (easy to edit)
 * Use [Hugo](http://gohugo.io), the static site generator, to compile
   the Markdown into a static site.
+  
+I have a working proof of concept which shows the benefits. I am now seeking
+comments and assistance to get this into production.
+
+Below:
+* Technical benefits
+* Benefits to the project
+* Proof of concept (includes download links)
+* Technical Aspects
+* Where to now?
+* Where can I discuss this?
 
 Below I talk about the benefits of this approach - both technical benefits
 and benefits to the project. I have a working proof of concept you
@@ -15,7 +26,7 @@ can download from my Github. You can look at the Markdown source,
 use Hugo to compile it, and look at the compiled HTML output.
 
 I also talk about the work still remaining - mainly integration with
-the exiting PCGen build processes. There's also a bit of manual editing
+the existing PCGen build processes. There's also a bit of manual editing
 needed to complete the automated conversion, which was mostly done using
 single-use text processing scripts.
 
@@ -25,12 +36,9 @@ Technical Benefits
  1. The old HTML documentation is hard to edit. (I should know: I just
     spent ~40 hours editing it.)
  
-    Markdown is **very easy to read** and **very easy to edit**.
-    
-    How easy?
-    
-    This document is written in Markdown. So writing Markdown is as
-    easy as writing a plain-text email.
+    Markdown is **very easy to read** and **very easy to edit**. See the
+    [source code for this document](https://raw.githubusercontent.com/LiaungYip/pcgen-docs/master/PROPOSAL.md)
+    as an example.
     
     Markdown is also used by people on some of the world's most popular
     websites.
@@ -217,8 +225,13 @@ You can also look at the raw Markdown source, and see how easy it
 is to edit.
 
 I've also prepared a ready-made zip of the compiled HTML, for those
-who don't have time to install Hugo. See the "Documentation Process"
-chat-room on HipChat (ask @AndrewMaitland for an add.)
+who don't have time to install Hugo. See:
+
+* [7zip format - 13,948 kB](http://www.penwatch.net/files/pcgen-docs/pcgen-docs-compiled.7z)
+* [zip format - 25,104 kB](http://www.penwatch.net/files/pcgen-docs/pcgen-docs-compiled.zip)
+* [7zip format - no images - 818 kB](http://www.penwatch.net/files/pcgen-docs/pcgen-docs-compiled-no-images.7z)
+* [zip format - no images - 10,708 kB](http://www.penwatch.net/files/pcgen-docs/pcgen-docs-compiled-no-images.zip)
+
 
 Where can I discuss this?
 =========================
