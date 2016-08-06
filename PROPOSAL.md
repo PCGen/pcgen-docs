@@ -181,18 +181,11 @@ Technical aspects
     no impact on the size of the distribution. There is an increase on the disk
     space used for installation.
     
- 3. It takes about 20 seconds and 3GB of RAM to compile the site, on my PC.
+ 3. It takes about 20 seconds to compile the site, on my PC. This is actually
+    quite a long time for Hugo.
     
-    This is actually quite a long time and quite a lot of RAM, for Hugo.
-    
-    Usual values are "less than a second" and "about 200MB".
-    
-    It's possible that we have the largest, most complicated Hugo site of
-    anyone, anywhere. So the CPU time and RAM are understandable.
-    
-    I will be submitting the PCGen documentation site to the Hugo development
-    mailing lists (i.e. https://discuss.gohugo.io/) to see if any improvement
-    is possible.
+    RAM usage is a reasonable 60 MB (peak). Evidently Hugo is quite good at
+    keeping the RAM usage down during compilation.
     
 Where to, now?
 ==============
