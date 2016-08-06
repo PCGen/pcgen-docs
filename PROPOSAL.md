@@ -36,7 +36,8 @@ Technical Benefits
  1. The old HTML documentation is hard to edit. (I should know: I just
     spent ~40 hours editing it.)
  
-    Markdown is **very easy to read** and **very easy to edit**. See the
+    Markdown is **very easy to read** and **very easy to edit**. You can learn
+    Markdown in about 10 minutes: see http://commonmark.org/help/. Also see the
     [source code for this document](https://raw.githubusercontent.com/LiaungYip/pcgen-docs/master/PROPOSAL.md)
     as an example.
     
