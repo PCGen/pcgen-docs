@@ -1,12 +1,17 @@
 # Instructions
 
-1. Clone this repository somewhere. I.e. `G:/pcgen-docs/`.
+1. Clone this repository somewhere. I.e.
+
+        git clone --recursive https://github.com/LiaungYip/pcgen-docs G:/pcgen-docs/
+
+   Note the use of the `--recursive` flag to download git sub-modules, i.e. the `themes/hugo-material-docs/` sub-module.
+
 2. [Install Hugo](https://gohugo.io/overview/installing/), the static site generator.
 3. At a command line:
   * `$ cd G:/pcgen-docs/`
   * `$ hugo --stepAnalysis --watch`
-  * Wait for Hugo to finish generating the site. (Takes 20 seconds and 3 GB of RAM on my machine.)
-  * The full site is now generated. See `G:/pcgen/docs/public/` for the site.
+  * Wait for Hugo to finish generating the site. (Takes 20 seconds and ~ 100 MB of RAM on my machine.)
+  * The full site is now generated. See `G:/pcgen-docs/public/` for the site.
 
 # Sample command line session
 
@@ -17,7 +22,7 @@
     initialize & template prep:
             7.5076ms (608.4893ms)       0.93 MB     13998 Allocs
     load data:
-            500.6µs (608.9899ms)        0.01 MB     164 Allocs
+            500.6Âµs (608.9899ms)        0.01 MB     164 Allocs
     read pages from source:
             212.1184ms (821.6104ms)    32.16 MB     356739 Allocs
     convert source:
@@ -29,7 +34,7 @@
     render and write taxonomies:
             1.5723244s (2.6791036s)   158.55 MB     2403400 Allocs
     render & write taxonomy lists:
-            498.9µs (2.6806041s)        0.03 MB     667 Allocs
+            498.9Âµs (2.6806041s)        0.03 MB     667 Allocs
     render and write lists:
             1.6237175s (4.3043216s)    78.64 MB     1165825 Allocs
     render and write pages:
