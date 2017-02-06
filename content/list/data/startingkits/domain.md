@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DOMAIN (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#domain"
+original_url = "/list/data/startingkits.html#domain"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "DOMAIN (Data: starting_kits.lst)"
+    parent = "startingkits"
 +++
 
 ## Status

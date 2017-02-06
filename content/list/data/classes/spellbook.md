@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SPELLBOOK (Data: classes.lst)"
-original_url = "list/data/classes.html#spellbook"
+original_url = "/list/data/classes.html#spellbook"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "SPELLBOOK (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

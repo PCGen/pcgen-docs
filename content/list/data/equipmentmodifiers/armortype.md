@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ARMORTYPE (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#armortype"
+original_url = "/list/data/equipmentmodifiers.html#armortype"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "ARMORTYPE (Data: equipment_modifiers.lst)"
+    parent = "equipmentmodifiers"
 +++
 
 ## Status

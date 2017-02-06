@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DEITY (Global: CHOOSE)"
-original_url = "list/global/choose.html#deity"
+original_url = "/list/global/choose.html#deity"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "DEITY (Global: CHOOSE)"
+    parent = "choose"
 +++
 
 ## Status

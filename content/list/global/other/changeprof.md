@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CHANGEPROF (Global: OTHER)"
-original_url = "list/global/other.html#changeprof"
+original_url = "/list/global/other.html#changeprof"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "CHANGEPROF (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

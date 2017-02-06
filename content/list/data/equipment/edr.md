@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "EDR (Data: equipment.lst)"
-original_url = "list/data/equipment.html#edr"
+original_url = "/list/data/equipment.html#edr"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "EDR (Data: equipment.lst)"
+    parent = "equipment"
 +++
 
 ## Status

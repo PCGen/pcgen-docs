@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "BASEDICE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#basedice"
+original_url = "/list/system/gamemode-miscinfo.html#basedice"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "BASEDICE (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

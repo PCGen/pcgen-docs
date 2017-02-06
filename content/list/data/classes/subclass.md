@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SUBCLASS (Data: classes.lst)"
-original_url = "list/data/classes.html#subclass"
+original_url = "/list/data/classes.html#subclass"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "SUBCLASS (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

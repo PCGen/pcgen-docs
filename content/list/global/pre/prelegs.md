@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PRELEGS (Global: PRErequisite)"
-original_url = "list/global/pre.html#prelegs"
+original_url = "/list/global/pre.html#prelegs"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRELEGS (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

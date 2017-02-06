@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "REMOVE (Global: OTHER)"
-original_url = "list/global/other.html#remove"
+original_url = "/list/global/other.html#remove"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "REMOVE (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

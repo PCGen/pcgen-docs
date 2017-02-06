@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ALLOWDUPES (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#allowdupes"
+original_url = "/list/data/pcc.html#allowdupes"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "ALLOWDUPES (Data: campaign.pcc)"
+    parent = "pcc"
 +++
 
 ## Status

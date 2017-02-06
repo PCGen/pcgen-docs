@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "KNOWN (Data: classes.lst)"
-original_url = "list/data/classes.html#known"
+original_url = "/list/data/classes.html#known"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "KNOWN (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

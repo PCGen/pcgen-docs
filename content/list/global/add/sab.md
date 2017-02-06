@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SAB (Global: ADD)"
-original_url = "list/global/add.html#sab"
+original_url = "/list/global/add.html#sab"
 categories = [ "all-tag", "add-tag" ]
+[menu.main]
+    name = "SAB (Global: ADD)"
+    parent = "add"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PRECHARACTERTYPE (Global: PRErequisite)"
-original_url = "list/global/pre.html#precharactertype"
+original_url = "/list/global/pre.html#precharactertype"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRECHARACTERTYPE (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SPELLLIST (Data: classes.lst)"
-original_url = "list/data/classes.html#spelllist"
+original_url = "/list/data/classes.html#spelllist"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "SPELLLIST (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "GENDERLOCK (Data: templates.lst)"
-original_url = "list/data/templates.html#genderlock"
+original_url = "/list/data/templates.html#genderlock"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "GENDERLOCK (Data: templates.lst)"
+    parent = "templates"
 +++
 
 ## Status

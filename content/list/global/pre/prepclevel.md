@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PREPCLEVEL (Global: PRErequisite)"
-original_url = "list/global/pre.html#prepclevel"
+original_url = "/list/global/pre.html#prepclevel"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREPCLEVEL (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

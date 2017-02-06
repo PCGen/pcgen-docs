@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "LICENSE (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#license"
+original_url = "/list/data/pcc.html#license"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "LICENSE (Data: campaign.pcc)"
+    parent = "pcc"
 +++
 
 ## Status

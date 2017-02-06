@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ICON (Game Mode: equipicons.lst)"
-original_url = "list/system/gamemode-equipicons.html#icon"
+original_url = "/list/system/gamemode-equipicons.html#icon"
 categories = [ "all-tag", "gamemode-equipicons-tag" ]
+[menu.main]
+    name = "ICON (Game Mode: equipicons.lst)"
+    parent = "gamemode-equipicons"
 +++
 
 ## Status

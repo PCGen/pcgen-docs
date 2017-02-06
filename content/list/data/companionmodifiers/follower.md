@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "FOLLOWER (Data: companion_mods.lst)"
-original_url = "list/data/companionmodifiers.html#follower"
+original_url = "/list/data/companionmodifiers.html#follower"
 categories = [ "all-tag", "companionmodifiers-tag" ]
+[menu.main]
+    name = "FOLLOWER (Data: companion_mods.lst)"
+    parent = "companionmodifiers"
 +++
 
 ## Status

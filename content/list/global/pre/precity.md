@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PRECITY (Global: PRErequisite)"
-original_url = "list/global/pre.html#precity"
+original_url = "/list/global/pre.html#precity"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRECITY (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

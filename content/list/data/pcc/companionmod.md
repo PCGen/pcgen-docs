@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "COMPANIONMOD (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#companionmod"
+original_url = "/list/data/pcc.html#companionmod"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "COMPANIONMOD (Data: campaign.pcc)"
+    parent = "pcc"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "LEVELABILITY (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#levelability"
+original_url = "/list/data/startingkits.html#levelability"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "LEVELABILITY (Data: starting_kits.lst)"
+    parent = "startingkits"
 +++
 
 ## Status

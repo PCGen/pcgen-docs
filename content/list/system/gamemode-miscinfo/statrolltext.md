@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "STATROLLTEXT (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#statrolltext"
+original_url = "/list/system/gamemode-miscinfo.html#statrolltext"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "STATROLLTEXT (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

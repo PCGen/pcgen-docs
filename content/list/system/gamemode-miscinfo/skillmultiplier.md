@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SKILLMULTIPLIER (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#skillmultiplier"
+original_url = "/list/system/gamemode-miscinfo.html#skillmultiplier"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "SKILLMULTIPLIER (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

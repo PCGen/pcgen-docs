@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DEFINESTAT (Global: OTHER)"
-original_url = "list/global/other.html#definestat"
+original_url = "/list/global/other.html#definestat"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "DEFINESTAT (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

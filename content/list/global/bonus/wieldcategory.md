@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "WIELDCATEGORY (Global: BONUS)"
-original_url = "list/global/bonus.html#wieldcategory"
+original_url = "/list/global/bonus.html#wieldcategory"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "WIELDCATEGORY (Global: BONUS)"
+    parent = "bonus"
 +++
 
 ## Status

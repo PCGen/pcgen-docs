@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DEFAULTDATASET (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#defaultdataset"
+original_url = "/list/system/gamemode-miscinfo.html#defaultdataset"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "DEFAULTDATASET (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

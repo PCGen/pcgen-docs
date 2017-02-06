@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "RACE (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#race"
+original_url = "/list/data/pcc.html#race"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "RACE (Data: campaign.pcc)"
+    parent = "pcc"
 +++
 
 ## Status

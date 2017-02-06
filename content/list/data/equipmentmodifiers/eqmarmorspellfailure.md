@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "EQMARMORSPELLFAILURE (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#eqmarmorspellfailure"
+original_url = "/list/data/equipmentmodifiers.html#eqmarmorspellfailure"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "EQMARMORSPELLFAILURE (Data: equipment_modifiers.lst)"
+    parent = "equipmentmodifiers"
 +++
 
 ## Status

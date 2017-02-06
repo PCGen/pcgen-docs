@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MODS (Data: equipment.lst)"
-original_url = "list/data/equipment.html#mods"
+original_url = "/list/data/equipment.html#mods"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "MODS (Data: equipment.lst)"
+    parent = "equipment"
 +++
 
 ## Status

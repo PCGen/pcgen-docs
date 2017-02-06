@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "LEVELADJUSTMENT (Data: races.lst)"
-original_url = "list/data/races.html#leveladjustment"
+original_url = "/list/data/races.html#leveladjustment"
 categories = [ "all-tag", "races-tag" ]
+[menu.main]
+    name = "LEVELADJUSTMENT (Data: races.lst)"
+    parent = "races"
 +++
 
 ## Status

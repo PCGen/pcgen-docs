@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DONOTADD (Data: classes.lst)"
-original_url = "list/data/classes.html#donotadd"
+original_url = "/list/data/classes.html#donotadd"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "DONOTADD (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

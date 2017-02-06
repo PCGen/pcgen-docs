@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SORTKEY (Global: OTHER)"
-original_url = "list/global/other.html#sortkey"
+original_url = "/list/global/other.html#sortkey"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "SORTKEY (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

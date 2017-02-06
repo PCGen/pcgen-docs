@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DIESIZES (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#diesizes"
+original_url = "/list/system/gamemode-miscinfo.html#diesizes"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "DIESIZES (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

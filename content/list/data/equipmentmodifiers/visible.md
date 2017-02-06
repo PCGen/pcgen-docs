@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "VISIBLE (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#visible"
+original_url = "/list/data/equipmentmodifiers.html#visible"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "VISIBLE (Data: equipment_modifiers.lst)"
+    parent = "equipmentmodifiers"
 +++
 
 ## Status

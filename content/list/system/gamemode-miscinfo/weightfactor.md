@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "WEIGHTFACTOR (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#weightfactor"
+original_url = "/list/system/gamemode-miscinfo.html#weightfactor"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "WEIGHTFACTOR (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MONCCSKILL (Data: races.lst)"
-original_url = "list/data/races.html#monccskill"
+original_url = "/list/data/races.html#monccskill"
 categories = [ "all-tag", "races-tag" ]
+[menu.main]
+    name = "MONCCSKILL (Data: races.lst)"
+    parent = "races"
 +++
 
 ## Status

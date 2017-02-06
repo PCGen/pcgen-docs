@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "TEMPLATEREMOVE (Global: OTHER)"
-original_url = "list/global/other.html#templateremove"
+original_url = "/list/global/other.html#templateremove"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "TEMPLATEREMOVE (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

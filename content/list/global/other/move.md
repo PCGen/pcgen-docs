@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MOVE (Global: OTHER)"
-original_url = "list/global/other.html#move"
+original_url = "/list/global/other.html#move"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "MOVE (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

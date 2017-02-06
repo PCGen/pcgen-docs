@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CLASS (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#class"
+original_url = "/list/system/biosettings.html#class"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "CLASS (System: bio/biosettings.lst)"
+    parent = "biosettings"
 +++
 
 ## Status

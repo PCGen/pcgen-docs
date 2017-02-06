@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CCSKILL (Global: OTHER)"
-original_url = "list/global/other.html#ccskill"
+original_url = "/list/global/other.html#ccskill"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "CCSKILL (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "HPFORMULA (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#hpformula"
+original_url = "/list/system/gamemode-miscinfo.html#hpformula"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "HPFORMULA (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

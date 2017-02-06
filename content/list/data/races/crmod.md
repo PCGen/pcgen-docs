@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CRMOD (Data: races.lst)"
-original_url = "list/data/races.html#crmod"
+original_url = "/list/data/races.html#crmod"
 categories = [ "all-tag", "races-tag" ]
+[menu.main]
+    name = "CRMOD (Data: races.lst)"
+    parent = "races"
 +++
 
 ## Status

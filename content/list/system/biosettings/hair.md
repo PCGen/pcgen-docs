@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "HAIR (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#hair"
+original_url = "/list/system/biosettings.html#hair"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "HAIR (System: bio/biosettings.lst)"
+    parent = "biosettings"
 +++
 
 ## Status

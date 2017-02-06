@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ALLOWEDMODES (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#allowedmodes"
+original_url = "/list/system/gamemode-miscinfo.html#allowedmodes"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "ALLOWEDMODES (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

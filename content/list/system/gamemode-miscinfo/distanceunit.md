@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DISTANCEUNIT (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#distanceunit"
+original_url = "/list/system/gamemode-miscinfo.html#distanceunit"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "DISTANCEUNIT (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

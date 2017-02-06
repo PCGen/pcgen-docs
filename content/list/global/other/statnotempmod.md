@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "STATNOTEMPMOD (Global: OTHER)"
-original_url = "list/global/other.html#statnotempmod"
+original_url = "/list/global/other.html#statnotempmod"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "STATNOTEMPMOD (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

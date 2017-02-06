@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "BABATTCYC (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#babattcyc"
+original_url = "/list/system/gamemode-miscinfo.html#babattcyc"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "BABATTCYC (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

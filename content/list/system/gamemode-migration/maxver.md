@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MAXVER (Game Mode: migration.lst)"
-original_url = "list/system/gamemode-migration.html#maxver"
+original_url = "/list/system/gamemode-migration.html#maxver"
 categories = [ "all-tag", "gamemode-migration-tag" ]
+[menu.main]
+    name = "MAXVER (Game Mode: migration.lst)"
+    parent = "gamemode-migration"
 +++
 
 ## Status

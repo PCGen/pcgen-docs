@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SOURCEPAGE (Global: OTHER)"
-original_url = "list/global/other.html#sourcepage"
+original_url = "/list/global/other.html#sourcepage"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "SOURCEPAGE (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

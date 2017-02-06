@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "BASEWT (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#basewt"
+original_url = "/list/system/biosettings.html#basewt"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "BASEWT (System: bio/biosettings.lst)"
+    parent = "biosettings"
 +++
 
 ## Status

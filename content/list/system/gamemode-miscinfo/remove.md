@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "REMOVE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#remove"
+original_url = "/list/system/gamemode-miscinfo.html#remove"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "REMOVE (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

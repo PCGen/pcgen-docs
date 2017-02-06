@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "NEWCATEGORY (Game Mode: migration.lst)"
-original_url = "list/system/gamemode-migration.html#newcategory"
+original_url = "/list/system/gamemode-migration.html#newcategory"
 categories = [ "all-tag", "gamemode-migration-tag" ]
+[menu.main]
+    name = "NEWCATEGORY (Game Mode: migration.lst)"
+    parent = "gamemode-migration"
 +++
 
 ## Status

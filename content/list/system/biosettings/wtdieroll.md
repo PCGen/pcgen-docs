@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "WTDIEROLL (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#wtdieroll"
+original_url = "/list/system/biosettings.html#wtdieroll"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "WTDIEROLL (System: bio/biosettings.lst)"
+    parent = "biosettings"
 +++
 
 ## Status

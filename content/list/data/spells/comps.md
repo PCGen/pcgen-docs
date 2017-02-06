@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "COMPS (Data: spells.lst)"
-original_url = "list/data/spells.html#comps"
+original_url = "/list/data/spells.html#comps"
 categories = [ "all-tag", "spells-tag" ]
+[menu.main]
+    name = "COMPS (Data: spells.lst)"
+    parent = "spells"
 +++
 
 ## Status

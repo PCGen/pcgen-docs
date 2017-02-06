@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "VARIANTS (Data: spells.lst)"
-original_url = "list/data/spells.html#variants"
+original_url = "/list/data/spells.html#variants"
 categories = [ "all-tag", "spells-tag" ]
+[menu.main]
+    name = "VARIANTS (Data: spells.lst)"
+    parent = "spells"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SIZE (Global: CHOOSE)"
-original_url = "list/global/choose.html#size"
+original_url = "/list/global/choose.html#size"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "SIZE (Global: CHOOSE)"
+    parent = "choose"
 +++
 
 ## Status

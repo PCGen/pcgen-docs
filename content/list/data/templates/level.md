@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "LEVEL (Data: templates.lst)"
-original_url = "list/data/templates.html#level"
+original_url = "/list/data/templates.html#level"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "LEVEL (Data: templates.lst)"
+    parent = "templates"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "FINESSEABLE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#finesseable"
+original_url = "/list/system/gamemode-miscinfo.html#finesseable"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "FINESSEABLE (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

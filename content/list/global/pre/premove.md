@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PREMOVE (Global: PRErequisite)"
-original_url = "list/global/pre.html#premove"
+original_url = "/list/global/pre.html#premove"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREMOVE (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

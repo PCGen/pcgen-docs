@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SKILLPOOL (Global: BONUS)"
-original_url = "list/global/bonus.html#skillpool"
+original_url = "/list/global/bonus.html#skillpool"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "SKILLPOOL (Global: BONUS)"
+    parent = "bonus"
 +++
 
 ## Status

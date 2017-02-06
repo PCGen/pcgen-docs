@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "COST (Data: feats.lst)"
-original_url = "list/data/feats.html#cost"
+original_url = "/list/data/feats.html#cost"
 categories = [ "all-tag", "feats-tag" ]
+[menu.main]
+    name = "COST (Data: feats.lst)"
+    parent = "feats"
 +++
 
 ## Status

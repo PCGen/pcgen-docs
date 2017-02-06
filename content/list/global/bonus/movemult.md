@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MOVEMULT (Global: BONUS)"
-original_url = "list/global/bonus.html#movemult"
+original_url = "/list/global/bonus.html#movemult"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "MOVEMULT (Global: BONUS)"
+    parent = "bonus"
 +++
 
 ## Status

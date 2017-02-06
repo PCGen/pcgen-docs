@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ALIGN (Data: deities.lst)"
-original_url = "list/data/deities.html#align"
+original_url = "/list/data/deities.html#align"
 categories = [ "all-tag", "deities-tag" ]
+[menu.main]
+    name = "ALIGN (Data: deities.lst)"
+    parent = "deities"
 +++
 
 ## Status

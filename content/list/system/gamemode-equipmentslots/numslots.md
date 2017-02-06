@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "NUMSLOTS (Game Mode: equipmentslots.lst)"
-original_url = "list/system/gamemode-equipmentslots.html#numslots"
+original_url = "/list/system/gamemode-equipmentslots.html#numslots"
 categories = [ "all-tag", "gamemode-equipmentslots-tag" ]
+[menu.main]
+    name = "NUMSLOTS (Game Mode: equipmentslots.lst)"
+    parent = "gamemode-equipmentslots"
 +++
 
 ## Status

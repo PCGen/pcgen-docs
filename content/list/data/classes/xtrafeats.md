@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "XTRAFEATS (Data: classes.lst)"
-original_url = "list/data/classes.html#xtrafeats"
+original_url = "/list/data/classes.html#xtrafeats"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "XTRAFEATS (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

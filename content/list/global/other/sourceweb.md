@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SOURCEWEB (Global: OTHER)"
-original_url = "list/global/other.html#sourceweb"
+original_url = "/list/global/other.html#sourceweb"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "SOURCEWEB (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

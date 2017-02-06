@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PRESKILLMULT (Global: PRErequisite)"
-original_url = "list/global/pre.html#preskillmult"
+original_url = "/list/global/pre.html#preskillmult"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRESKILLMULT (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

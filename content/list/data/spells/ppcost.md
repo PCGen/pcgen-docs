@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PPCOST (Data: spells.lst)"
-original_url = "list/data/spells.html#ppcost"
+original_url = "/list/data/spells.html#ppcost"
 categories = [ "all-tag", "spells-tag" ]
+[menu.main]
+    name = "PPCOST (Data: spells.lst)"
+    parent = "spells"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SPELLLEVEL (Global: OTHER)"
-original_url = "list/global/other.html#spelllevel"
+original_url = "/list/global/other.html#spelllevel"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "SPELLLEVEL (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

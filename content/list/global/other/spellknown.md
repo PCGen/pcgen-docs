@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SPELLKNOWN (Global: OTHER)"
-original_url = "list/global/other.html#spellknown"
+original_url = "/list/global/other.html#spellknown"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "SPELLKNOWN (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

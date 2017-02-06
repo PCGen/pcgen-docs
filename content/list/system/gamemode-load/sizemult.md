@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SIZEMULT (Game Mode: load.lst"
-original_url = "list/system/gamemode-load.html#sizemult"
+original_url = "/list/system/gamemode-load.html#sizemult"
 categories = [ "all-tag", "gamemode-load-tag" ]
+[menu.main]
+    name = "SIZEMULT (Game Mode: load.lst"
+    parent = "gamemode-load"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CURRENCYUNIT (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#currencyunit"
+original_url = "/list/system/gamemode-miscinfo.html#currencyunit"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "CURRENCYUNIT (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

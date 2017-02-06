@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ACCHECK (Data: equipment.lst)"
-original_url = "list/data/equipment.html#accheck"
+original_url = "/list/data/equipment.html#accheck"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "ACCHECK (Data: equipment.lst)"
+    parent = "equipment"
 +++
 
 ## Status

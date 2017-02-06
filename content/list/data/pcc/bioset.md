@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "BIOSET (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#bioset"
+original_url = "/list/data/pcc.html#bioset"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "BIOSET (Data: campaign.pcc)"
+    parent = "pcc"
 +++
 
 ## Status

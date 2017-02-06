@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SHOWCLASSDEFENSE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#showclassdefense"
+original_url = "/list/system/gamemode-miscinfo.html#showclassdefense"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "SHOWCLASSDEFENSE (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

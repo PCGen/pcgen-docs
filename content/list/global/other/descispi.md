@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DESCISPI (Global: OTHER)"
-original_url = "list/global/other.html#descispi"
+original_url = "/list/global/other.html#descispi"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "DESCISPI (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MAXLEVEL (Data: classes.lst)"
-original_url = "list/data/classes.html#maxlevel"
+original_url = "/list/data/classes.html#maxlevel"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "MAXLEVEL (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ATTACKCYCLE (Data: classes.lst)"
-original_url = "list/data/classes.html#attackcycle"
+original_url = "/list/data/classes.html#attackcycle"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "ATTACKCYCLE (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

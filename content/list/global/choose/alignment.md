@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ALIGNMENT (Global: CHOOSE)"
-original_url = "list/global/choose.html#alignment"
+original_url = "/list/global/choose.html#alignment"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "ALIGNMENT (Global: CHOOSE)"
+    parent = "choose"
 +++
 
 ## Status

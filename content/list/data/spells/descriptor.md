@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DESCRIPTOR (Data: spells.lst)"
-original_url = "list/data/spells.html#descriptor"
+original_url = "/list/data/spells.html#descriptor"
 categories = [ "all-tag", "spells-tag" ]
+[menu.main]
+    name = "DESCRIPTOR (Data: spells.lst)"
+    parent = "spells"
 +++
 
 ## Status

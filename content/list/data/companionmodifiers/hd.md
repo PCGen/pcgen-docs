@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "HD (Data: companion_mods.lst)"
-original_url = "list/data/companionmodifiers.html#hd"
+original_url = "/list/data/companionmodifiers.html#hd"
 categories = [ "all-tag", "companionmodifiers-tag" ]
+[menu.main]
+    name = "HD (Data: companion_mods.lst)"
+    parent = "companionmodifiers"
 +++
 
 ## Status

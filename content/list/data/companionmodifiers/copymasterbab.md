@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "COPYMASTERBAB (Data: companion_mods.lst)"
-original_url = "list/data/companionmodifiers.html#copymasterbab"
+original_url = "/list/data/companionmodifiers.html#copymasterbab"
 categories = [ "all-tag", "companionmodifiers-tag" ]
+[menu.main]
+    name = "COPYMASTERBAB (Data: companion_mods.lst)"
+    parent = "companionmodifiers"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "HEIGHTFACTOR (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#heightfactor"
+original_url = "/list/system/gamemode-miscinfo.html#heightfactor"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "HEIGHTFACTOR (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DAMAGEMULT (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#damagemult"
+original_url = "/list/system/gamemode-miscinfo.html#damagemult"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "DAMAGEMULT (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

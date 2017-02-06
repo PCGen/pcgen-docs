@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SIZE (Data: templates.lst)"
-original_url = "list/data/templates.html#size"
+original_url = "/list/data/templates.html#size"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "SIZE (Data: templates.lst)"
+    parent = "templates"
 +++
 
 ## Status

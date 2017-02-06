@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "BENEFIT (Data: abilities.lst)"
-original_url = "list/data/ability.html#benefit"
+original_url = "/list/data/ability.html#benefit"
 categories = [ "all-tag", "ability-tag" ]
+[menu.main]
+    name = "BENEFIT (Data: abilities.lst)"
+    parent = "ability"
 +++
 
 ## Status

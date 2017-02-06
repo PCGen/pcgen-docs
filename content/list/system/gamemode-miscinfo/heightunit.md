@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "HEIGHTUNIT (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#heightunit"
+original_url = "/list/system/gamemode-miscinfo.html#heightunit"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "HEIGHTUNIT (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

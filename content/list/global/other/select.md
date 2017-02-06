@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SELECT (Global: OTHER)"
-original_url = "list/global/other.html#select"
+original_url = "/list/global/other.html#select"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "SELECT (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

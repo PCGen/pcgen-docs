@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MASTERBONUSRACE (Data: companion_mods.lst)"
-original_url = "list/data/companionmodifiers.html#masterbonusrace"
+original_url = "/list/data/companionmodifiers.html#masterbonusrace"
 categories = [ "all-tag", "companionmodifiers-tag" ]
+[menu.main]
+    name = "MASTERBONUSRACE (Data: companion_mods.lst)"
+    parent = "companionmodifiers"
 +++
 
 ## Status

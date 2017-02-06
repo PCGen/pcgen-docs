@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "RANK (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#rank"
+original_url = "/list/data/startingkits.html#rank"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "RANK (Data: starting_kits.lst)"
+    parent = "startingkits"
 +++
 
 ## Status

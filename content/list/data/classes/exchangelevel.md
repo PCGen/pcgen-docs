@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "EXCHANGELEVEL (Data: classes.lst)"
-original_url = "list/data/classes.html#exchangelevel"
+original_url = "/list/data/classes.html#exchangelevel"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "EXCHANGELEVEL (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

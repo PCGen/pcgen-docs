@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "LANGBONUS (Data: classes.lst)"
-original_url = "list/data/classes.html#langbonus"
+original_url = "/list/data/classes.html#langbonus"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "LANGBONUS (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

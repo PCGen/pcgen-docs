@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "TEMPLATECHOOSE (Data: classes.lst)"
-original_url = "list/data/classes.html#templatechoose"
+original_url = "/list/data/classes.html#templatechoose"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "TEMPLATECHOOSE (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

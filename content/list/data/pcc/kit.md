@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "KIT (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#kit"
+original_url = "/list/data/pcc.html#kit"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "KIT (Data: campaign.pcc)"
+    parent = "pcc"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "EQMOD (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#eqmod"
+original_url = "/list/data/startingkits.html#eqmod"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "EQMOD (Data: starting_kits.lst)"
+    parent = "startingkits"
 +++
 
 ## Status

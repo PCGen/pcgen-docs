@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SKILLRANKTEXT (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#skillranktext"
+original_url = "/list/system/gamemode-miscinfo.html#skillranktext"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "SKILLRANKTEXT (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

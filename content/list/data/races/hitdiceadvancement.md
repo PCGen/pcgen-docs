@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "HITDICEADVANCEMENT (Data: races.lst)"
-original_url = "list/data/races.html#hitdiceadvancement"
+original_url = "/list/data/races.html#hitdiceadvancement"
 categories = [ "all-tag", "races-tag" ]
+[menu.main]
+    name = "HITDICEADVANCEMENT (Data: races.lst)"
+    parent = "races"
 +++
 
 ## Status

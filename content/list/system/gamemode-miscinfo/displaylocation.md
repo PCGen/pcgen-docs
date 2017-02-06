@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DISPLAYLOCATION (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#displaylocation"
+original_url = "/list/system/gamemode-miscinfo.html#displaylocation"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "DISPLAYLOCATION (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

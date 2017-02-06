@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "FREE (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#free"
+original_url = "/list/data/startingkits.html#free"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "FREE (Data: starting_kits.lst)"
+    parent = "startingkits"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MEMORIZE (Data: classes.lst)"
-original_url = "list/data/classes.html#memorize"
+original_url = "/list/data/classes.html#memorize"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "MEMORIZE (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

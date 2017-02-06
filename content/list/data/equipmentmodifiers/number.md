@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "NUMBER (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#number"
+original_url = "/list/data/equipmentmodifiers.html#number"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "NUMBER (Data: equipment_modifiers.lst)"
+    parent = "equipmentmodifiers"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "REPEATLEVEL (Data: classes.lst)"
-original_url = "list/data/classes.html#repeatlevel"
+original_url = "/list/data/classes.html#repeatlevel"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "REPEATLEVEL (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

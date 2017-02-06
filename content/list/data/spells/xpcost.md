@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "XPCOST (Data: spells.lst)"
-original_url = "list/data/spells.html#xpcost"
+original_url = "/list/data/spells.html#xpcost"
 categories = [ "all-tag", "spells-tag" ]
+[menu.main]
+    name = "XPCOST (Data: spells.lst)"
+    parent = "spells"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "NUMPAGES (Data: equipment.lst)"
-original_url = "list/data/equipment.html#numpages"
+original_url = "/list/data/equipment.html#numpages"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "NUMPAGES (Data: equipment.lst)"
+    parent = "equipment"
 +++
 
 ## Status

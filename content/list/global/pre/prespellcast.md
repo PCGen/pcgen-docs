@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PRESPELLCAST (Global: PRErequisite)"
-original_url = "list/global/pre.html#prespellcast"
+original_url = "/list/global/pre.html#prespellcast"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRESPELLCAST (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

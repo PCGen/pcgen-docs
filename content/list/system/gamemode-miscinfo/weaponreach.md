@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "WEAPONREACH (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#weaponreach"
+original_url = "/list/system/gamemode-miscinfo.html#weaponreach"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "WEAPONREACH (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

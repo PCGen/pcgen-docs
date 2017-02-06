@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CRITMULT (Data: equipment.lst)"
-original_url = "list/data/equipment.html#critmult"
+original_url = "/list/data/equipment.html#critmult"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "CRITMULT (Data: equipment.lst)"
+    parent = "equipment"
 +++
 
 ## Status

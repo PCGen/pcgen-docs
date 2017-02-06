@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "NATURALATTACKS (Global: OTHER)"
-original_url = "list/global/other.html#naturalattacks"
+original_url = "/list/global/other.html#naturalattacks"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "NATURALATTACKS (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

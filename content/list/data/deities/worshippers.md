@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "WORSHIPPERS (Data: deities.lst)"
-original_url = "list/data/deities.html#worshippers"
+original_url = "/list/data/deities.html#worshippers"
 categories = [ "all-tag", "deities-tag" ]
+[menu.main]
+    name = "WORSHIPPERS (Data: deities.lst)"
+    parent = "deities"
 +++
 
 ## Status

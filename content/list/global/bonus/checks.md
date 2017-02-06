@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CHECKS (Global: BONUS)"
-original_url = "list/global/bonus.html#checks"
+original_url = "/list/global/bonus.html#checks"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "CHECKS (Global: BONUS)"
+    parent = "bonus"
 +++
 
 ## Status

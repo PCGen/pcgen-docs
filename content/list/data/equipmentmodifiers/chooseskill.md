@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CHOOSESKILL (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#chooseskill"
+original_url = "/list/data/equipmentmodifiers.html#chooseskill"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "CHOOSESKILL (Data: equipment_modifiers.lst)"
+    parent = "equipmentmodifiers"
 +++
 
 ## Status

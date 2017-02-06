@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MODIFYFEATCHOICE (Data: feats.lst)"
-original_url = "list/data/feats.html#modifyfeatchoice"
+original_url = "/list/data/feats.html#modifyfeatchoice"
 categories = [ "all-tag", "feats-tag" ]
+[menu.main]
+    name = "MODIFYFEATCHOICE (Data: feats.lst)"
+    parent = "feats"
 +++
 
 ## Status

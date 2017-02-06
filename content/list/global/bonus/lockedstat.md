@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "LOCKEDSTAT (Global: BONUS)"
-original_url = "list/global/bonus.html#lockedstat"
+original_url = "/list/global/bonus.html#lockedstat"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "LOCKEDSTAT (Global: BONUS)"
+    parent = "bonus"
 +++
 
 ## Status

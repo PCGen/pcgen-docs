@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "LOADSTEPMULT (Game Mode: load.lst"
-original_url = "list/system/gamemode-load.html#loadstepmult"
+original_url = "/list/system/gamemode-load.html#loadstepmult"
 categories = [ "all-tag", "gamemode-load-tag" ]
+[menu.main]
+    name = "LOADSTEPMULT (Game Mode: load.lst"
+    parent = "gamemode-load"
 +++
 
 ## Status

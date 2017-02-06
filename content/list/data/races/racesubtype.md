@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "RACESUBTYPE (Data: races.lst)"
-original_url = "list/data/races.html#racesubtype"
+original_url = "/list/data/races.html#racesubtype"
 categories = [ "all-tag", "races-tag" ]
+[menu.main]
+    name = "RACESUBTYPE (Data: races.lst)"
+    parent = "races"
 +++
 
 ## Status

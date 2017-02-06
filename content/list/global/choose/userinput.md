@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "USERINPUT (Global: CHOOSE)"
-original_url = "list/global/choose.html#userinput"
+original_url = "/list/global/choose.html#userinput"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "USERINPUT (Global: CHOOSE)"
+    parent = "choose"
 +++
 
 ## Status

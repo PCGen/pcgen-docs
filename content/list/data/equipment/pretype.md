@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PRETYPE (Data: equipment.lst)"
-original_url = "list/data/equipment.html#pretype"
+original_url = "/list/data/equipment.html#pretype"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "PRETYPE (Data: equipment.lst)"
+    parent = "equipment"
 +++
 
 ## Status

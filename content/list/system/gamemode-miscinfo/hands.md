@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "HANDS (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#hands"
+original_url = "/list/system/gamemode-miscinfo.html#hands"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "HANDS (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "RATEOFFIRE (Data: equipment.lst)"
-original_url = "list/data/equipment.html#rateoffire"
+original_url = "/list/data/equipment.html#rateoffire"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "RATEOFFIRE (Data: equipment.lst)"
+    parent = "equipment"
 +++
 
 ## Status

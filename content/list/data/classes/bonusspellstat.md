@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "BONUSSPELLSTAT (Data: classes.lst)"
-original_url = "list/data/classes.html#bonusspellstat"
+original_url = "/list/data/classes.html#bonusspellstat"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "BONUSSPELLSTAT (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

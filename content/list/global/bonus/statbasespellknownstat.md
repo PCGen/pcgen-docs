@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "STATBASESPELLKNOWNSTAT (Global: BONUS)"
-original_url = "list/global/bonus.html#statbasespellknownstat"
+original_url = "/list/global/bonus.html#statbasespellknownstat"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "STATBASESPELLKNOWNSTAT (Global: BONUS)"
+    parent = "bonus"
 +++
 
 ## Status

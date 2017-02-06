@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PROHIBITSPELL (Data: classes.lst)"
-original_url = "list/data/classes.html#prohibitspell"
+original_url = "/list/data/classes.html#prohibitspell"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "PROHIBITSPELL (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PUBNAMELONG (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#pubnamelong"
+original_url = "/list/data/pcc.html#pubnamelong"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "PUBNAMELONG (Data: campaign.pcc)"
+    parent = "pcc"
 +++
 
 ## Status

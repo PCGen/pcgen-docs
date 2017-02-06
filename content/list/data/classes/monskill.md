@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MONSKILL (Data: classes.lst)"
-original_url = "list/data/classes.html#monskill"
+original_url = "/list/data/classes.html#monskill"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "MONSKILL (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

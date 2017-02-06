@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CONCENTRATION (Global: BONUS)"
-original_url = "list/global/bonus.html#concentration"
+original_url = "/list/global/bonus.html#concentration"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "CONCENTRATION (Global: BONUS)"
+    parent = "bonus"
 +++
 
 ## Status

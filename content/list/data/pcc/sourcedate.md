@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SOURCEDATE (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#sourcedate"
+original_url = "/list/data/pcc.html#sourcedate"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "SOURCEDATE (Data: campaign.pcc)"
+    parent = "pcc"
 +++
 
 ## Status

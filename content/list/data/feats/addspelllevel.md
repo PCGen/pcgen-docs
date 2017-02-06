@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ADDSPELLLEVEL (Data: feats.lst)"
-original_url = "list/data/feats.html#addspelllevel"
+original_url = "/list/data/feats.html#addspelllevel"
 categories = [ "all-tag", "feats-tag" ]
+[menu.main]
+    name = "ADDSPELLLEVEL (Data: feats.lst)"
+    parent = "feats"
 +++
 
 ## Status

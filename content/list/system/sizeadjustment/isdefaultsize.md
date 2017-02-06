@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ISDEFAULTSIZE (System: sizeAdjustment.lst)"
-original_url = "list/system/sizeadjustment.html#isdefaultsize"
+original_url = "/list/system/sizeadjustment.html#isdefaultsize"
 categories = [ "all-tag", "sizeadjustment-tag" ]
+[menu.main]
+    name = "ISDEFAULTSIZE (System: sizeAdjustment.lst)"
+    parent = "sizeadjustment"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "FUMBLERANGE (Data: equipment.lst)"
-original_url = "list/data/equipment.html#fumblerange"
+original_url = "/list/data/equipment.html#fumblerange"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "FUMBLERANGE (Data: equipment.lst)"
+    parent = "equipment"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "WT (Data: equipment.lst)"
-original_url = "list/data/equipment.html#wt"
+original_url = "/list/data/equipment.html#wt"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "WT (Data: equipment.lst)"
+    parent = "equipment"
 +++
 
 ## Status

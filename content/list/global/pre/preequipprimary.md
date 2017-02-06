@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PREEQUIPPRIMARY (Global: PRErequisite)"
-original_url = "list/global/pre.html#preequipprimary"
+original_url = "/list/global/pre.html#preequipprimary"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREEQUIPPRIMARY (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

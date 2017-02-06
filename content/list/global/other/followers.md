@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "FOLLOWERS (Global: OTHER)"
-original_url = "list/global/other.html#followers"
+original_url = "/list/global/other.html#followers"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "FOLLOWERS (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

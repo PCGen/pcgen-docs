@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PRECLASSLEVELMAX (Global: PRErequisite)"
-original_url = "list/global/pre.html#preclasslevelmax"
+original_url = "/list/global/pre.html#preclasslevelmax"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRECLASSLEVELMAX (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

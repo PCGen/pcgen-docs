@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PREPROFWITHSHIELD (Global: PRErequisite)"
-original_url = "list/global/pre.html#preprofwithshield"
+original_url = "/list/global/pre.html#preprofwithshield"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREPROFWITHSHIELD (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

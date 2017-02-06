@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "FORMATCAT (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#formatcat"
+original_url = "/list/data/equipmentmodifiers.html#formatcat"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "FORMATCAT (Data: equipment_modifiers.lst)"
+    parent = "equipmentmodifiers"
 +++
 
 ## Status

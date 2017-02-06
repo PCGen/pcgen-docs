@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ALTDAMAGE (Data: equipment.lst)"
-original_url = "list/data/equipment.html#altdamage"
+original_url = "/list/data/equipment.html#altdamage"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "ALTDAMAGE (Data: equipment.lst)"
+    parent = "equipment"
 +++
 
 ## Status

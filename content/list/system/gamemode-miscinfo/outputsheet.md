@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "OUTPUTSHEET (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#outputsheet"
+original_url = "/list/system/gamemode-miscinfo.html#outputsheet"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "OUTPUTSHEET (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

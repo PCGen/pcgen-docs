@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PANTHEON (Data: deities.lst)"
-original_url = "list/data/deities.html#pantheon"
+original_url = "/list/data/deities.html#pantheon"
 categories = [ "all-tag", "deities-tag" ]
+[menu.main]
+    name = "PANTHEON (Data: deities.lst)"
+    parent = "deities"
 +++
 
 ## Status

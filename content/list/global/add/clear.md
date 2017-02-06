@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CLEAR (Global: ADD)"
-original_url = "list/global/add.html#clear"
+original_url = "/list/global/add.html#clear"
 categories = [ "all-tag", "add-tag" ]
+[menu.main]
+    name = "CLEAR (Global: ADD)"
+    parent = "add"
 +++
 
 ## Status

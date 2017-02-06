@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "EQUIP (Global: ADD)"
-original_url = "list/global/add.html#equip"
+original_url = "/list/global/add.html#equip"
 categories = [ "all-tag", "add-tag" ]
+[menu.main]
+    name = "EQUIP (Global: ADD)"
+    parent = "add"
 +++
 
 ## Status

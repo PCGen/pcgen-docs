@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "DEFINEUNLOCK (Global: OTHER)"
-original_url = "list/global/other.html#defineunlock"
+original_url = "/list/global/other.html#defineunlock"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "DEFINEUNLOCK (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CHARACTERTYPES (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#charactertypes"
+original_url = "/list/system/gamemode-miscinfo.html#charactertypes"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "CHARACTERTYPES (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

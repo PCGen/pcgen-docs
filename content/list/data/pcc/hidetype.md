@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "HIDETYPE (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#hidetype"
+original_url = "/list/data/pcc.html#hidetype"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "HIDETYPE (Data: campaign.pcc)"
+    parent = "pcc"
 +++
 
 ## Status

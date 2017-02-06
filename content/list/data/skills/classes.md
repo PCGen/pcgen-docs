@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CLASSES (Data: skills.lst)"
-original_url = "list/data/skills.html#classes"
+original_url = "/list/data/skills.html#classes"
 categories = [ "all-tag", "skills-tag" ]
+[menu.main]
+    name = "CLASSES (Data: skills.lst)"
+    parent = "skills"
 +++
 
 ## Status

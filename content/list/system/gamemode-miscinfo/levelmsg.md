@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "LEVELMSG (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#levelmsg"
+original_url = "/list/system/gamemode-miscinfo.html#levelmsg"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "LEVELMSG (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "RANGEPENALTY (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#rangepenalty"
+original_url = "/list/system/gamemode-miscinfo.html#rangepenalty"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "RANGEPENALTY (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

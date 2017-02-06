@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "FAVCLASS (Data: races.lst)"
-original_url = "list/data/races.html#favclass"
+original_url = "/list/data/races.html#favclass"
 categories = [ "all-tag", "races-tag" ]
+[menu.main]
+    name = "FAVCLASS (Data: races.lst)"
+    parent = "races"
 +++
 
 ## Status

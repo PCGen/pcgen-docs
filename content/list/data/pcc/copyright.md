@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "COPYRIGHT (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#copyright"
+original_url = "/list/data/pcc.html#copyright"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "COPYRIGHT (Data: campaign.pcc)"
+    parent = "pcc"
 +++
 
 ## Status

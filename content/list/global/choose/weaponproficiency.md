@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "WEAPONPROFICIENCY (Global: CHOOSE)"
-original_url = "list/global/choose.html#weaponproficiency"
+original_url = "/list/global/choose.html#weaponproficiency"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "WEAPONPROFICIENCY (Global: CHOOSE)"
+    parent = "choose"
 +++
 
 ## Status

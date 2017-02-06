@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "VISIBLE (Data: classes.lst)"
-original_url = "list/data/classes.html#visible"
+original_url = "/list/data/classes.html#visible"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "VISIBLE (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

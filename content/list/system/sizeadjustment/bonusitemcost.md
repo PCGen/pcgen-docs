@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "BONUSITEMCOST (System: sizeAdjustment.lst)"
-original_url = "list/system/sizeadjustment.html#bonusitemcost"
+original_url = "/list/system/sizeadjustment.html#bonusitemcost"
 categories = [ "all-tag", "sizeadjustment-tag" ]
+[menu.main]
+    name = "BONUSITEMCOST (System: sizeAdjustment.lst)"
+    parent = "sizeadjustment"
 +++
 
 ## Status

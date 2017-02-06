@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PRETOTALAB (Global: PRErequisite)"
-original_url = "list/global/pre.html#pretotalab"
+original_url = "/list/global/pre.html#pretotalab"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRETOTALAB (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

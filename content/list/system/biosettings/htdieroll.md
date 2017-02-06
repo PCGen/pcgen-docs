@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "HTDIEROLL (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#htdieroll"
+original_url = "/list/system/biosettings.html#htdieroll"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "HTDIEROLL (System: bio/biosettings.lst)"
+    parent = "biosettings"
 +++
 
 ## Status

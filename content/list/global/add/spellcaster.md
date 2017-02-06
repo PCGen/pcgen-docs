@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SPELLCASTER (Global: ADD)"
-original_url = "list/global/add.html#spellcaster"
+original_url = "/list/global/add.html#spellcaster"
 categories = [ "all-tag", "add-tag" ]
+[menu.main]
+    name = "SPELLCASTER (Global: ADD)"
+    parent = "add"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ABB (System: sizeAdjustment.lst)"
-original_url = "list/system/sizeadjustment.html#abb"
+original_url = "/list/system/sizeadjustment.html#abb"
 categories = [ "all-tag", "sizeadjustment-tag" ]
+[menu.main]
+    name = "ABB (System: sizeAdjustment.lst)"
+    parent = "sizeadjustment"
 +++
 
 ## Status

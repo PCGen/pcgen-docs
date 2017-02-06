@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "NAMEOPT (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#nameopt"
+original_url = "/list/data/equipmentmodifiers.html#nameopt"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "NAMEOPT (Data: equipment_modifiers.lst)"
+    parent = "equipmentmodifiers"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "SYMBOL (Data: deities.lst)"
-original_url = "list/data/deities.html#symbol"
+original_url = "/list/data/deities.html#symbol"
 categories = [ "all-tag", "deities-tag" ]
+[menu.main]
+    name = "SYMBOL (Data: deities.lst)"
+    parent = "deities"
 +++
 
 ## Status

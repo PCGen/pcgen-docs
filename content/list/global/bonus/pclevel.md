@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PCLEVEL (Global: BONUS)"
-original_url = "list/global/bonus.html#pclevel"
+original_url = "/list/global/bonus.html#pclevel"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "PCLEVEL (Global: BONUS)"
+    parent = "bonus"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "OUTPUTNAME (Global: OTHER)"
-original_url = "list/global/other.html#outputname"
+original_url = "/list/global/other.html#outputname"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "OUTPUTNAME (Global: OTHER)"
+    parent = "other"
 +++
 
 ## Status

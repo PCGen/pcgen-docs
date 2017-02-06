@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "MODIFIER (Game Mode: load.lst"
-original_url = "list/system/gamemode-load.html#modifier"
+original_url = "/list/system/gamemode-load.html#modifier"
 categories = [ "all-tag", "gamemode-load-tag" ]
+[menu.main]
+    name = "MODIFIER (Game Mode: load.lst"
+    parent = "gamemode-load"
 +++
 
 ## Status

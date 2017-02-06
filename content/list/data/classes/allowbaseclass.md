@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "ALLOWBASECLASS (Data: classes.lst)"
-original_url = "list/data/classes.html#allowbaseclass"
+original_url = "/list/data/classes.html#allowbaseclass"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "ALLOWBASECLASS (Data: classes.lst)"
+    parent = "classes"
 +++
 
 ## Status

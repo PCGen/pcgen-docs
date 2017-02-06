@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CRTHRESHOLD (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#crthreshold"
+original_url = "/list/system/gamemode-miscinfo.html#crthreshold"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "CRTHRESHOLD (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

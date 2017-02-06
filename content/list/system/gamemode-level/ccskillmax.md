@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "CCSKILLMAX (Game Mode: level.lst)"
-original_url = "list/system/gamemode-level.html#ccskillmax"
+original_url = "/list/system/gamemode-level.html#ccskillmax"
 categories = [ "all-tag", "gamemode-level-tag" ]
+[menu.main]
+    name = "CCSKILLMAX (Game Mode: level.lst)"
+    parent = "gamemode-level"
 +++
 
 ## Status

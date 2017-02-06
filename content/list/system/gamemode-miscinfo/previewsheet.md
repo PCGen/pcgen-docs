@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PREVIEWSHEET (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#previewsheet"
+original_url = "/list/system/gamemode-miscinfo.html#previewsheet"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "PREVIEWSHEET (Game Mode: miscinfo.lst)"
+    parent = "gamemode-miscinfo"
 +++
 
 ## Status

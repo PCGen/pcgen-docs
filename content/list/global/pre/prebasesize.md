@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "PREBASESIZE (Global: PRErequisite)"
-original_url = "list/global/pre.html#prebasesize"
+original_url = "/list/global/pre.html#prebasesize"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREBASESIZE (Global: PRErequisite)"
+    parent = "pre"
 +++
 
 ## Status

@@ -1,8 +1,11 @@
 +++
 date = "2016-08-01"
 title = "HANDS (Data: templates.lst)"
-original_url = "list/data/templates.html#hands"
+original_url = "/list/data/templates.html#hands"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "HANDS (Data: templates.lst)"
+    parent = "templates"
 +++
 
 ## Status
