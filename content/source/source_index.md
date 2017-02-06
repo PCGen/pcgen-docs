@@ -4,10 +4,8 @@ title = "Index : PCGen Source Help"
 original_url = "/source/index.html"
 
 [menu.main]
-    identifier = "source_index"
+    identifier = "source"
     name = "Index : PCGen Source Help"
-    parent = "source"
-        weight = -1
 +++
 This section will provide information on how to use specific datasets.
 It is not intended to detail every aspect of the dataset but is

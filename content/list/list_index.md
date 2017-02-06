@@ -4,9 +4,8 @@ title = "Index : List File Main"
 original_url = "/list/index.html"
 
 [menu.main]
-    identifier = "list_index"
+    identifier = "list"
     name = "Index : List File Main"
-    parent = "list"
         weight = -1
 +++
 List file editing can be a daunting task, so many tags, what tags to
