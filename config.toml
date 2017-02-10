@@ -17,7 +17,6 @@ uglyURLs = "true"
     # Show hugo version in footer: "Generated with ♥ by Hugo 0.19-DEV"
     show_hugo = true
     edit_url_base = "https://github.com/LiaungYip/pcgen-docs/edit/master/content/"
-    show_last_modified_time = true
 
 # -----------------------------------------------------------------------------
 
