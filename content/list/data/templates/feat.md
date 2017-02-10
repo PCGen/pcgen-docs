@@ -4,9 +4,9 @@ title = "TEMPLATES (Data: templates.lst)"
 original_url = "/list/data/templates.html"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "TEMPLATES"
+    name = "FEAT"
     parent = "data_templates"
-    identifier = "data_templates_TEMPLATES"
+    identifier = "data_templates_FEAT"
 +++
 
 ## Status
