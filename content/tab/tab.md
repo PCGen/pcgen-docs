@@ -7,7 +7,7 @@ original_url = "/tab/index.html"
     identifier = "tab"
     name = "Tabs"
     parent = ""
-        weight = -1
+    weight = 60
 +++
 ![Tab Options](../images/tabs/tabscommonfeatures.png)
 

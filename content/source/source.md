@@ -6,6 +6,7 @@ original_url = "/source/index.html"
 [menu.main]
     identifier = "source"
     name = "PCGen Source Help"
+    weight = 70
 +++
 This section will provide information on how to use specific datasets.
 It is not intended to detail every aspect of the dataset but is

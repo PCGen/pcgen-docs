@@ -7,7 +7,7 @@ original_url = "/faq/index.html"
     identifier = "faq"
     name = "The PCGen FAQ"
     parent = ""
-        weight = -1
+    weight = 110
 +++
 Welcome to the FAQ for the PCGen from the PCGen Team. Here we'll try to
 answer some of the questions that appear most often from PCGen users!

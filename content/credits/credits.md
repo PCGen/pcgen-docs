@@ -7,7 +7,7 @@ original_url = "/credits/index.html"
     identifier = "credits"
     name = "Acknowledgments"
     parent = ""
-        weight = -1
+    weight = 120
 +++
 This section will give credit to all the people who have helped make
 PCGen what it is today.

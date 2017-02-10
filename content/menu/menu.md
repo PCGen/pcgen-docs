@@ -7,7 +7,7 @@ original_url = "/menu/index.html"
     identifier = "menu"
     name = "Menu Options"
     parent = ""
-        weight = -1
+    weight = 50
 +++
 ![Menu Options](../images/menus/menu_menubar.png)
 

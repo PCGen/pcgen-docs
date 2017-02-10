@@ -7,7 +7,7 @@ original_url = "/freemarker/index.html"
     identifier = "freemarker"
     name = "FreeMarker Output Support"
     parent = ""
-        weight = -1
+    weight = 100
 +++
 Starting from version 6.03.00, PCGen has introduced support for the
 [FreeMarker](http://freemarker.org/) template engine. FreeMarker is a

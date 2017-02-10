@@ -7,7 +7,7 @@ original_url = "/outputsheet/index.html"
     identifier = "outputsheet"
     name = "Character Output Sheets"
     parent = ""
-        weight = -1
+    weight = 90
 +++
 The most important aspect of any character generator is the final
 output, without that the program would be pretty useless.

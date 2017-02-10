@@ -7,7 +7,7 @@ original_url = "/walkthrough/index.html"
     identifier = "walkthrough"
     name = "Character Creation Walkthrough"
     parent = ""
-        weight = -1
+    weight = 40
 +++
 General Note
 ------------

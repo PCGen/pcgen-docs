@@ -6,7 +6,7 @@ original_url = "/list/index.html"
 [menu.main]
     identifier = "list"
     name = "List File Main"
-        weight = -1
+    weight = 80
 +++
 List file editing can be a daunting task, so many tags, what tags to
 use, where to use them!  Well, in the sections that follow, we reveal

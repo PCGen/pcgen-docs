@@ -7,7 +7,7 @@ original_url = "/installation/index.html"
     identifier = "installation"
     name = "Installation of Java and PCGen"
     parent = ""
-        weight = -1
+    weight = 30
 +++
 The following sections describe how to install Java and PCGen Manually
 for PC, Macintosh, and the UNIX and Linux varieties.
