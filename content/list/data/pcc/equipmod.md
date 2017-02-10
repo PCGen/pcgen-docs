@@ -6,6 +6,7 @@ categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
     name = "EQUIPMOD"
     parent = "data_pcc"
+    identifier = "data_pcc_EQUIPMOD"
 +++
 
 ## Status

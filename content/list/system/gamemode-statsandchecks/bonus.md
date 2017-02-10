@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
 [menu.main]
     name = "BONUS"
     parent = "system_gamemode-statsandchecks"
+    identifier = "system_gamemode-statsandchecks_BONUS"
 +++
 
 ## Status

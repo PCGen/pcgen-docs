@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-load-tag" ]
 [menu.main]
     name = "SIZEMULT (Game Mode: load.lst"
     parent = "system_gamemode-load"
+    identifier = "system_gamemode-load_SIZEMULT (Game Mode: load.lst"
 +++
 
 ## Status

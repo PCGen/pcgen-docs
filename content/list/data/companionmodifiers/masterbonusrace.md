@@ -6,6 +6,7 @@ categories = [ "all-tag", "companionmodifiers-tag" ]
 [menu.main]
     name = "MASTERBONUSRACE"
     parent = "data_companionmodifiers"
+    identifier = "data_companionmodifiers_MASTERBONUSRACE"
 +++
 
 ## Status

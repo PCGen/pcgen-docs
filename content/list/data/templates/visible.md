@@ -6,6 +6,7 @@ categories = [ "all-tag", "templates-tag" ]
 [menu.main]
     name = "VISIBLE"
     parent = "data_templates"
+    identifier = "data_templates_VISIBLE"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
     name = "CLASS"
     parent = "system_biosettings"
+    identifier = "system_biosettings_CLASS"
 +++
 
 ## Status

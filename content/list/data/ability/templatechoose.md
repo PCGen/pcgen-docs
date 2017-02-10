@@ -6,6 +6,7 @@ categories = [ "all-tag", "ability-tag" ]
 [menu.main]
     name = "TEMPLATECHOOSE"
     parent = "data_ability"
+    identifier = "data_ability_TEMPLATECHOOSE"
 +++
 
 ## Status

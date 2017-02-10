@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
     name = "HPNAME"
     parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_HPNAME"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-equipmentslots-tag" ]
 [menu.main]
     name = "EQSLOT"
     parent = "system_gamemode-equipmentslots"
+    identifier = "system_gamemode-equipmentslots_EQSLOT"
 +++
 
 ## Status

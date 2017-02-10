@@ -6,6 +6,7 @@ categories = [ "all-tag", "ability-tag" ]
 [menu.main]
     name = "MULT"
     parent = "data_ability"
+    identifier = "data_ability_MULT"
 +++
 
 ## Status

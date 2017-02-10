@@ -6,6 +6,7 @@ categories = [ "all-tag", "classes-tag" ]
 [menu.main]
     name = "EXCLASS"
     parent = "data_classes"
+    identifier = "data_classes_EXCLASS"
 +++
 
 ## Status

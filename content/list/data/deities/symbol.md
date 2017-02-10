@@ -6,6 +6,7 @@ categories = [ "all-tag", "deities-tag" ]
 [menu.main]
     name = "SYMBOL"
     parent = "data_deities"
+    identifier = "data_deities_SYMBOL"
 +++
 
 ## Status

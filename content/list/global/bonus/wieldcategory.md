@@ -6,6 +6,7 @@ categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
     name = "WIELDCATEGORY"
     parent = "global_bonus"
+    identifier = "global_bonus_WIELDCATEGORY"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "abilitycategory-tag" ]
 [menu.main]
     name = "ABILITYCATEGORY"
     parent = "data_abilitycategory"
+    identifier = "data_abilitycategory_ABILITYCATEGORY"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-migration-tag" ]
 [menu.main]
     name = "EQUIPMENT"
     parent = "system_gamemode-migration"
+    identifier = "system_gamemode-migration_EQUIPMENT"
 +++
 
 ## Status

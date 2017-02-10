@@ -6,6 +6,7 @@ categories = [ "all-tag", "pre-tag" ]
 [menu.main]
     name = "PREAPPLY"
     parent = "global_pre"
+    identifier = "global_pre_PREAPPLY"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "feats-tag" ]
 [menu.main]
     name = "VISIBLE"
     parent = "data_feats"
+    identifier = "data_feats_VISIBLE"
 +++
 
 ## Status

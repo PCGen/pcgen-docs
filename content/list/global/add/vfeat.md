@@ -6,6 +6,7 @@ categories = [ "all-tag", "add-tag" ]
 [menu.main]
     name = "VFEAT"
     parent = "global_add"
+    identifier = "global_add_VFEAT"
 +++
 
 ## Status

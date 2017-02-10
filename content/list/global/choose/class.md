@@ -6,6 +6,7 @@ categories = [ "all-tag", "choose-tag" ]
 [menu.main]
     name = "CLASS"
     parent = "global_choose"
+    identifier = "global_choose_CLASS"
 +++
 
 ## Status

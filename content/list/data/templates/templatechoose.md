@@ -6,6 +6,7 @@ categories = [ "all-tag", "templates-tag" ]
 [menu.main]
     name = "TEMPLATECHOOSE"
     parent = "data_templates"
+    identifier = "data_templates_TEMPLATECHOOSE"
 +++
 
 ## Status

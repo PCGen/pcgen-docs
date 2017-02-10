@@ -6,6 +6,7 @@ categories = [ "all-tag", "pre-tag" ]
 [menu.main]
     name = "PREEQUIPSECONDARY"
     parent = "global_pre"
+    identifier = "global_pre_PREEQUIPSECONDARY"
 +++
 
 ## Status

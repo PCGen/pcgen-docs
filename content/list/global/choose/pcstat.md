@@ -6,6 +6,7 @@ categories = [ "all-tag", "choose-tag" ]
 [menu.main]
     name = "PCSTAT"
     parent = "global_choose"
+    identifier = "global_choose_PCSTAT"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "companionmodifiers-tag" ]
 [menu.main]
     name = "HD"
     parent = "data_companionmodifiers"
+    identifier = "data_companionmodifiers_HD"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
     name = "EQMARMORMAXDEX"
     parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_EQMARMORMAXDEX"
 +++
 
 ## Status

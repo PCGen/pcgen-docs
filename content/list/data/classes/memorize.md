@@ -6,6 +6,7 @@ categories = [ "all-tag", "classes-tag" ]
 [menu.main]
     name = "MEMORIZE"
     parent = "data_classes"
+    identifier = "data_classes_MEMORIZE"
 +++
 
 ## Status

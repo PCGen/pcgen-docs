@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-equipmentslots-tag" ]
 [menu.main]
     name = "NUMBER"
     parent = "system_gamemode-equipmentslots"
+    identifier = "system_gamemode-equipmentslots_NUMBER"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "startingkits-tag" ]
 [menu.main]
     name = "ALIGN"
     parent = "data_startingkits"
+    identifier = "data_startingkits_ALIGN"
 +++
 
 ## Status

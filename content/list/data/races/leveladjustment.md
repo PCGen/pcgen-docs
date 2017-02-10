@@ -6,6 +6,7 @@ categories = [ "all-tag", "races-tag" ]
 [menu.main]
     name = "LEVELADJUSTMENT"
     parent = "data_races"
+    identifier = "data_races_LEVELADJUSTMENT"
 +++
 
 ## Status

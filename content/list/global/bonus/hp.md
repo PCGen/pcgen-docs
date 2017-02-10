@@ -6,6 +6,7 @@ categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
     name = "HP"
     parent = "global_bonus"
+    identifier = "global_bonus_HP"
 +++
 
 ## Status

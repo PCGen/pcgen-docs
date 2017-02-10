@@ -6,6 +6,7 @@ categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
     name = "GAMEMODE"
     parent = "data_pcc"
+    identifier = "data_pcc_GAMEMODE"
 +++
 
 ## Status

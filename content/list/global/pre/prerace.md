@@ -6,6 +6,7 @@ categories = [ "all-tag", "pre-tag" ]
 [menu.main]
     name = "PRERACE"
     parent = "global_pre"
+    identifier = "global_pre_PRERACE"
 +++
 
 ## Status

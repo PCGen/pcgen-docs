@@ -6,6 +6,7 @@ categories = [ "all-tag", "other-tag" ]
 [menu.main]
     name = "AUTOWEAPONPROF"
     parent = "global_other"
+    identifier = "global_other_AUTOWEAPONPROF"
 +++
 
 ## Status

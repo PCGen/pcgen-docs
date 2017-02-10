@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
     name = "REMOVE"
     parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_REMOVE"
 +++
 
 ## Status

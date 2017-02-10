@@ -6,6 +6,7 @@ categories = [ "all-tag", "pre-tag" ]
 [menu.main]
     name = "PRECHARACTERTYPE"
     parent = "global_pre"
+    identifier = "global_pre_PRECHARACTERTYPE"
 +++
 
 ## Status

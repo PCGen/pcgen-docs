@@ -6,6 +6,7 @@ categories = [ "all-tag", "choose-tag" ]
 [menu.main]
     name = "SPELLLEVEL"
     parent = "global_choose"
+    identifier = "global_choose_SPELLLEVEL"
 +++
 
 ## Status

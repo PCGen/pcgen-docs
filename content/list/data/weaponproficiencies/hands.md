@@ -6,6 +6,7 @@ categories = [ "all-tag", "weaponproficiencies-tag" ]
 [menu.main]
     name = "HANDS"
     parent = "data_weaponproficiencies"
+    identifier = "data_weaponproficiencies_HANDS"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "pre-tag" ]
 [menu.main]
     name = "PRESPELLSCHOOL"
     parent = "global_pre"
+    identifier = "global_pre_PRESPELLSCHOOL"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "add-tag" ]
 [menu.main]
     name = "LANGUAGE"
     parent = "global_add"
+    identifier = "global_add_LANGUAGE"
 +++
 
 ## Status

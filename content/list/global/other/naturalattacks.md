@@ -6,6 +6,7 @@ categories = [ "all-tag", "other-tag" ]
 [menu.main]
     name = "NATURALATTACKS"
     parent = "global_other"
+    identifier = "global_other_NATURALATTACKS"
 +++
 
 ## Status

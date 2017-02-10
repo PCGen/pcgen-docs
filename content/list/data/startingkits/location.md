@@ -6,6 +6,7 @@ categories = [ "all-tag", "startingkits-tag" ]
 [menu.main]
     name = "LOCATION"
     parent = "data_startingkits"
+    identifier = "data_startingkits_LOCATION"
 +++
 
 ## Status

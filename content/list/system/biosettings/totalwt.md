@@ -6,6 +6,7 @@ categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
     name = "TOTALWT"
     parent = "system_biosettings"
+    identifier = "system_biosettings_TOTALWT"
 +++
 
 ## Status

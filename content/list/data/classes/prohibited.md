@@ -6,6 +6,7 @@ categories = [ "all-tag", "classes-tag" ]
 [menu.main]
     name = "PROHIBITED"
     parent = "data_classes"
+    identifier = "data_classes_PROHIBITED"
 +++
 
 ## Status

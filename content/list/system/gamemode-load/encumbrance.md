@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-load-tag" ]
 [menu.main]
     name = "ENCUMBRANCE (Game Mode: load.lst"
     parent = "system_gamemode-load"
+    identifier = "system_gamemode-load_ENCUMBRANCE (Game Mode: load.lst"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
     name = "SPROP"
     parent = "data_equipment"
+    identifier = "data_equipment_SPROP"
 +++
 
 ## Status

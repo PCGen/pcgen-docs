@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-level-tag" ]
 [menu.main]
     name = "MINXP"
     parent = "system_gamemode-level"
+    identifier = "system_gamemode-level_MINXP"
 +++
 
 ## Status

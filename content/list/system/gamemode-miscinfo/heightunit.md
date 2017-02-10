@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
     name = "HEIGHTUNIT"
     parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_HEIGHTUNIT"
 +++
 
 ## Status

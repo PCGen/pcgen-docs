@@ -6,6 +6,7 @@ categories = [ "all-tag", "add-tag" ]
 [menu.main]
     name = "CLEAR"
     parent = "global_add"
+    identifier = "global_add_CLEAR"
 +++
 
 ## Status

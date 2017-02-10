@@ -6,6 +6,7 @@ categories = [ "all-tag", "spells-tag" ]
 [menu.main]
     name = "DOMAINS"
     parent = "data_spells"
+    identifier = "data_spells_DOMAINS"
 +++
 
 ## Status

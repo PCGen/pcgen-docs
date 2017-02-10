@@ -6,6 +6,7 @@ categories = [ "all-tag", "races-tag" ]
 [menu.main]
     name = "ROLE"
     parent = "data_races"
+    identifier = "data_races_ROLE"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-migration-tag" ]
 [menu.main]
     name = "SOURCE"
     parent = "system_gamemode-migration"
+    identifier = "system_gamemode-migration_SOURCE"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "templates-tag" ]
 [menu.main]
     name = "HANDS"
     parent = "data_templates"
+    identifier = "data_templates_HANDS"
 +++
 
 ## Status

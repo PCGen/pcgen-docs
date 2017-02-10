@@ -6,6 +6,7 @@ categories = [ "all-tag", "templates-tag" ]
 [menu.main]
     name = "CR"
     parent = "data_templates"
+    identifier = "data_templates_CR"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-load-tag" ]
 [menu.main]
     name = "LOADMULT (Game Mode: load.lst"
     parent = "system_gamemode-load"
+    identifier = "system_gamemode-load_LOADMULT (Game Mode: load.lst"
 +++
 
 ## Status

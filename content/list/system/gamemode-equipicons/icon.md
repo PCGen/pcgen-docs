@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-equipicons-tag" ]
 [menu.main]
     name = "ICON"
     parent = "system_gamemode-equipicons"
+    identifier = "system_gamemode-equipicons_ICON"
 +++
 
 ## Status

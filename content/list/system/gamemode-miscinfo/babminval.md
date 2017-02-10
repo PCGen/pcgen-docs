@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
     name = "BABMINVAL"
     parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_BABMINVAL"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "domains-tag" ]
 [menu.main]
     name = "FEAT"
     parent = "data_domains"
+    identifier = "data_domains_FEAT"
 +++
 
 ## Status

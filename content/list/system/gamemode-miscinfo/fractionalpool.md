@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
     name = "FRACTIONALPOOL"
     parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_FRACTIONALPOOL"
 +++
 
 ## Status

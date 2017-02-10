@@ -6,6 +6,7 @@ categories = [ "all-tag", "install-tag" ]
 [menu.main]
     name = "MINVER"
     parent = "data_install"
+    identifier = "data_install_MINVER"
 +++
 
 ## Status

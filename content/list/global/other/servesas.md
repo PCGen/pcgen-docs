@@ -6,6 +6,7 @@ categories = [ "all-tag", "other-tag" ]
 [menu.main]
     name = "SERVESAS"
     parent = "global_other"
+    identifier = "global_other_SERVESAS"
 +++
 
 ## Status

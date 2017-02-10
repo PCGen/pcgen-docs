@@ -6,6 +6,7 @@ categories = [ "all-tag", "spells-tag" ]
 [menu.main]
     name = "SPELLRES"
     parent = "data_spells"
+    identifier = "data_spells_SPELLRES"
 +++
 
 ## Status

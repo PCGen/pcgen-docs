@@ -6,6 +6,7 @@ categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
     name = "SIZEMOD"
     parent = "global_bonus"
+    identifier = "global_bonus_SIZEMOD"
 +++
 
 ## Status

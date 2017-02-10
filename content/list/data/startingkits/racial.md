@@ -6,6 +6,7 @@ categories = [ "all-tag", "startingkits-tag" ]
 [menu.main]
     name = "RACIAL"
     parent = "data_startingkits"
+    identifier = "data_startingkits_RACIAL"
 +++
 
 ## Status

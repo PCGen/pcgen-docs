@@ -6,6 +6,7 @@ categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
     name = "EQMWEAPONRANGEMULT"
     parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_EQMWEAPONRANGEMULT"
 +++
 
 ## Status

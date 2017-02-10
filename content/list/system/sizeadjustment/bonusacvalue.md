@@ -6,6 +6,7 @@ categories = [ "all-tag", "sizeadjustment-tag" ]
 [menu.main]
     name = "BONUSACVALUE"
     parent = "system_sizeadjustment"
+    identifier = "system_sizeadjustment_BONUSACVALUE"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "gamemode-migration-tag" ]
 [menu.main]
     name = "MAXDEVVER"
     parent = "system_gamemode-migration"
+    identifier = "system_gamemode-migration_MAXDEVVER"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "choose-tag" ]
 [menu.main]
     name = "FEAT2"
     parent = "global_choose"
+    identifier = "global_choose_FEAT2"
 +++
 
 ## Status

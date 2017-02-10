@@ -6,6 +6,7 @@ categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
     name = "UDAM"
     parent = "global_bonus"
+    identifier = "global_bonus_UDAM"
 +++
 
 ## Status

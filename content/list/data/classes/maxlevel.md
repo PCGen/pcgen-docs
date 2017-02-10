@@ -6,6 +6,7 @@ categories = [ "all-tag", "classes-tag" ]
 [menu.main]
     name = "MAXLEVEL"
     parent = "data_classes"
+    identifier = "data_classes_MAXLEVEL"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "ability-tag" ]
 [menu.main]
     name = "BENEFIT"
     parent = "data_ability"
+    identifier = "data_ability_BENEFIT"
 +++
 
 ## Status

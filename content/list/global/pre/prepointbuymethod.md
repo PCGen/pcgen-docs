@@ -6,6 +6,7 @@ categories = [ "all-tag", "pre-tag" ]
 [menu.main]
     name = "PREPOINTBUYMETHOD"
     parent = "global_pre"
+    identifier = "global_pre_PREPOINTBUYMETHOD"
 +++
 
 ## Status

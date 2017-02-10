@@ -6,6 +6,7 @@ categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
     name = "RANGEADD"
     parent = "global_bonus"
+    identifier = "global_bonus_RANGEADD"
 +++
 
 ## Status

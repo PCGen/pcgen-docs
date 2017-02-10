@@ -6,6 +6,7 @@ categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
     name = "CLASS"
     parent = "data_pcc"
+    identifier = "data_pcc_CLASS"
 +++
 
 ## Status

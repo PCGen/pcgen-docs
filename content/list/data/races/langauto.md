@@ -6,6 +6,7 @@ categories = [ "all-tag", "races-tag" ]
 [menu.main]
     name = "LANGAUTO"
     parent = "data_races"
+    identifier = "data_races_LANGAUTO"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "pre-tag" ]
 [menu.main]
     name = "PRECAMPAIGN"
     parent = "global_pre"
+    identifier = "global_pre_PRECAMPAIGN"
 +++
 
 ## Status

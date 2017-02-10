@@ -6,6 +6,7 @@ categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
     name = "ABILITY"
     parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_ABILITY"
 +++
 
 ## Status

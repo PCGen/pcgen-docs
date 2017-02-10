@@ -6,6 +6,7 @@ categories = [ "all-tag", "startingkits-tag" ]
 [menu.main]
     name = "TOTALCOST"
     parent = "data_startingkits"
+    identifier = "data_startingkits_TOTALCOST"
 +++
 
 ## Status

@@ -6,6 +6,7 @@ categories = [ "all-tag", "skills-tag" ]
 [menu.main]
     name = "ACHECK"
     parent = "data_skills"
+    identifier = "data_skills_ACHECK"
 +++
 
 ## Status

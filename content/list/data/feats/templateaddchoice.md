@@ -6,6 +6,7 @@ categories = [ "all-tag", "feats-tag" ]
 [menu.main]
     name = "TEMPLATEADDCHOICE"
     parent = "data_feats"
+    identifier = "data_feats_TEMPLATEADDCHOICE"
 +++
 
 ## Status
