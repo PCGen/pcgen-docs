@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Edit Menu Options"
+title = "Edit Menu Options"
 original_url = "/menu/edit/index.html"
 
 [menu.main]
-    identifier = "edit_index"
-    name = "Index : Edit Menu Options"
-    parent = "edit"
+    identifier = "edit"
+    name = "Edit Menu Options"
+    parent = "menu"
         weight = -1
 +++
 ![Edit Menu Options](../../images/menus/edit/menu_edit_0.png)

@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Settings Menu Options"
+title = "Settings Menu Options"
 original_url = "/menu/settings/index.html"
 
 [menu.main]
-    identifier = "settings_index"
-    name = "Index : Settings Menu Options"
-    parent = "settings"
+    identifier = "settings"
+    name = "Settings Menu Options"
+    parent = "menu"
         weight = -1
 +++
 ![Settings Menu Options](../../images/menus/settings.png)

@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Game Rules Implementation Guide"
+title = "Game Rules Implementation Guide"
 original_url = "/list/rules-guide/index.html"
 
 [menu.main]
-    identifier = "rules-guide_index"
-    name = "Index : Game Rules Implementation Guide"
-    parent = "rules-guide"
+    identifier = "rules-guide"
+    name = "Game Rules Implementation Guide"
+    parent = "list"
         weight = -1
 +++
 The Game Rules Implementation Guide provides a series of rules

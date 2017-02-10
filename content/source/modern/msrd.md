@@ -4,9 +4,9 @@ title = "Modern System Reference Document help file"
 original_url = "/source/modern/msrd.html"
 
 [menu.main]
-    identifier = "modern_msrd"
+    identifier = "modern"
     name = "Modern System Reference Document help file"
-    parent = "modern"
+    parent = "source"
     
 +++
 **Game Mode: Modern**

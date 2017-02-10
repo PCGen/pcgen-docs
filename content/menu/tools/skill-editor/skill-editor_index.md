@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Skill Editor"
+title = "Skill Editor"
 original_url = "/menu/tools/skill-editor/index.html"
 
 [menu.main]
-    identifier = "skill-editor_index"
-    name = "Index : Skill Editor"
-    parent = "skill-editor"
+    identifier = "skill-editor"
+    name = "Skill Editor"
+    parent = "tools"
         weight = -1
 +++
 ![Skill Editor](../../../images/editors/skill/sectionheading.png)

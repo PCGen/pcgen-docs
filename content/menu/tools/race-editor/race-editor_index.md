@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Race Editor"
+title = "Race Editor"
 original_url = "/menu/tools/race-editor/index.html"
 
 [menu.main]
-    identifier = "race-editor_index"
-    name = "Index : Race Editor"
-    parent = "race-editor"
+    identifier = "race-editor"
+    name = "Race Editor"
+    parent = "tools"
         weight = -1
 +++
 ![Race Editor](../../../images/editors/race/sectionheading.png)

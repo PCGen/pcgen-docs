@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Template Editor"
+title = "Template Editor"
 original_url = "/menu/tools/template-editor/index.html"
 
 [menu.main]
-    identifier = "template-editor_index"
-    name = "Index : Template Editor"
-    parent = "template-editor"
+    identifier = "template-editor"
+    name = "Template Editor"
+    parent = "tools"
         weight = -1
 +++
 ![Template Editor](../../../images/editors/template/sectionheading.png)

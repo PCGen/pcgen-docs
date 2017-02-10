@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Tab Options"
+title = "Tab Options"
 original_url = "/tab/index.html"
 
 [menu.main]
-    identifier = "tab_index"
-    name = "Index : Tab Options"
-    parent = "tab"
+    identifier = "tab"
+    name = "Tabs"
+    parent = ""
         weight = -1
 +++
 ![Tab Options](../images/tabs/tabscommonfeatures.png)

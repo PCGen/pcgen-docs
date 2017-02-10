@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Main Tab: Source Materials"
+title = "Main Tab: Source Materials"
 original_url = "/tab/source-tab/index.html"
 
 [menu.main]
-    identifier = "source-tab_index"
-    name = "Index : Main Tab: Source Materials"
-    parent = "source-tab"
+    identifier = "source-tab"
+    name = "Main Tab: Source Materials"
+    parent = "tab"
         weight = -1
 +++
 ![Main Tab: Source Materials](../../images/tabs/sourcematerial.png)

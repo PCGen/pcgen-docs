@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Menu Options"
+title = "Menu Options"
 original_url = "/menu/index.html"
 
 [menu.main]
-    identifier = "menu_index"
-    name = "Index : Menu Options"
-    parent = "menu"
+    identifier = "menu"
+    name = "Menu Options"
+    parent = ""
         weight = -1
 +++
 ![Menu Options](../images/menus/menu_menubar.png)

@@ -4,9 +4,9 @@ title = "Plugins Character Sheet Options"
 original_url = "/menu/settings/plugins/plugins-charactersheet.html"
 
 [menu.main]
-    identifier = "plugins_plugins-charactersheet"
+    identifier = "plugins"
     name = "Plugins Character Sheet Options"
-    parent = "plugins"
+    parent = "settings"
     
 +++
 ![Plugin Character Sheet

@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Character Menu Options"
+title = "Character Menu Options"
 original_url = "/menu/settings/character/index.html"
 
 [menu.main]
-    identifier = "character_index"
-    name = "Index : Character Menu Options"
-    parent = "character"
+    identifier = "character"
+    name = "Character Menu Options"
+    parent = "settings"
         weight = -1
 +++
 ![Character Menu Options](../../../images/preferences/character.png)

@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Tools Menu Preferences Options"
+title = "Tools Menu Preferences Options"
 original_url = "/menu/tools/preferences/index.html"
 
 [menu.main]
-    identifier = "preferences_index"
-    name = "Index : Tools Menu Preferences Options"
-    parent = "preferences"
+    identifier = "preferences"
+    name = "Tools Menu Preferences Options"
+    parent = "tools"
         weight = -1
 +++
 ![Preferences Options](../../../images/menus/tools/menu_tools_00.png)

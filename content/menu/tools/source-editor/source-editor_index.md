@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Source Editor"
+title = "Source Editor"
 original_url = "/menu/tools/source-editor/index.html"
 
 [menu.main]
-    identifier = "source-editor_index"
-    name = "Index : Source Editor"
-    parent = "source-editor"
+    identifier = "source-editor"
+    name = "Source Editor"
+    parent = "tools"
         weight = -1
 +++
 ![Source Editor](../../../images/editors/source/sectionheading.png)

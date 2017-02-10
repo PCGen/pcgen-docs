@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Players Walkthrough Section"
+title = "Players Walkthrough Section"
 original_url = "/tab/players/index.html"
 
 [menu.main]
-    identifier = "players_index"
-    name = "Index : Players Walkthrough Section"
-    parent = "players"
+    identifier = "players"
+    name = "Players Walkthrough Section"
+    parent = "tab"
         weight = -1
 +++
 This is the starting point for creating a new PC within PCGen. Using the

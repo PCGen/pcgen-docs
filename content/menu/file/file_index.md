@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : File Menu Options"
+title = "File Menu Options"
 original_url = "/menu/file/index.html"
 
 [menu.main]
-    identifier = "file_index"
-    name = "Index : File Menu Options"
-    parent = "file"
+    identifier = "file"
+    name = "File Menu Options"
+    parent = "menu"
         weight = -1
 +++
 These are the **File** menu options that are available to use once

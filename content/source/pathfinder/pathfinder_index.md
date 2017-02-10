@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : The Pathfinder Role Playing Game help files"
+title = "The Pathfinder Role Playing Game help files"
 original_url = "/source/pathfinder/index.html"
 
 [menu.main]
-    identifier = "pathfinder_index"
-    name = "Index : The Pathfinder Role Playing Game help files"
-    parent = "pathfinder"
+    identifier = "pathfinder"
+    name = "The Pathfinder Role Playing Game help files"
+    parent = "source"
         weight = -1
 +++
 The Pathfinder Roleplaying Game and Pathfinder Beta gameModes represent

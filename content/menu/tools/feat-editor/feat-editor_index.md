@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Feat Editor"
+title = "Feat Editor"
 original_url = "/menu/tools/feat-editor/index.html"
 
 [menu.main]
-    identifier = "feat-editor_index"
-    name = "Index : Feat Editor"
-    parent = "feat-editor"
+    identifier = "feat-editor"
+    name = "Feat Editor"
+    parent = "tools"
         weight = -1
 +++
 ![Feat Editor](../../../images/editors/feat/sectionheading.png)

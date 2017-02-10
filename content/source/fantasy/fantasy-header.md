@@ -4,9 +4,9 @@ title = "Fantasy help files"
 original_url = "/source/fantasy/fantasy-header.html"
 
 [menu.main]
-    identifier = "fantasy_fantasy-header"
+    identifier = "fantasy"
     name = "Fantasy help files"
-    parent = "fantasy"
+    parent = "source"
     
 +++
 The 3e and 35e gameModes represent the third edition and the 3.5 edition

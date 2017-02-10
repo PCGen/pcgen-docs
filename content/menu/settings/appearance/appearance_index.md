@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Appearance Menu Options"
+title = "Appearance Menu Options"
 original_url = "/menu/settings/appearance/index.html"
 
 [menu.main]
-    identifier = "appearance_index"
-    name = "Index : Appearance Menu Options"
-    parent = "appearance"
+    identifier = "appearance"
+    name = "Appearance Menu Options"
+    parent = "settings"
         weight = -1
 +++
 ![Appearance Menu Options](../../../images/preferences/appearance.png)

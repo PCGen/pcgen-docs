@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Spell Editor"
+title = "Spell Editor"
 original_url = "/menu/tools/spell-editor/index.html"
 
 [menu.main]
-    identifier = "spell-editor_index"
-    name = "Index : Spell Editor"
-    parent = "spell-editor"
+    identifier = "spell-editor"
+    name = "Spell Editor"
+    parent = "tools"
         weight = -1
 +++
 ![Spell Editor](../../../images/editors/spell/sectionheading.png)

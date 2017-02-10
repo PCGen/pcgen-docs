@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : PCGen Menu Options"
+title = "PCGen Menu Options"
 original_url = "/menu/settings/pcgen/index.html"
 
 [menu.main]
-    identifier = "pcgen_index"
-    name = "Index : PCGen Menu Options"
-    parent = "pcgen"
+    identifier = "pcgen"
+    name = "PCGen Menu Options"
+    parent = "settings"
         weight = -1
 +++
 ![PCGen Menu Options](../../../images/preferences/pcgen.png)

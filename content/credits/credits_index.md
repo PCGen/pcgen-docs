@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Acknowledgments"
+title = "Acknowledgments"
 original_url = "/credits/index.html"
 
 [menu.main]
-    identifier = "credits_index"
-    name = "Index : Acknowledgments"
-    parent = "credits"
+    identifier = "credits"
+    name = "Acknowledgments"
+    parent = ""
         weight = -1
 +++
 This section will give credit to all the people who have helped make

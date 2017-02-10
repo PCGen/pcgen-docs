@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : The PCGen FAQ"
+title = "The PCGen FAQ"
 original_url = "/faq/index.html"
 
 [menu.main]
-    identifier = "faq_index"
-    name = "Index : The PCGen FAQ"
-    parent = "faq"
+    identifier = "faq"
+    name = "The PCGen FAQ"
+    parent = ""
         weight = -1
 +++
 Welcome to the FAQ for the PCGen from the PCGen Team. Here we'll try to

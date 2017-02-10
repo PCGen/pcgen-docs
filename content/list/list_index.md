@@ -1,11 +1,11 @@
 +++
 date = "2016-08-01"
-title = "Index : List File Main"
+title = "List File Main"
 original_url = "/list/index.html"
 
 [menu.main]
     identifier = "list"
-    name = "Index : List File Main"
+    name = "List File Main"
         weight = -1
 +++
 List file editing can be a daunting task, so many tags, what tags to

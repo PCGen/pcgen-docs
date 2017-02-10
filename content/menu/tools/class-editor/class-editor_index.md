@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Class Editor"
+title = "Class Editor"
 original_url = "/menu/tools/class-editor/index.html"
 
 [menu.main]
-    identifier = "class-editor_index"
-    name = "Index : Class Editor"
-    parent = "class-editor"
+    identifier = "class-editor"
+    name = "Class Editor"
+    parent = "tools"
         weight = -1
 +++
 The Class Editor is to used to create/edit your own Classes.

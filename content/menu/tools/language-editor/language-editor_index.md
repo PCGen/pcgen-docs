@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Language Editor"
+title = "Language Editor"
 original_url = "/menu/tools/language-editor/index.html"
 
 [menu.main]
-    identifier = "language-editor_index"
-    name = "Index : Language Editor"
-    parent = "language-editor"
+    identifier = "language-editor"
+    name = "Language Editor"
+    parent = "tools"
         weight = -1
 +++
 ![Language Editor](../../../images/editors/language/sectionheading.png)

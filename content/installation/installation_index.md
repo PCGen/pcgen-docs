@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Installation of Java and PCGen"
+title = "Installation of Java and PCGen"
 original_url = "/installation/index.html"
 
 [menu.main]
-    identifier = "installation_index"
-    name = "Index : Installation of Java and PCGen"
-    parent = "installation"
+    identifier = "installation"
+    name = "Installation of Java and PCGen"
+    parent = ""
         weight = -1
 +++
 The following sections describe how to install Java and PCGen Manually

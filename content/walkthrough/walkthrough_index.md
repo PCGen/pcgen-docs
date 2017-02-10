@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Character Creation Walkthrough"
+title = "Character Creation Walkthrough"
 original_url = "/walkthrough/index.html"
 
 [menu.main]
-    identifier = "walkthrough_index"
-    name = "Index : Character Creation Walkthrough"
-    parent = "walkthrough"
+    identifier = "walkthrough"
+    name = "Character Creation Walkthrough"
+    parent = ""
         weight = -1
 +++
 General Note
@@ -30,7 +30,7 @@ This process is divided into the following steps:
 
 Additional detail is provided in the [Players
 Section](/tab/summary.html) of this guide found under the [Tabs and
-Buttons](/tab/tab_index.html) section.
+Buttons](/tab/tab.html) section.
 
 ------------------------------------------------------------------------
 

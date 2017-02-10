@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Character Output Sheets"
+title = "Character Output Sheets"
 original_url = "/outputsheet/index.html"
 
 [menu.main]
-    identifier = "outputsheet_index"
-    name = "Index : Character Output Sheets"
-    parent = "outputsheet"
+    identifier = "outputsheet"
+    name = "Character Output Sheets"
+    parent = ""
         weight = -1
 +++
 The most important aspect of any character generator is the final

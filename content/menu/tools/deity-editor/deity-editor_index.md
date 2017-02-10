@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Deity Editor"
+title = "Deity Editor"
 original_url = "/menu/tools/deity-editor/index.html"
 
 [menu.main]
-    identifier = "deity-editor_index"
-    name = "Index : Deity Editor"
-    parent = "deity-editor"
+    identifier = "deity-editor"
+    name = "Deity Editor"
+    parent = "tools"
         weight = -1
 +++
 ![Deity Editor](../../../images/editors/deity/sectionheading.png)

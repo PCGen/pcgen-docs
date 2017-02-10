@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : 4th Edition and PCGen"
+title = "4th Edition and PCGen"
 original_url = "/source/4e-docs/index.html"
 
 [menu.main]
-    identifier = "4e-docs_index"
-    name = "Index : 4th Edition and PCGen"
-    parent = "4e-docs"
+    identifier = "4e-docs"
+    name = "4th Edition and PCGen"
+    parent = "source"
         weight = -1
 +++
 Unfortunately 4th Edition is closed content and we do not have

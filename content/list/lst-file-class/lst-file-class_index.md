@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : LST File Classes"
+title = "LST File Classes"
 original_url = "/list/lst-file-class/index.html"
 
 [menu.main]
-    identifier = "lst-file-class_index"
-    name = "Index : LST File Classes"
-    parent = "lst-file-class"
+    identifier = "lst-file-class"
+    name = "LST File Classes"
+    parent = "list"
         weight = -1
 +++
 The LST File Classes are designed to be a lecture series by accomplished

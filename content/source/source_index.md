@@ -1,11 +1,11 @@
 +++
 date = "2016-08-01"
-title = "Index : PCGen Source Help"
+title = "PCGen Source Help"
 original_url = "/source/index.html"
 
 [menu.main]
     identifier = "source"
-    name = "Index : PCGen Source Help"
+    name = "PCGen Source Help"
 +++
 This section will provide information on how to use specific datasets.
 It is not intended to detail every aspect of the dataset but is

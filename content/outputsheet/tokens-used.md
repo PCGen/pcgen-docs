@@ -4,7 +4,7 @@ title = "Character Output Sheet Creation"
 original_url = "/outputsheet/tokens-used.html"
 
 [menu.main]
-    identifier = "outputsheet_tokens-used"
+    identifier = "tokens"
     name = "Character Output Sheet Creation"
     parent = "outputsheet"
     

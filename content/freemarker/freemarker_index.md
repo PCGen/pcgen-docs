@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : FreeMarker Output Support"
+title = "FreeMarker Output Support"
 original_url = "/freemarker/index.html"
 
 [menu.main]
-    identifier = "freemarker_index"
-    name = "Index : FreeMarker Output Support"
-    parent = "freemarker"
+    identifier = "freemarker"
+    name = "FreeMarker Output Support"
+    parent = ""
         weight = -1
 +++
 Starting from version 6.03.00, PCGen has introduced support for the

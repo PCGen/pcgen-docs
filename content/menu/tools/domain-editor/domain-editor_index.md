@@ -1,12 +1,12 @@
 +++
 date = "2016-08-01"
-title = "Index : Domain Editor"
+title = "Domain Editor"
 original_url = "/menu/tools/domain-editor/index.html"
 
 [menu.main]
-    identifier = "domain-editor_index"
-    name = "Index : Domain Editor"
-    parent = "domain-editor"
+    identifier = "domain-editor"
+    name = "Domain Editor"
+    parent = "tools"
         weight = -1
 +++
 ![Domain Editor](../../../images/editors/domain/sectionheading.png)
