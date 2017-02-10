@@ -4,8 +4,8 @@ title = "KNOWN (Data: classes.lst)"
 original_url = "/list/data/classes.html#known"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "KNOWN (Data: classes.lst)"
-    parent = "classes"
+    name = "KNOWN"
+    parent = "data_classes"
 +++
 
 ## Status

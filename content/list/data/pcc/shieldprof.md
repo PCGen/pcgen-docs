@@ -4,8 +4,8 @@ title = "SHIELDPROF (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#shieldprof"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "SHIELDPROF (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "SHIELDPROF"
+    parent = "data_pcc"
 +++
 
 ## Status

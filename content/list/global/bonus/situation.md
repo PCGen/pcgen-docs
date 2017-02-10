@@ -4,8 +4,8 @@ title = "SITUATION (Global: BONUS)"
 original_url = "/list/global/bonus.html#situation"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "SITUATION (Global: BONUS)"
-    parent = "bonus"
+    name = "SITUATION"
+    parent = "global_bonus"
 +++
 
 ## Status

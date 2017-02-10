@@ -4,8 +4,8 @@ title = "EQUIPMENT (Global: CHOOSE)"
 original_url = "/list/global/choose.html#equipment"
 categories = [ "all-tag", "choose-tag" ]
 [menu.main]
-    name = "EQUIPMENT (Global: CHOOSE)"
-    parent = "choose"
+    name = "EQUIPMENT"
+    parent = "global_choose"
 +++
 
 ## Status

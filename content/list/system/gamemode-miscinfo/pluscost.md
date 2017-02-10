@@ -4,8 +4,8 @@ title = "PLUSCOST (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#pluscost"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "PLUSCOST (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "PLUSCOST"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

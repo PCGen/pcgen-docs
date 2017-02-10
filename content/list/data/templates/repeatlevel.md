@@ -4,8 +4,8 @@ title = "REPEATLEVEL (Data: templates.lst)"
 original_url = "/list/data/templates.html#repeatlevel"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "REPEATLEVEL (Data: templates.lst)"
-    parent = "templates"
+    name = "REPEATLEVEL"
+    parent = "data_templates"
 +++
 
 ## Status

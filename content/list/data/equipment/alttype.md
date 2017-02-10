@@ -4,8 +4,8 @@ title = "ALTTYPE (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#alttype"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "ALTTYPE (Data: equipment.lst)"
-    parent = "equipment"
+    name = "ALTTYPE"
+    parent = "data_equipment"
 +++
 
 ## Status

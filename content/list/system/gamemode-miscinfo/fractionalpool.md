@@ -4,8 +4,8 @@ title = "FRACTIONALPOOL (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#fractionalpool"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "FRACTIONALPOOL (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "FRACTIONALPOOL"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

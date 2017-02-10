@@ -4,8 +4,8 @@ title = "MINVER (Data: install.lst)"
 original_url = "/list/data/install.html#minver"
 categories = [ "all-tag", "install-tag" ]
 [menu.main]
-    name = "MINVER (Data: install.lst)"
-    parent = "install"
+    name = "MINVER"
+    parent = "data_install"
 +++
 
 ## Status

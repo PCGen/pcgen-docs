@@ -4,8 +4,8 @@ title = "ABB (Data: classes.lst)"
 original_url = "/list/data/classes.html#abb"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "ABB (Data: classes.lst)"
-    parent = "classes"
+    name = "ABB"
+    parent = "data_classes"
 +++
 
 ## Status

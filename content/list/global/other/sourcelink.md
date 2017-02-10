@@ -4,8 +4,8 @@ title = "SOURCELINK (Global: OTHER)"
 original_url = "/list/global/other.html#sourcelink"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "SOURCELINK (Global: OTHER)"
-    parent = "other"
+    name = "SOURCELINK"
+    parent = "global_other"
 +++
 
 ## Status

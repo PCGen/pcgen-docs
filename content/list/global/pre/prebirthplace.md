@@ -4,8 +4,8 @@ title = "PREBIRTHPLACE (Global: PRErequisite)"
 original_url = "/list/global/pre.html#prebirthplace"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREBIRTHPLACE (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREBIRTHPLACE"
+    parent = "global_pre"
 +++
 
 ## Status

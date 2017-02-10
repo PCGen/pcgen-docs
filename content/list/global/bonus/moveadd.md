@@ -4,8 +4,8 @@ title = "MOVEADD (Global: BONUS)"
 original_url = "/list/global/bonus.html#moveadd"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "MOVEADD (Global: BONUS)"
-    parent = "bonus"
+    name = "MOVEADD"
+    parent = "global_bonus"
 +++
 
 ## Status

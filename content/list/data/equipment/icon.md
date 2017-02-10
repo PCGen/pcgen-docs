@@ -4,8 +4,8 @@ title = "ICON (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#icon"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "ICON (Data: equipment.lst)"
-    parent = "equipment"
+    name = "ICON"
+    parent = "data_equipment"
 +++
 
 ## Status

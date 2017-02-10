@@ -4,8 +4,8 @@ title = "MOVECLONE (Global: OTHER)"
 original_url = "/list/global/other.html#moveclone"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "MOVECLONE (Global: OTHER)"
-    parent = "other"
+    name = "MOVECLONE"
+    parent = "global_other"
 +++
 
 ## Status

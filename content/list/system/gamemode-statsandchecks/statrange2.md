@@ -4,8 +4,8 @@ title = "STATRANGE2 (Game Mode: statsandchecks.lst)"
 original_url = "/list/system/gamemode-statsandchecks.html#statrange2"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
 [menu.main]
-    name = "STATRANGE2 (Game Mode: statsandchecks.lst)"
-    parent = "gamemode-statsandchecks"
+    name = "STATRANGE2"
+    parent = "system_gamemode-statsandchecks"
 +++
 
 ## Status

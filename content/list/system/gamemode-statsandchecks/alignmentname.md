@@ -4,8 +4,8 @@ title = "ALIGNMENTNAME (Game Mode: statsandchecks.lst)"
 original_url = "/list/system/gamemode-statsandchecks.html#alignmentname"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
 [menu.main]
-    name = "ALIGNMENTNAME (Game Mode: statsandchecks.lst)"
-    parent = "gamemode-statsandchecks"
+    name = "ALIGNMENTNAME"
+    parent = "system_gamemode-statsandchecks"
 +++
 
 ## Status

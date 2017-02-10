@@ -4,8 +4,8 @@ title = "RANGEADD (Global: BONUS)"
 original_url = "/list/global/bonus.html#rangeadd"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "RANGEADD (Global: BONUS)"
-    parent = "bonus"
+    name = "RANGEADD"
+    parent = "global_bonus"
 +++
 
 ## Status

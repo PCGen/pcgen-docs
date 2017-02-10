@@ -4,8 +4,8 @@ title = "ADD (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#add"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "ADD (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "ADD"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

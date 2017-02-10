@@ -4,8 +4,8 @@ title = "SOURCESHORT (Global: OTHER)"
 original_url = "/list/global/other.html#sourceshort"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "SOURCESHORT (Global: OTHER)"
-    parent = "other"
+    name = "SOURCESHORT"
+    parent = "global_other"
 +++
 
 ## Status

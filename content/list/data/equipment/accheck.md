@@ -4,8 +4,8 @@ title = "ACCHECK (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#accheck"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "ACCHECK (Data: equipment.lst)"
-    parent = "equipment"
+    name = "ACCHECK"
+    parent = "data_equipment"
 +++
 
 ## Status

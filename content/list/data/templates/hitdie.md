@@ -4,8 +4,8 @@ title = "HITDIE (Data: templates.lst)"
 original_url = "/list/data/templates.html#hitdie"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "HITDIE (Data: templates.lst)"
-    parent = "templates"
+    name = "HITDIE"
+    parent = "data_templates"
 +++
 
 ## Status

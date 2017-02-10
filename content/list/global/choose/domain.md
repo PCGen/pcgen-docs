@@ -4,8 +4,8 @@ title = "DOMAIN (Global: CHOOSE)"
 original_url = "/list/global/choose.html#domain"
 categories = [ "all-tag", "choose-tag" ]
 [menu.main]
-    name = "DOMAIN (Global: CHOOSE)"
-    parent = "choose"
+    name = "DOMAIN"
+    parent = "global_choose"
 +++
 
 ## Status

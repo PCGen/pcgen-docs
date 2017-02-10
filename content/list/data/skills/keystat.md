@@ -4,8 +4,8 @@ title = "KEYSTAT (Data: skills.lst)"
 original_url = "/list/data/skills.html#keystat"
 categories = [ "all-tag", "skills-tag" ]
 [menu.main]
-    name = "KEYSTAT (Data: skills.lst)"
-    parent = "skills"
+    name = "KEYSTAT"
+    parent = "data_skills"
 +++
 
 ## Status

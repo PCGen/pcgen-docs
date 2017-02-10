@@ -4,8 +4,8 @@ title = "LOCKEDSTAT (Global: BONUS)"
 original_url = "/list/global/bonus.html#lockedstat"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "LOCKEDSTAT (Global: BONUS)"
-    parent = "bonus"
+    name = "LOCKEDSTAT"
+    parent = "global_bonus"
 +++
 
 ## Status

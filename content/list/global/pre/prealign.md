@@ -4,8 +4,8 @@ title = "PREALIGN (Global: PRErequisite)"
 original_url = "/list/global/pre.html#prealign"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREALIGN (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREALIGN"
+    parent = "global_pre"
 +++
 
 ## Status

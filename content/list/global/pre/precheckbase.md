@@ -4,8 +4,8 @@ title = "PRECHECKBASE (Global: PRErequisite)"
 original_url = "/list/global/pre.html#precheckbase"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRECHECKBASE (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRECHECKBASE"
+    parent = "global_pre"
 +++
 
 ## Status

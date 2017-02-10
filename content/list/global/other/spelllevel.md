@@ -4,8 +4,8 @@ title = "SPELLLEVEL (Global: OTHER)"
 original_url = "/list/global/other.html#spelllevel"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "SPELLLEVEL (Global: OTHER)"
-    parent = "other"
+    name = "SPELLLEVEL"
+    parent = "global_other"
 +++
 
 ## Status

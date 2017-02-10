@@ -4,8 +4,8 @@ title = "VISION (Global: OTHER)"
 original_url = "/list/global/other.html#vision"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "VISION (Global: OTHER)"
-    parent = "other"
+    name = "VISION"
+    parent = "global_other"
 +++
 
 ## Status

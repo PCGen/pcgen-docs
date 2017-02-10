@@ -4,8 +4,8 @@ title = "REMOVE (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#remove"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "REMOVE (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "REMOVE"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

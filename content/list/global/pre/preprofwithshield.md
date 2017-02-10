@@ -4,8 +4,8 @@ title = "PREPROFWITHSHIELD (Global: PRErequisite)"
 original_url = "/list/global/pre.html#preprofwithshield"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREPROFWITHSHIELD (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREPROFWITHSHIELD"
+    parent = "global_pre"
 +++
 
 ## Status

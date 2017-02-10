@@ -4,8 +4,8 @@ title = "BASEHT (System: bio/biosettings.lst)"
 original_url = "/list/system/biosettings.html#baseht"
 categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
-    name = "BASEHT (System: bio/biosettings.lst)"
-    parent = "biosettings"
+    name = "BASEHT"
+    parent = "system_biosettings"
 +++
 
 ## Status

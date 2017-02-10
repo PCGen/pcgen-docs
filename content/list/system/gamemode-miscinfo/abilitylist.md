@@ -4,8 +4,8 @@ title = "ABILITYLIST (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#abilitylist"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "ABILITYLIST (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "ABILITYLIST"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

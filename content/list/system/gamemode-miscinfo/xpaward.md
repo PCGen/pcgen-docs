@@ -4,8 +4,8 @@ title = "XPAWARD (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#xpaward"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "XPAWARD (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "XPAWARD"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

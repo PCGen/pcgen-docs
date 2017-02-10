@@ -4,8 +4,8 @@ title = "INCLUDE (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#include"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "INCLUDE (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "INCLUDE"
+    parent = "data_pcc"
 +++
 
 ## Status

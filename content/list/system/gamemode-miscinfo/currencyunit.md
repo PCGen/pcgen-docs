@@ -4,8 +4,8 @@ title = "CURRENCYUNIT (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#currencyunit"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "CURRENCYUNIT (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "CURRENCYUNIT"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

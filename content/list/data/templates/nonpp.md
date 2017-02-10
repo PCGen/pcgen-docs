@@ -4,8 +4,8 @@ title = "NONPP (Data: templates.lst)"
 original_url = "/list/data/templates.html#nonpp"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "NONPP (Data: templates.lst)"
-    parent = "templates"
+    name = "NONPP"
+    parent = "data_templates"
 +++
 
 ## Status

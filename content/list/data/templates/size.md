@@ -4,8 +4,8 @@ title = "SIZE (Data: templates.lst)"
 original_url = "/list/data/templates.html#size"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "SIZE (Data: templates.lst)"
-    parent = "templates"
+    name = "SIZE"
+    parent = "data_templates"
 +++
 
 ## Status

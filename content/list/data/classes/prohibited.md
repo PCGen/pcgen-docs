@@ -4,8 +4,8 @@ title = "PROHIBITED (Data: classes.lst)"
 original_url = "/list/data/classes.html#prohibited"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "PROHIBITED (Data: classes.lst)"
-    parent = "classes"
+    name = "PROHIBITED"
+    parent = "data_classes"
 +++
 
 ## Status

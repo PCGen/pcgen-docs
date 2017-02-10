@@ -4,8 +4,8 @@ title = "LANGUAGES (Global: BONUS)"
 original_url = "/list/global/bonus.html#languages"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "LANGUAGES (Global: BONUS)"
-    parent = "bonus"
+    name = "LANGUAGES"
+    parent = "global_bonus"
 +++
 
 ## Status

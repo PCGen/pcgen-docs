@@ -4,8 +4,8 @@ title = "MEMORIZE (Data: classes.lst)"
 original_url = "/list/data/classes.html#memorize"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "MEMORIZE (Data: classes.lst)"
-    parent = "classes"
+    name = "MEMORIZE"
+    parent = "data_classes"
 +++
 
 ## Status

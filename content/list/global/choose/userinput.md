@@ -4,8 +4,8 @@ title = "USERINPUT (Global: CHOOSE)"
 original_url = "/list/global/choose.html#userinput"
 categories = [ "all-tag", "choose-tag" ]
 [menu.main]
-    name = "USERINPUT (Global: CHOOSE)"
-    parent = "choose"
+    name = "USERINPUT"
+    parent = "global_choose"
 +++
 
 ## Status

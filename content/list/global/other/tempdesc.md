@@ -4,8 +4,8 @@ title = "TEMPDESC (Global: OTHER)"
 original_url = "/list/global/other.html#tempdesc"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "TEMPDESC (Global: OTHER)"
-    parent = "other"
+    name = "TEMPDESC"
+    parent = "global_other"
 +++
 
 ## Status

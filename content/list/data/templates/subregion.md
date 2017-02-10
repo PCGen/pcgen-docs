@@ -4,8 +4,8 @@ title = "SUBREGION (Data: templates.lst)"
 original_url = "/list/data/templates.html#subregion"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "SUBREGION (Data: templates.lst)"
-    parent = "templates"
+    name = "SUBREGION"
+    parent = "data_templates"
 +++
 
 ## Status

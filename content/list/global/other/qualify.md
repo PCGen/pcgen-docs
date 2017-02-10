@@ -4,8 +4,8 @@ title = "QUALIFY (Global: OTHER)"
 original_url = "/list/global/other.html#qualify"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "QUALIFY (Global: OTHER)"
-    parent = "other"
+    name = "QUALIFY"
+    parent = "global_other"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "REACH (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#reach"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "REACH (Data: equipment.lst)"
-    parent = "equipment"
+    name = "REACH"
+    parent = "data_equipment"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "EYES (System: bio/biosettings.lst)"
 original_url = "/list/system/biosettings.html#eyes"
 categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
-    name = "EYES (System: bio/biosettings.lst)"
-    parent = "biosettings"
+    name = "EYES"
+    parent = "system_biosettings"
 +++
 
 ## Status

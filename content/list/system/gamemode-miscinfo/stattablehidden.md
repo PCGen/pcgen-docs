@@ -4,8 +4,8 @@ title = "STATTABLEHIDDEN (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#stattablehidden"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "STATTABLEHIDDEN (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "STATTABLEHIDDEN"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

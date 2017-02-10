@@ -4,8 +4,8 @@ title = "PRECHARACTERTYPE (Global: PRErequisite)"
 original_url = "/list/global/pre.html#precharactertype"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRECHARACTERTYPE (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRECHARACTERTYPE"
+    parent = "global_pre"
 +++
 
 ## Status

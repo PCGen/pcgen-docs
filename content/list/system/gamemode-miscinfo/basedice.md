@@ -4,8 +4,8 @@ title = "BASEDICE (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#basedice"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "BASEDICE (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "BASEDICE"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

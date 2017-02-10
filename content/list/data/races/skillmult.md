@@ -4,8 +4,8 @@ title = "SKILLMULT (Data: races.lst)"
 original_url = "/list/data/races.html#skillmult"
 categories = [ "all-tag", "races-tag" ]
 [menu.main]
-    name = "SKILLMULT (Data: races.lst)"
-    parent = "races"
+    name = "SKILLMULT"
+    parent = "data_races"
 +++
 
 ## Status

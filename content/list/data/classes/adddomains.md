@@ -4,8 +4,8 @@ title = "ADDDOMAINS (Data: classes.lst)"
 original_url = "/list/data/classes.html#adddomains"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "ADDDOMAINS (Data: classes.lst)"
-    parent = "classes"
+    name = "ADDDOMAINS"
+    parent = "data_classes"
 +++
 
 ## Status

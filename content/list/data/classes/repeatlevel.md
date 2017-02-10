@@ -4,8 +4,8 @@ title = "REPEATLEVEL (Data: classes.lst)"
 original_url = "/list/data/classes.html#repeatlevel"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "REPEATLEVEL (Data: classes.lst)"
-    parent = "classes"
+    name = "REPEATLEVEL"
+    parent = "data_classes"
 +++
 
 ## Status

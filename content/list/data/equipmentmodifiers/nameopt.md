@@ -4,8 +4,8 @@ title = "NAMEOPT (Data: equipment_modifiers.lst)"
 original_url = "/list/data/equipmentmodifiers.html#nameopt"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
-    name = "NAMEOPT (Data: equipment_modifiers.lst)"
-    parent = "equipmentmodifiers"
+    name = "NAMEOPT"
+    parent = "data_equipmentmodifiers"
 +++
 
 ## Status

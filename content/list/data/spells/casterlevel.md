@@ -4,8 +4,8 @@ title = "CASTERLEVEL (Data: spells.lst)"
 original_url = "/list/data/spells.html#casterlevel"
 categories = [ "all-tag", "spells-tag" ]
 [menu.main]
-    name = "CASTERLEVEL (Data: spells.lst)"
-    parent = "spells"
+    name = "CASTERLEVEL"
+    parent = "data_spells"
 +++
 
 ## Status

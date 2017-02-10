@@ -4,8 +4,8 @@ title = "CONTEXT (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#context"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "CONTEXT (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "CONTEXT"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

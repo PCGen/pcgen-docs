@@ -4,8 +4,8 @@ title = "SKILLPOINTS (Global: BONUS)"
 original_url = "/list/global/bonus.html#skillpoints"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "SKILLPOINTS (Global: BONUS)"
-    parent = "bonus"
+    name = "SKILLPOINTS"
+    parent = "global_bonus"
 +++
 
 ## Status

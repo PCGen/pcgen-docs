@@ -4,8 +4,8 @@ title = "LOOKUP (Data: starting_kits.lst)"
 original_url = "/list/data/startingkits.html#lookup"
 categories = [ "all-tag", "startingkits-tag" ]
 [menu.main]
-    name = "LOOKUP (Data: starting_kits.lst)"
-    parent = "startingkits"
+    name = "LOOKUP"
+    parent = "data_startingkits"
 +++
 
 ## Status

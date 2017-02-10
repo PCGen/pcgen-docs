@@ -4,8 +4,8 @@ title = "INFOTEXT (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#infotext"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "INFOTEXT (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "INFOTEXT"
+    parent = "data_pcc"
 +++
 
 ## Status

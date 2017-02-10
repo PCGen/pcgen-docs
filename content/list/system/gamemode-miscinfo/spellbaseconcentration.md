@@ -4,8 +4,8 @@ title = "SPELLBASECONCENTRATION (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#spellbaseconcentration"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "SPELLBASECONCENTRATION (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "SPELLBASECONCENTRATION"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "CAST (Data: classes.lst)"
 original_url = "/list/data/classes.html#cast"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "CAST (Data: classes.lst)"
-    parent = "classes"
+    name = "CAST"
+    parent = "data_classes"
 +++
 
 ## Status

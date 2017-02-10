@@ -4,8 +4,8 @@ title = "FINESSEABLE (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#finesseable"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "FINESSEABLE (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "FINESSEABLE"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

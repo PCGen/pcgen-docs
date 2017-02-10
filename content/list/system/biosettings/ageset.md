@@ -4,8 +4,8 @@ title = "AGESET (System: bio/biosettings.lst)"
 original_url = "/list/system/biosettings.html#ageset"
 categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
-    name = "AGESET (System: bio/biosettings.lst)"
-    parent = "biosettings"
+    name = "AGESET"
+    parent = "system_biosettings"
 +++
 
 ## Status

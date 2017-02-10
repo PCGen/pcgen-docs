@@ -4,8 +4,8 @@ title = "ATTACKCYCLE (Data: classes.lst)"
 original_url = "/list/data/classes.html#attackcycle"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "ATTACKCYCLE (Data: classes.lst)"
-    parent = "classes"
+    name = "ATTACKCYCLE"
+    parent = "data_classes"
 +++
 
 ## Status

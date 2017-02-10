@@ -4,8 +4,8 @@ title = "MASTERBONUSRACE (Data: companion_mods.lst)"
 original_url = "/list/data/companionmodifiers.html#masterbonusrace"
 categories = [ "all-tag", "companionmodifiers-tag" ]
 [menu.main]
-    name = "MASTERBONUSRACE (Data: companion_mods.lst)"
-    parent = "companionmodifiers"
+    name = "MASTERBONUSRACE"
+    parent = "data_companionmodifiers"
 +++
 
 ## Status

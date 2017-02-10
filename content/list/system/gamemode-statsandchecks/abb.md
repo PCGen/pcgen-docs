@@ -4,8 +4,8 @@ title = "ABB (Game Mode: statsandchecks.lst)"
 original_url = "/list/system/gamemode-statsandchecks.html#abb"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
 [menu.main]
-    name = "ABB (Game Mode: statsandchecks.lst)"
-    parent = "gamemode-statsandchecks"
+    name = "ABB"
+    parent = "system_gamemode-statsandchecks"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "PREBASESIZE (Global: PRErequisite)"
 original_url = "/list/global/pre.html#prebasesize"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREBASESIZE (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREBASESIZE"
+    parent = "global_pre"
 +++
 
 ## Status

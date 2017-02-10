@@ -4,8 +4,8 @@ title = "VFEAT (Global: ADD)"
 original_url = "/list/global/add.html#vfeat"
 categories = [ "all-tag", "add-tag" ]
 [menu.main]
-    name = "VFEAT (Global: ADD)"
-    parent = "add"
+    name = "VFEAT"
+    parent = "global_add"
 +++
 
 ## Status

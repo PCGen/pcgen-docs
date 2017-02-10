@@ -4,8 +4,8 @@ title = "EDITPOOL (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#editpool"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "EDITPOOL (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "EDITPOOL"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

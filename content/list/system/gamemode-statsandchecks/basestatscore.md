@@ -4,8 +4,8 @@ title = "BASESTATSCORE (Game Mode: statsandchecks.lst)"
 original_url = "/list/system/gamemode-statsandchecks.html#basestatscore"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
 [menu.main]
-    name = "BASESTATSCORE (Game Mode: statsandchecks.lst)"
-    parent = "gamemode-statsandchecks"
+    name = "BASESTATSCORE"
+    parent = "system_gamemode-statsandchecks"
 +++
 
 ## Status

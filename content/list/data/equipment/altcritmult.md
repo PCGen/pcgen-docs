@@ -4,8 +4,8 @@ title = "ALTCRITMULT (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#altcritmult"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "ALTCRITMULT (Data: equipment.lst)"
-    parent = "equipment"
+    name = "ALTCRITMULT"
+    parent = "data_equipment"
 +++
 
 ## Status

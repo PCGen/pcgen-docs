@@ -4,8 +4,8 @@ title = "ACHECK (Data: skills.lst)"
 original_url = "/list/data/skills.html#acheck"
 categories = [ "all-tag", "skills-tag" ]
 [menu.main]
-    name = "ACHECK (Data: skills.lst)"
-    parent = "skills"
+    name = "ACHECK"
+    parent = "data_skills"
 +++
 
 ## Status

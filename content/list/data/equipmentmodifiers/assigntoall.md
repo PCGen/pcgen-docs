@@ -4,8 +4,8 @@ title = "ASSIGNTOALL (Data: equipment_modifiers.lst)"
 original_url = "/list/data/equipmentmodifiers.html#assigntoall"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
-    name = "ASSIGNTOALL (Data: equipment_modifiers.lst)"
-    parent = "equipmentmodifiers"
+    name = "ASSIGNTOALL"
+    parent = "data_equipmentmodifiers"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "PREMOVE (Global: PRErequisite)"
 original_url = "/list/global/pre.html#premove"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREMOVE (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREMOVE"
+    parent = "global_pre"
 +++
 
 ## Status

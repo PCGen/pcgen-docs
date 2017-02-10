@@ -4,8 +4,8 @@ title = "BONUSLANG (Game Mode: statsandchecks.lst)"
 original_url = "/list/system/gamemode-statsandchecks.html#bonuslang"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
 [menu.main]
-    name = "BONUSLANG (Game Mode: statsandchecks.lst)"
-    parent = "gamemode-statsandchecks"
+    name = "BONUSLANG"
+    parent = "system_gamemode-statsandchecks"
 +++
 
 ## Status

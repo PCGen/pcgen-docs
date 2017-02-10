@@ -4,8 +4,8 @@ title = "SAB (Global: OTHER)"
 original_url = "/list/global/other.html#sab"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "SAB (Global: OTHER)"
-    parent = "other"
+    name = "SAB"
+    parent = "global_other"
 +++
 
 ## Status

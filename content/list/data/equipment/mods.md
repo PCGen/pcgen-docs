@@ -4,8 +4,8 @@ title = "MODS (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#mods"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "MODS (Data: equipment.lst)"
-    parent = "equipment"
+    name = "MODS"
+    parent = "data_equipment"
 +++
 
 ## Status

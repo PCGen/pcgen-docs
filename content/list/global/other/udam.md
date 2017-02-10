@@ -4,8 +4,8 @@ title = "UDAM (Global: OTHER)"
 original_url = "/list/global/other.html#udam"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "UDAM (Global: OTHER)"
-    parent = "other"
+    name = "UDAM"
+    parent = "global_other"
 +++
 
 ## Status

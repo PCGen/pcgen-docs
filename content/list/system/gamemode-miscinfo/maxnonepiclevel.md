@@ -4,8 +4,8 @@ title = "MAXNONEPICLEVEL (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#maxnonepiclevel"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "MAXNONEPICLEVEL (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "MAXNONEPICLEVEL"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

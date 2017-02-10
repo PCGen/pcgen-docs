@@ -4,8 +4,8 @@ title = "NEWKEY (Game Mode: migration.lst)"
 original_url = "/list/system/gamemode-migration.html#newkey"
 categories = [ "all-tag", "gamemode-migration-tag" ]
 [menu.main]
-    name = "NEWKEY (Game Mode: migration.lst)"
-    parent = "gamemode-migration"
+    name = "NEWKEY"
+    parent = "system_gamemode-migration"
 +++
 
 ## Status

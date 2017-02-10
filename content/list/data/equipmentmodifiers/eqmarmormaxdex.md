@@ -4,8 +4,8 @@ title = "EQMARMORMAXDEX (Data: equipment_modifiers.lst)"
 original_url = "/list/data/equipmentmodifiers.html#eqmarmormaxdex"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
-    name = "EQMARMORMAXDEX (Data: equipment_modifiers.lst)"
-    parent = "equipmentmodifiers"
+    name = "EQMARMORMAXDEX"
+    parent = "data_equipmentmodifiers"
 +++
 
 ## Status

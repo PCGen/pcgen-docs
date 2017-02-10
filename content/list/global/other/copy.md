@@ -4,8 +4,8 @@ title = "COPY (Global: OTHER)"
 original_url = "/list/global/other.html#copy"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "COPY (Global: OTHER)"
-    parent = "other"
+    name = "COPY"
+    parent = "global_other"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "MAXVER (Game Mode: migration.lst)"
 original_url = "/list/system/gamemode-migration.html#maxver"
 categories = [ "all-tag", "gamemode-migration-tag" ]
 [menu.main]
-    name = "MAXVER (Game Mode: migration.lst)"
-    parent = "gamemode-migration"
+    name = "MAXVER"
+    parent = "system_gamemode-migration"
 +++
 
 ## Status

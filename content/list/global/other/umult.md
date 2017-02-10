@@ -4,8 +4,8 @@ title = "UMULT (Global: OTHER)"
 original_url = "/list/global/other.html#umult"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "UMULT (Global: OTHER)"
-    parent = "other"
+    name = "UMULT"
+    parent = "global_other"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "CRSTEPS (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#crsteps"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "CRSTEPS (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "CRSTEPS"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

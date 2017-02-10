@@ -4,8 +4,8 @@ title = "SPELLCAST (Global: BONUS)"
 original_url = "/list/global/bonus.html#spellcast"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "SPELLCAST (Global: BONUS)"
-    parent = "bonus"
+    name = "SPELLCAST"
+    parent = "global_bonus"
 +++
 
 ## Status

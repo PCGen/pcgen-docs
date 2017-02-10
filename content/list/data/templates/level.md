@@ -4,8 +4,8 @@ title = "LEVEL (Data: templates.lst)"
 original_url = "/list/data/templates.html#level"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "LEVEL (Data: templates.lst)"
-    parent = "templates"
+    name = "LEVEL"
+    parent = "data_templates"
 +++
 
 ## Status

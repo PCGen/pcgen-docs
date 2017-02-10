@@ -4,8 +4,8 @@ title = "EQSLOT (Game Mode: equipmentslots.lst)"
 original_url = "/list/system/gamemode-equipmentslots.html#eqslot"
 categories = [ "all-tag", "gamemode-equipmentslots-tag" ]
 [menu.main]
-    name = "EQSLOT (Game Mode: equipmentslots.lst)"
-    parent = "gamemode-equipmentslots"
+    name = "EQSLOT"
+    parent = "system_gamemode-equipmentslots"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "UNITSET (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#unitset"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "UNITSET (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "UNITSET"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

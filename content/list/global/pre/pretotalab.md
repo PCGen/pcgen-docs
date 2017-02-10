@@ -4,8 +4,8 @@ title = "PRETOTALAB (Global: PRErequisite)"
 original_url = "/list/global/pre.html#pretotalab"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRETOTALAB (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRETOTALAB"
+    parent = "global_pre"
 +++
 
 ## Status

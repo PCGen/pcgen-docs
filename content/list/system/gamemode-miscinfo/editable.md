@@ -4,8 +4,8 @@ title = "EDITABLE (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#editable"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "EDITABLE (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "EDITABLE"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

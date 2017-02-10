@@ -4,8 +4,8 @@ title = "WEIGHTPATTERN (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#weightpattern"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "WEIGHTPATTERN (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "WEIGHTPATTERN"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

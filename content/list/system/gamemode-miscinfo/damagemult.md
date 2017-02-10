@@ -4,8 +4,8 @@ title = "DAMAGEMULT (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#damagemult"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "DAMAGEMULT (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "DAMAGEMULT"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

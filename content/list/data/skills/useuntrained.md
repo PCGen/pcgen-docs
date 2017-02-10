@@ -4,8 +4,8 @@ title = "USEUNTRAINED (Data: skills.lst)"
 original_url = "/list/data/skills.html#useuntrained"
 categories = [ "all-tag", "skills-tag" ]
 [menu.main]
-    name = "USEUNTRAINED (Data: skills.lst)"
-    parent = "skills"
+    name = "USEUNTRAINED"
+    parent = "data_skills"
 +++
 
 ## Status

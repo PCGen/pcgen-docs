@@ -4,8 +4,8 @@ title = "TOTALWT (System: bio/biosettings.lst)"
 original_url = "/list/system/biosettings.html#totalwt"
 categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
-    name = "TOTALWT (System: bio/biosettings.lst)"
-    parent = "biosettings"
+    name = "TOTALWT"
+    parent = "system_biosettings"
 +++
 
 ## Status

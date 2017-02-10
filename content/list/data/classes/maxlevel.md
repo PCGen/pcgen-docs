@@ -4,8 +4,8 @@ title = "MAXLEVEL (Data: classes.lst)"
 original_url = "/list/data/classes.html#maxlevel"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "MAXLEVEL (Data: classes.lst)"
-    parent = "classes"
+    name = "MAXLEVEL"
+    parent = "data_classes"
 +++
 
 ## Status

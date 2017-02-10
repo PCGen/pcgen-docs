@@ -4,8 +4,8 @@ title = "DEST (Data: install.lst)"
 original_url = "/list/data/install.html#dest"
 categories = [ "all-tag", "install-tag" ]
 [menu.main]
-    name = "DEST (Data: install.lst)"
-    parent = "install"
+    name = "DEST"
+    parent = "data_install"
 +++
 
 ## Status

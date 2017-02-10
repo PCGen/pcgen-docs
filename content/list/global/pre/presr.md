@@ -4,8 +4,8 @@ title = "PRESR (Global: PRErequisite)"
 original_url = "/list/global/pre.html#presr"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRESR (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRESR"
+    parent = "global_pre"
 +++
 
 ## Status

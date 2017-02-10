@@ -4,8 +4,8 @@ title = "KNOWNSPELLSFROMSPECIALTY (Data: classes.lst)"
 original_url = "/list/data/classes.html#knownspellsfromspecialty"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "KNOWNSPELLSFROMSPECIALTY (Data: classes.lst)"
-    parent = "classes"
+    name = "KNOWNSPELLSFROMSPECIALTY"
+    parent = "data_classes"
 +++
 
 ## Status

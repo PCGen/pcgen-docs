@@ -4,8 +4,8 @@ title = "ALIGN (Data: deities.lst)"
 original_url = "/list/data/deities.html#align"
 categories = [ "all-tag", "deities-tag" ]
 [menu.main]
-    name = "ALIGN (Data: deities.lst)"
-    parent = "deities"
+    name = "ALIGN"
+    parent = "data_deities"
 +++
 
 ## Status

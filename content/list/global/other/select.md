@@ -4,8 +4,8 @@ title = "SELECT (Global: OTHER)"
 original_url = "/list/global/other.html#select"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "SELECT (Global: OTHER)"
-    parent = "other"
+    name = "SELECT"
+    parent = "global_other"
 +++
 
 ## Status

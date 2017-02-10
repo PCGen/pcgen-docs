@@ -4,8 +4,8 @@ title = "EQUIPMENT (Game Mode: migration.lst)"
 original_url = "/list/system/gamemode-migration.html#equipment"
 categories = [ "all-tag", "gamemode-migration-tag" ]
 [menu.main]
-    name = "EQUIPMENT (Game Mode: migration.lst)"
-    parent = "gamemode-migration"
+    name = "EQUIPMENT"
+    parent = "system_gamemode-migration"
 +++
 
 ## Status

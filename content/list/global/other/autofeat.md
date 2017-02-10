@@ -4,8 +4,8 @@ title = "AUTOFEAT (Global: OTHER)"
 original_url = "/list/global/other.html#autofeat"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "AUTOFEAT (Global: OTHER)"
-    parent = "other"
+    name = "AUTOFEAT"
+    parent = "global_other"
 +++
 
 ## Status

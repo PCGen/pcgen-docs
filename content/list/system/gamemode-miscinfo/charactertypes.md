@@ -4,8 +4,8 @@ title = "CHARACTERTYPES (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#charactertypes"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "CHARACTERTYPES (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "CHARACTERTYPES"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "RESIZABLEEQUIPTYPE (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#resizableequiptype"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "RESIZABLEEQUIPTYPE (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "RESIZABLEEQUIPTYPE"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

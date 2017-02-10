@@ -4,8 +4,8 @@ title = "SUBSTITUTIONCLASS (Data: classes.lst)"
 original_url = "/list/data/classes.html#substitutionclass"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "SUBSTITUTIONCLASS (Data: classes.lst)"
-    parent = "classes"
+    name = "SUBSTITUTIONCLASS"
+    parent = "data_classes"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "HAIR (System: bio/biosettings.lst)"
 original_url = "/list/system/biosettings.html#hair"
 categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
-    name = "HAIR (System: bio/biosettings.lst)"
-    parent = "biosettings"
+    name = "HAIR"
+    parent = "system_biosettings"
 +++
 
 ## Status

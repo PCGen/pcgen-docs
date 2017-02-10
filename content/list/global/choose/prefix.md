@@ -4,8 +4,8 @@ title = "PREFIX (Global: CHOOSE)"
 original_url = "/list/global/choose.html#prefix"
 categories = [ "all-tag", "choose-tag" ]
 [menu.main]
-    name = "PREFIX (Global: CHOOSE)"
-    parent = "choose"
+    name = "PREFIX"
+    parent = "global_choose"
 +++
 
 ## Status

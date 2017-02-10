@@ -4,8 +4,8 @@ title = "RANGEPENALTY (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#rangepenalty"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "RANGEPENALTY (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "RANGEPENALTY"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

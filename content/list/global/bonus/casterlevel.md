@@ -4,8 +4,8 @@ title = "CASTERLEVEL (Global: BONUS)"
 original_url = "/list/global/bonus.html#casterlevel"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "CASTERLEVEL (Global: BONUS)"
-    parent = "bonus"
+    name = "CASTERLEVEL"
+    parent = "global_bonus"
 +++
 
 ## Status

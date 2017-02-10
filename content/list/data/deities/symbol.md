@@ -4,8 +4,8 @@ title = "SYMBOL (Data: deities.lst)"
 original_url = "/list/data/deities.html#symbol"
 categories = [ "all-tag", "deities-tag" ]
 [menu.main]
-    name = "SYMBOL (Data: deities.lst)"
-    parent = "deities"
+    name = "SYMBOL"
+    parent = "data_deities"
 +++
 
 ## Status

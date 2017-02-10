@@ -4,8 +4,8 @@ title = "SKILLTABLEHIDDEN (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#skilltablehidden"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "SKILLTABLEHIDDEN (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "SKILLTABLEHIDDEN"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

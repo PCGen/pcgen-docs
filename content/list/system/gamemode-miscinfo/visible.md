@@ -4,8 +4,8 @@ title = "VISIBLE (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#visible"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "VISIBLE (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "VISIBLE"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

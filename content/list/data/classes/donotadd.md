@@ -4,8 +4,8 @@ title = "DONOTADD (Data: classes.lst)"
 original_url = "/list/data/classes.html#donotadd"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "DONOTADD (Data: classes.lst)"
-    parent = "classes"
+    name = "DONOTADD"
+    parent = "data_classes"
 +++
 
 ## Status

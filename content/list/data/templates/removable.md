@@ -4,8 +4,8 @@ title = "REMOVABLE (Data: templates.lst)"
 original_url = "/list/data/templates.html#removable"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "REMOVABLE (Data: templates.lst)"
-    parent = "templates"
+    name = "REMOVABLE"
+    parent = "data_templates"
 +++
 
 ## Status

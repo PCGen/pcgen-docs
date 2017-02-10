@@ -4,8 +4,8 @@ title = "FOLLOWER (Data: companion_mods.lst)"
 original_url = "/list/data/companionmodifiers.html#follower"
 categories = [ "all-tag", "companionmodifiers-tag" ]
 [menu.main]
-    name = "FOLLOWER (Data: companion_mods.lst)"
-    parent = "companionmodifiers"
+    name = "FOLLOWER"
+    parent = "data_companionmodifiers"
 +++
 
 ## Status

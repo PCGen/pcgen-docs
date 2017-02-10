@@ -4,8 +4,8 @@ title = "SOURCEDATE (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#sourcedate"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "SOURCEDATE (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "SOURCEDATE"
+    parent = "data_pcc"
 +++
 
 ## Status

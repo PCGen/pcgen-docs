@@ -4,8 +4,8 @@ title = "DEITY (Global: CHOOSE)"
 original_url = "/list/global/choose.html#deity"
 categories = [ "all-tag", "choose-tag" ]
 [menu.main]
-    name = "DEITY (Global: CHOOSE)"
-    parent = "choose"
+    name = "DEITY"
+    parent = "global_choose"
 +++
 
 ## Status

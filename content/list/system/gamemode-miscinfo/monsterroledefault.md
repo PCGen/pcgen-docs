@@ -4,8 +4,8 @@ title = "MONSTERROLEDEFAULT (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#monsterroledefault"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "MONSTERROLEDEFAULT (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "MONSTERROLEDEFAULT"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

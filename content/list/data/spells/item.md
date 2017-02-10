@@ -4,8 +4,8 @@ title = "ITEM (Data: spells.lst)"
 original_url = "/list/data/spells.html#item"
 categories = [ "all-tag", "spells-tag" ]
 [menu.main]
-    name = "ITEM (Data: spells.lst)"
-    parent = "spells"
+    name = "ITEM"
+    parent = "data_spells"
 +++
 
 ## Status

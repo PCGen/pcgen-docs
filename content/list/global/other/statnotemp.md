@@ -4,8 +4,8 @@ title = "STATNOTEMP (Global: OTHER)"
 original_url = "/list/global/other.html#statnotemp"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "STATNOTEMP (Global: OTHER)"
-    parent = "other"
+    name = "STATNOTEMP"
+    parent = "global_other"
 +++
 
 ## Status

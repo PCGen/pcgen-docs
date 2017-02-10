@@ -4,8 +4,8 @@ title = "MOVE (Global: OTHER)"
 original_url = "/list/global/other.html#move"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "MOVE (Global: OTHER)"
-    parent = "other"
+    name = "MOVE"
+    parent = "global_other"
 +++
 
 ## Status

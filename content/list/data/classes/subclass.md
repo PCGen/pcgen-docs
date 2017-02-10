@@ -4,8 +4,8 @@ title = "SUBCLASS (Data: classes.lst)"
 original_url = "/list/data/classes.html#subclass"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "SUBCLASS (Data: classes.lst)"
-    parent = "classes"
+    name = "SUBCLASS"
+    parent = "data_classes"
 +++
 
 ## Status

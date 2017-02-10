@@ -4,8 +4,8 @@ title = "LEVEL (Game Mode: level.lst)"
 original_url = "/list/system/gamemode-level.html#level"
 categories = [ "all-tag", "gamemode-level-tag" ]
 [menu.main]
-    name = "LEVEL (Game Mode: level.lst)"
-    parent = "gamemode-level"
+    name = "LEVEL"
+    parent = "system_gamemode-level"
 +++
 
 ## Status

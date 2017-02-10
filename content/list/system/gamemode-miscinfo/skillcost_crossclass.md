@@ -4,8 +4,8 @@ title = "SKILLCOST_CROSSCLASS (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#skillcost_crossclass"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "SKILLCOST_CROSSCLASS (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "SKILLCOST_CROSSCLASS"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

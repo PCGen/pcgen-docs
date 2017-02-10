@@ -4,8 +4,8 @@ title = "CASTTIME (Data: spells.lst)"
 original_url = "/list/data/spells.html#casttime"
 categories = [ "all-tag", "spells-tag" ]
 [menu.main]
-    name = "CASTTIME (Data: spells.lst)"
-    parent = "spells"
+    name = "CASTTIME"
+    parent = "data_spells"
 +++
 
 ## Status

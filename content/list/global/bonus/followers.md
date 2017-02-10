@@ -4,8 +4,8 @@ title = "FOLLOWERS (Global: BONUS)"
 original_url = "/list/global/bonus.html#followers"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "FOLLOWERS (Global: BONUS)"
-    parent = "bonus"
+    name = "FOLLOWERS"
+    parent = "global_bonus"
 +++
 
 ## Status

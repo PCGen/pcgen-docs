@@ -4,8 +4,8 @@ title = "LANGUAGE (Global: ADD)"
 original_url = "/list/global/add.html#language"
 categories = [ "all-tag", "add-tag" ]
 [menu.main]
-    name = "LANGUAGE (Global: ADD)"
-    parent = "add"
+    name = "LANGUAGE"
+    parent = "global_add"
 +++
 
 ## Status

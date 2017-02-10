@@ -4,8 +4,8 @@ title = "EQUIP (Global: ADD)"
 original_url = "/list/global/add.html#equip"
 categories = [ "all-tag", "add-tag" ]
 [menu.main]
-    name = "EQUIP (Global: ADD)"
-    parent = "add"
+    name = "EQUIP"
+    parent = "global_add"
 +++
 
 ## Status

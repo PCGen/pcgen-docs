@@ -4,8 +4,8 @@ title = "WEAPONTYPE (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#weapontype"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "WEAPONTYPE (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "WEAPONTYPE"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

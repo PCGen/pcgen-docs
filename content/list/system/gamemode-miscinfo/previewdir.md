@@ -4,8 +4,8 @@ title = "PREVIEWDIR (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#previewdir"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "PREVIEWDIR (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "PREVIEWDIR"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

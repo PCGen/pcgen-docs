@@ -4,8 +4,8 @@ title = "VISIBLE (Data: classes.lst)"
 original_url = "/list/data/classes.html#visible"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "VISIBLE (Data: classes.lst)"
-    parent = "classes"
+    name = "VISIBLE"
+    parent = "data_classes"
 +++
 
 ## Status

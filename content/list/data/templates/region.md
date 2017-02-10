@@ -4,8 +4,8 @@ title = "REGION (Data: templates.lst)"
 original_url = "/list/data/templates.html#region"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "REGION (Data: templates.lst)"
-    parent = "templates"
+    name = "REGION"
+    parent = "data_templates"
 +++
 
 ## Status

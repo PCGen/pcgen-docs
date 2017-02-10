@@ -4,8 +4,8 @@ title = "TEMPLATEADDCHOICE (Data: classes.lst)"
 original_url = "/list/data/classes.html#templateaddchoice"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "TEMPLATEADDCHOICE (Data: classes.lst)"
-    parent = "classes"
+    name = "TEMPLATEADDCHOICE"
+    parent = "data_classes"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "POSTMOVEADD (Global: BONUS)"
 original_url = "/list/global/bonus.html#postmoveadd"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "POSTMOVEADD (Global: BONUS)"
-    parent = "bonus"
+    name = "POSTMOVEADD"
+    parent = "global_bonus"
 +++
 
 ## Status

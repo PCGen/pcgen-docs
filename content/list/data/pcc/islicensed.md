@@ -4,8 +4,8 @@ title = "ISLICENSED (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#islicensed"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "ISLICENSED (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "ISLICENSED"
+    parent = "data_pcc"
 +++
 
 ## Status

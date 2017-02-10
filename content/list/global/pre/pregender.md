@@ -4,8 +4,8 @@ title = "PREGENDER (Global: PRErequisite)"
 original_url = "/list/global/pre.html#pregender"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREGENDER (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREGENDER"
+    parent = "global_pre"
 +++
 
 ## Status

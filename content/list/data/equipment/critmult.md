@@ -4,8 +4,8 @@ title = "CRITMULT (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#critmult"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "CRITMULT (Data: equipment.lst)"
-    parent = "equipment"
+    name = "CRITMULT"
+    parent = "data_equipment"
 +++
 
 ## Status

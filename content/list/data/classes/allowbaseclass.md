@@ -4,8 +4,8 @@ title = "ALLOWBASECLASS (Data: classes.lst)"
 original_url = "/list/data/classes.html#allowbaseclass"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "ALLOWBASECLASS (Data: classes.lst)"
-    parent = "classes"
+    name = "ALLOWBASECLASS"
+    parent = "data_classes"
 +++
 
 ## Status

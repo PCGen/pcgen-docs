@@ -4,8 +4,8 @@ title = "WEAPONBONUS (Data: templates.lst)"
 original_url = "/list/data/templates.html#weaponbonus"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "WEAPONBONUS (Data: templates.lst)"
-    parent = "templates"
+    name = "WEAPONBONUS"
+    parent = "data_templates"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "MOD (Global: OTHER)"
 original_url = "/list/global/other.html#mod"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "MOD (Global: OTHER)"
-    parent = "other"
+    name = "MOD"
+    parent = "global_other"
 +++
 
 ## Status

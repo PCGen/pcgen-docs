@@ -4,8 +4,8 @@ title = "XTRASKILLPTSPERLVL (Data: races.lst)"
 original_url = "/list/data/races.html#xtraskillptsperlvl"
 categories = [ "all-tag", "races-tag" ]
 [menu.main]
-    name = "XTRASKILLPTSPERLVL (Data: races.lst)"
-    parent = "races"
+    name = "XTRASKILLPTSPERLVL"
+    parent = "data_races"
 +++
 
 ## Status

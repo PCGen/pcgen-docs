@@ -4,8 +4,8 @@ title = "APPLIEDNAME (Data: abilities.lst)"
 original_url = "/list/data/ability.html#appliedname"
 categories = [ "all-tag", "ability-tag" ]
 [menu.main]
-    name = "APPLIEDNAME (Data: abilities.lst)"
-    parent = "ability"
+    name = "APPLIEDNAME"
+    parent = "data_ability"
 +++
 
 ## Status

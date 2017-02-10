@@ -4,8 +4,8 @@ title = "CCSKILL (Global: OTHER)"
 original_url = "/list/global/other.html#ccskill"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "CCSKILL (Global: OTHER)"
-    parent = "other"
+    name = "CCSKILL"
+    parent = "global_other"
 +++
 
 ## Status

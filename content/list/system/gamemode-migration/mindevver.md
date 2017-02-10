@@ -4,8 +4,8 @@ title = "MINDEVVER (Game Mode: migration.lst)"
 original_url = "/list/system/gamemode-migration.html#mindevver"
 categories = [ "all-tag", "gamemode-migration-tag" ]
 [menu.main]
-    name = "MINDEVVER (Game Mode: migration.lst)"
-    parent = "gamemode-migration"
+    name = "MINDEVVER"
+    parent = "system_gamemode-migration"
 +++
 
 ## Status

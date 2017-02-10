@@ -4,8 +4,8 @@ title = "DISPLAYVARIABLENAME (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#displayvariablename"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "DISPLAYVARIABLENAME (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "DISPLAYVARIABLENAME"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

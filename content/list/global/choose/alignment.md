@@ -4,8 +4,8 @@ title = "ALIGNMENT (Global: CHOOSE)"
 original_url = "/list/global/choose.html#alignment"
 categories = [ "all-tag", "choose-tag" ]
 [menu.main]
-    name = "ALIGNMENT (Global: CHOOSE)"
-    parent = "choose"
+    name = "ALIGNMENT"
+    parent = "global_choose"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "BONUSHP (Game Mode: statsandchecks.lst)"
 original_url = "/list/system/gamemode-statsandchecks.html#bonushp"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
 [menu.main]
-    name = "BONUSHP (Game Mode: statsandchecks.lst)"
-    parent = "gamemode-statsandchecks"
+    name = "BONUSHP"
+    parent = "system_gamemode-statsandchecks"
 +++
 
 ## Status

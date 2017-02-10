@@ -4,8 +4,8 @@ title = "LEGS (Data: races.lst)"
 original_url = "/list/data/races.html#legs"
 categories = [ "all-tag", "races-tag" ]
 [menu.main]
-    name = "LEGS (Data: races.lst)"
-    parent = "races"
+    name = "LEGS"
+    parent = "data_races"
 +++
 
 ## Status

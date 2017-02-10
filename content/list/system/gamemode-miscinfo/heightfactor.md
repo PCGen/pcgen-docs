@@ -4,8 +4,8 @@ title = "HEIGHTFACTOR (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#heightfactor"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "HEIGHTFACTOR (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "HEIGHTFACTOR"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

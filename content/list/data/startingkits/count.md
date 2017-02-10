@@ -4,8 +4,8 @@ title = "COUNT (Data: starting_kits.lst)"
 original_url = "/list/data/startingkits.html#count"
 categories = [ "all-tag", "startingkits-tag" ]
 [menu.main]
-    name = "COUNT (Data: starting_kits.lst)"
-    parent = "startingkits"
+    name = "COUNT"
+    parent = "data_startingkits"
 +++
 
 ## Status

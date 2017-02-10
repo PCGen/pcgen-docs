@@ -4,8 +4,8 @@ title = "FORWARDREF (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#forwardref"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "FORWARDREF (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "FORWARDREF"
+    parent = "data_pcc"
 +++
 
 ## Status

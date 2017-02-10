@@ -4,8 +4,8 @@ title = "NATURALATTACKS (Global: OTHER)"
 original_url = "/list/global/other.html#naturalattacks"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "NATURALATTACKS (Global: OTHER)"
-    parent = "other"
+    name = "NATURALATTACKS"
+    parent = "global_other"
 +++
 
 ## Status

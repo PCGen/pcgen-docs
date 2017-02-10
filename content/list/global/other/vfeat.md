@@ -4,8 +4,8 @@ title = "VFEAT (Global: OTHER)"
 original_url = "/list/global/other.html#vfeat"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "VFEAT (Global: OTHER)"
-    parent = "other"
+    name = "VFEAT"
+    parent = "global_other"
 +++
 
 ## Status

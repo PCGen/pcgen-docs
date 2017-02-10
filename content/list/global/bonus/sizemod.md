@@ -4,8 +4,8 @@ title = "SIZEMOD (Global: BONUS)"
 original_url = "/list/global/bonus.html#sizemod"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "SIZEMOD (Global: BONUS)"
-    parent = "bonus"
+    name = "SIZEMOD"
+    parent = "global_bonus"
 +++
 
 ## Status

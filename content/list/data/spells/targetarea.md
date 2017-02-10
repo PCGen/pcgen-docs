@@ -4,8 +4,8 @@ title = "TARGETAREA (Data: spells.lst)"
 original_url = "/list/data/spells.html#targetarea"
 categories = [ "all-tag", "spells-tag" ]
 [menu.main]
-    name = "TARGETAREA (Data: spells.lst)"
-    parent = "spells"
+    name = "TARGETAREA"
+    parent = "data_spells"
 +++
 
 ## Status

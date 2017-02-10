@@ -4,8 +4,8 @@ title = "AUTOLANG (Global: OTHER)"
 original_url = "/list/global/other.html#autolang"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "AUTOLANG (Global: OTHER)"
-    parent = "other"
+    name = "AUTOLANG"
+    parent = "global_other"
 +++
 
 ## Status

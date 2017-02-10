@@ -4,8 +4,8 @@ title = "CLASS (Data: starting_kits.lst)"
 original_url = "/list/data/startingkits.html#class"
 categories = [ "all-tag", "startingkits-tag" ]
 [menu.main]
-    name = "CLASS (Data: starting_kits.lst)"
-    parent = "startingkits"
+    name = "CLASS"
+    parent = "data_startingkits"
 +++
 
 ## Status

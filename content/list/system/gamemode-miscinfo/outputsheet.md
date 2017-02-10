@@ -4,8 +4,8 @@ title = "OUTPUTSHEET (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#outputsheet"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "OUTPUTSHEET (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "OUTPUTSHEET"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

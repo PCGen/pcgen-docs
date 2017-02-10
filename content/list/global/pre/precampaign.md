@@ -4,8 +4,8 @@ title = "PRECAMPAIGN (Global: PRErequisite)"
 original_url = "/list/global/pre.html#precampaign"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRECAMPAIGN (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRECAMPAIGN"
+    parent = "global_pre"
 +++
 
 ## Status

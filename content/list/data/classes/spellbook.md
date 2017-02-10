@@ -4,8 +4,8 @@ title = "SPELLBOOK (Data: classes.lst)"
 original_url = "/list/data/classes.html#spellbook"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "SPELLBOOK (Data: classes.lst)"
-    parent = "classes"
+    name = "SPELLBOOK"
+    parent = "data_classes"
 +++
 
 ## Status

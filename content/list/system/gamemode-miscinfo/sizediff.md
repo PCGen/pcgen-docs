@@ -4,8 +4,8 @@ title = "SIZEDIFF (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#sizediff"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "SIZEDIFF (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "SIZEDIFF"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

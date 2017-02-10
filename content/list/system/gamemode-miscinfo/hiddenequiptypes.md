@@ -4,8 +4,8 @@ title = "HIDDENEQUIPTYPES (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#hiddenequiptypes"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "HIDDENEQUIPTYPES (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "HIDDENEQUIPTYPES"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

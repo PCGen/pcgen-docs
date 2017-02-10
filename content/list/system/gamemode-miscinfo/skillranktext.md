@@ -4,8 +4,8 @@ title = "SKILLRANKTEXT (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#skillranktext"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "SKILLRANKTEXT (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "SKILLRANKTEXT"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

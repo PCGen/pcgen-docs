@@ -4,8 +4,8 @@ title = "ITYPE (Data: equipment_modifiers.lst)"
 original_url = "/list/data/equipmentmodifiers.html#itype"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
-    name = "ITYPE (Data: equipment_modifiers.lst)"
-    parent = "equipmentmodifiers"
+    name = "ITYPE"
+    parent = "data_equipmentmodifiers"
 +++
 
 ## Status

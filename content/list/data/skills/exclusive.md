@@ -4,8 +4,8 @@ title = "EXCLUSIVE (Data: skills.lst)"
 original_url = "/list/data/skills.html#exclusive"
 categories = [ "all-tag", "skills-tag" ]
 [menu.main]
-    name = "EXCLUSIVE (Data: skills.lst)"
-    parent = "skills"
+    name = "EXCLUSIVE"
+    parent = "data_skills"
 +++
 
 ## Status

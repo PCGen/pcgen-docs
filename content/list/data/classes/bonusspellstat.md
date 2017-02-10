@@ -4,8 +4,8 @@ title = "BONUSSPELLSTAT (Data: classes.lst)"
 original_url = "/list/data/classes.html#bonusspellstat"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "BONUSSPELLSTAT (Data: classes.lst)"
-    parent = "classes"
+    name = "BONUSSPELLSTAT"
+    parent = "data_classes"
 +++
 
 ## Status

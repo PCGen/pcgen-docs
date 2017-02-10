@@ -4,8 +4,8 @@ title = "MONCCSKILL (Data: races.lst)"
 original_url = "/list/data/races.html#monccskill"
 categories = [ "all-tag", "races-tag" ]
 [menu.main]
-    name = "MONCCSKILL (Data: races.lst)"
-    parent = "races"
+    name = "MONCCSKILL"
+    parent = "data_races"
 +++
 
 ## Status

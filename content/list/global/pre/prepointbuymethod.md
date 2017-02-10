@@ -4,8 +4,8 @@ title = "PREPOINTBUYMETHOD (Global: PRErequisite)"
 original_url = "/list/global/pre.html#prepointbuymethod"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREPOINTBUYMETHOD (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREPOINTBUYMETHOD"
+    parent = "global_pre"
 +++
 
 ## Status

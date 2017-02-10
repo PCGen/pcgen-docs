@@ -4,8 +4,8 @@ title = "SPELLTYPE (Data: classes.lst)"
 original_url = "/list/data/classes.html#spelltype"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "SPELLTYPE (Data: classes.lst)"
-    parent = "classes"
+    name = "SPELLTYPE"
+    parent = "data_classes"
 +++
 
 ## Status

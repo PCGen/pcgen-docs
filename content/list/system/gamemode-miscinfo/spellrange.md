@@ -4,8 +4,8 @@ title = "SPELLRANGE (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#spellrange"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "SPELLRANGE (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "SPELLRANGE"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

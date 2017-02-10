@@ -4,8 +4,8 @@ title = "SKILL (Global: ADD)"
 original_url = "/list/global/add.html#skill"
 categories = [ "all-tag", "add-tag" ]
 [menu.main]
-    name = "SKILL (Global: ADD)"
-    parent = "add"
+    name = "SKILL"
+    parent = "global_add"
 +++
 
 ## Status

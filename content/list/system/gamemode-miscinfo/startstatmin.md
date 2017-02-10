@@ -4,8 +4,8 @@ title = "STARTSTATMIN (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#startstatmin"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "STARTSTATMIN (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "STARTSTATMIN"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

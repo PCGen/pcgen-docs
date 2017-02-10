@@ -4,8 +4,8 @@ title = "SKILLLIST (Data: classes.lst)"
 original_url = "/list/data/classes.html#skilllist"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "SKILLLIST (Data: classes.lst)"
-    parent = "classes"
+    name = "SKILLLIST"
+    parent = "data_classes"
 +++
 
 ## Status

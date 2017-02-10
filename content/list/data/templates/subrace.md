@@ -4,8 +4,8 @@ title = "SUBRACE (Data: templates.lst)"
 original_url = "/list/data/templates.html#subrace"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "SUBRACE (Data: templates.lst)"
-    parent = "templates"
+    name = "SUBRACE"
+    parent = "data_templates"
 +++
 
 ## Status

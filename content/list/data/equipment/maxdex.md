@@ -4,8 +4,8 @@ title = "MAXDEX (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#maxdex"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "MAXDEX (Data: equipment.lst)"
-    parent = "equipment"
+    name = "MAXDEX"
+    parent = "data_equipment"
 +++
 
 ## Status

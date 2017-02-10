@@ -4,8 +4,8 @@ title = "COPYMASTERHP (Data: companion_mods.lst)"
 original_url = "/list/data/companionmodifiers.html#copymasterhp"
 categories = [ "all-tag", "companionmodifiers-tag" ]
 [menu.main]
-    name = "COPYMASTERHP (Data: companion_mods.lst)"
-    parent = "companionmodifiers"
+    name = "COPYMASTERHP"
+    parent = "data_companionmodifiers"
 +++
 
 ## Status

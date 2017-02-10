@@ -4,8 +4,8 @@ title = "COPYRIGHT (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#copyright"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "COPYRIGHT (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "COPYRIGHT"
+    parent = "data_pcc"
 +++
 
 ## Status

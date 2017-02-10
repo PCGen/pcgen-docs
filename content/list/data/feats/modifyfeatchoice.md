@@ -4,8 +4,8 @@ title = "MODIFYFEATCHOICE (Data: feats.lst)"
 original_url = "/list/data/feats.html#modifyfeatchoice"
 categories = [ "all-tag", "feats-tag" ]
 [menu.main]
-    name = "MODIFYFEATCHOICE (Data: feats.lst)"
-    parent = "feats"
+    name = "MODIFYFEATCHOICE"
+    parent = "data_feats"
 +++
 
 ## Status

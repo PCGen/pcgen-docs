@@ -4,8 +4,8 @@ title = "CLASS (System: bio/biosettings.lst)"
 original_url = "/list/system/biosettings.html#class"
 categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
-    name = "CLASS (System: bio/biosettings.lst)"
-    parent = "biosettings"
+    name = "CLASS"
+    parent = "system_biosettings"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "CHANGEPROF (Global: OTHER)"
 original_url = "/list/global/other.html#changeprof"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "CHANGEPROF (Global: OTHER)"
-    parent = "other"
+    name = "CHANGEPROF"
+    parent = "global_other"
 +++
 
 ## Status

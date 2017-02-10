@@ -4,8 +4,8 @@ title = "PAGEUSAGE (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#pageusage"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "PAGEUSAGE (Data: equipment.lst)"
-    parent = "equipment"
+    name = "PAGEUSAGE"
+    parent = "data_equipment"
 +++
 
 ## Status

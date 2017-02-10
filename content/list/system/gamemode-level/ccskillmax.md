@@ -4,8 +4,8 @@ title = "CCSKILLMAX (Game Mode: level.lst)"
 original_url = "/list/system/gamemode-level.html#ccskillmax"
 categories = [ "all-tag", "gamemode-level-tag" ]
 [menu.main]
-    name = "CCSKILLMAX (Game Mode: level.lst)"
-    parent = "gamemode-level"
+    name = "CCSKILLMAX"
+    parent = "system_gamemode-level"
 +++
 
 ## Status

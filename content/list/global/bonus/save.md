@@ -4,8 +4,8 @@ title = "SAVE (Global: BONUS)"
 original_url = "/list/global/bonus.html#save"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "SAVE (Global: BONUS)"
-    parent = "bonus"
+    name = "SAVE"
+    parent = "global_bonus"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "SPELLFAILURE (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#spellfailure"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "SPELLFAILURE (Data: equipment.lst)"
-    parent = "equipment"
+    name = "SPELLFAILURE"
+    parent = "data_equipment"
 +++
 
 ## Status

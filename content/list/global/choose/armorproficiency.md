@@ -4,8 +4,8 @@ title = "ARMORPROFICIENCY (Global: CHOOSE)"
 original_url = "/list/global/choose.html#armorproficiency"
 categories = [ "all-tag", "choose-tag" ]
 [menu.main]
-    name = "ARMORPROFICIENCY (Global: CHOOSE)"
-    parent = "choose"
+    name = "ARMORPROFICIENCY"
+    parent = "global_choose"
 +++
 
 ## Status

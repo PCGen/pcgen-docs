@@ -4,8 +4,8 @@ title = "PREREACH (Global: PRErequisite)"
 original_url = "/list/global/pre.html#prereach"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREREACH (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREREACH"
+    parent = "global_pre"
 +++
 
 ## Status

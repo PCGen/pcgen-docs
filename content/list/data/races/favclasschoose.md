@@ -4,8 +4,8 @@ title = "FAVCLASSCHOOSE (Data: races.lst)"
 original_url = "/list/data/races.html#favclasschoose"
 categories = [ "all-tag", "races-tag" ]
 [menu.main]
-    name = "FAVCLASSCHOOSE (Data: races.lst)"
-    parent = "races"
+    name = "FAVCLASSCHOOSE"
+    parent = "data_races"
 +++
 
 ## Status

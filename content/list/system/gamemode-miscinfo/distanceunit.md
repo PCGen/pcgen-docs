@@ -4,8 +4,8 @@ title = "DISTANCEUNIT (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#distanceunit"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "DISTANCEUNIT (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "DISTANCEUNIT"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

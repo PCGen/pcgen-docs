@@ -4,8 +4,8 @@ title = "DEITYWEAP (Data: deities.lst)"
 original_url = "/list/data/deities.html#deityweap"
 categories = [ "all-tag", "deities-tag" ]
 [menu.main]
-    name = "DEITYWEAP (Data: deities.lst)"
-    parent = "deities"
+    name = "DEITYWEAP"
+    parent = "data_deities"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "FORGET (Global: OTHER)"
 original_url = "/list/global/other.html#forget"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "FORGET (Global: OTHER)"
-    parent = "other"
+    name = "FORGET"
+    parent = "global_other"
 +++
 
 ## Status

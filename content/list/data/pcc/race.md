@@ -4,8 +4,8 @@ title = "RACE (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#race"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "RACE (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "RACE"
+    parent = "data_pcc"
 +++
 
 ## Status

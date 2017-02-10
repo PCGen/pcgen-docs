@@ -4,8 +4,8 @@ title = "BONUSITEMCOST (System: sizeAdjustment.lst)"
 original_url = "/list/system/sizeadjustment.html#bonusitemcost"
 categories = [ "all-tag", "sizeadjustment-tag" ]
 [menu.main]
-    name = "BONUSITEMCOST (System: sizeAdjustment.lst)"
-    parent = "sizeadjustment"
+    name = "BONUSITEMCOST"
+    parent = "system_sizeadjustment"
 +++
 
 ## Status

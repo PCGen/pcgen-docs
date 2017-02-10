@@ -4,8 +4,8 @@ title = "MAXAGE (System: bio/biosettings.lst)"
 original_url = "/list/system/biosettings.html#maxage"
 categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
-    name = "MAXAGE (System: bio/biosettings.lst)"
-    parent = "biosettings"
+    name = "MAXAGE"
+    parent = "system_biosettings"
 +++
 
 ## Status

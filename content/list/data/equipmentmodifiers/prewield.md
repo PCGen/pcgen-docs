@@ -4,8 +4,8 @@ title = "PREWIELD (Data: equipment_modifiers.lst)"
 original_url = "/list/data/equipmentmodifiers.html#prewield"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
-    name = "PREWIELD (Data: equipment_modifiers.lst)"
-    parent = "equipmentmodifiers"
+    name = "PREWIELD"
+    parent = "data_equipmentmodifiers"
 +++
 
 ## Status

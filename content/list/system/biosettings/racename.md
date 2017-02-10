@@ -4,8 +4,8 @@ title = "RACENAME (System: bio/biosettings.lst)"
 original_url = "/list/system/biosettings.html#racename"
 categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
-    name = "RACENAME (System: bio/biosettings.lst)"
-    parent = "biosettings"
+    name = "RACENAME"
+    parent = "system_biosettings"
 +++
 
 ## Status

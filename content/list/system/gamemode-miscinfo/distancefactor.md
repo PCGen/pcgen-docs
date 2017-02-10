@@ -4,8 +4,8 @@ title = "DISTANCEFACTOR (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#distancefactor"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "DISTANCEFACTOR (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "DISTANCEFACTOR"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

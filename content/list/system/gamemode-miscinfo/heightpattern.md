@@ -4,8 +4,8 @@ title = "HEIGHTPATTERN (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#heightpattern"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "HEIGHTPATTERN (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "HEIGHTPATTERN"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

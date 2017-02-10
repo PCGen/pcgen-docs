@@ -4,8 +4,8 @@ title = "SOURCELONG (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#sourcelong"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "SOURCELONG (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "SOURCELONG"
+    parent = "data_pcc"
 +++
 
 ## Status

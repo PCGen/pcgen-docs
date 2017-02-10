@@ -4,8 +4,8 @@ title = "PLURAL (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#plural"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "PLURAL (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "PLURAL"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

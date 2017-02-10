@@ -4,8 +4,8 @@ title = "DISPLAYORDER (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#displayorder"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "DISPLAYORDER (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "DISPLAYORDER"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

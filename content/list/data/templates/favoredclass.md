@@ -4,8 +4,8 @@ title = "FAVOREDCLASS (Data: templates.lst)"
 original_url = "/list/data/templates.html#favoredclass"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "FAVOREDCLASS (Data: templates.lst)"
-    parent = "templates"
+    name = "FAVOREDCLASS"
+    parent = "data_templates"
 +++
 
 ## Status

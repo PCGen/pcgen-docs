@@ -4,8 +4,8 @@ title = "PRESUBCLASS (Global: PRErequisite)"
 original_url = "/list/global/pre.html#presubclass"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRESUBCLASS (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRESUBCLASS"
+    parent = "global_pre"
 +++
 
 ## Status

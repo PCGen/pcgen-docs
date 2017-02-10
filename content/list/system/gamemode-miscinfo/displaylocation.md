@@ -4,8 +4,8 @@ title = "DISPLAYLOCATION (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#displaylocation"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "DISPLAYLOCATION (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "DISPLAYLOCATION"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

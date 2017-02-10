@@ -4,8 +4,8 @@ title = "WILDCARD (Global: OTHER)"
 original_url = "/list/global/other.html#wildcard"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "WILDCARD (Global: OTHER)"
-    parent = "other"
+    name = "WILDCARD"
+    parent = "global_other"
 +++
 
 ## Status

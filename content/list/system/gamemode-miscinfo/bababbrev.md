@@ -4,8 +4,8 @@ title = "BABABBREV (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#bababbrev"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "BABABBREV (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "BABABBREV"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

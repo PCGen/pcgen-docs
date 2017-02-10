@@ -4,8 +4,8 @@ title = "REGION (Global: OTHER)"
 original_url = "/list/global/other.html#region"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "REGION (Global: OTHER)"
-    parent = "other"
+    name = "REGION"
+    parent = "global_other"
 +++
 
 ## Status

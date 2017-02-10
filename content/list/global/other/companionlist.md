@@ -4,8 +4,8 @@ title = "COMPANIONLIST (Global: OTHER)"
 original_url = "/list/global/other.html#companionlist"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "COMPANIONLIST (Global: OTHER)"
-    parent = "other"
+    name = "COMPANIONLIST"
+    parent = "global_other"
 +++
 
 ## Status

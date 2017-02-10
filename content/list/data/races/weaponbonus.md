@@ -4,8 +4,8 @@ title = "WEAPONBONUS (Data: races.lst)"
 original_url = "/list/data/races.html#weaponbonus"
 categories = [ "all-tag", "races-tag" ]
 [menu.main]
-    name = "WEAPONBONUS (Data: races.lst)"
-    parent = "races"
+    name = "WEAPONBONUS"
+    parent = "data_races"
 +++
 
 ## Status

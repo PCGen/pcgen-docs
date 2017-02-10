@@ -4,8 +4,8 @@ title = "ROLLMETHOD (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#rollmethod"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "ROLLMETHOD (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "ROLLMETHOD"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

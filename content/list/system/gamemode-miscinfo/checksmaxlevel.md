@@ -4,8 +4,8 @@ title = "CHECKSMAXLEVEL (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#checksmaxlevel"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "CHECKSMAXLEVEL (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "CHECKSMAXLEVEL"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

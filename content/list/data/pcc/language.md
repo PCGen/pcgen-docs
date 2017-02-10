@@ -4,8 +4,8 @@ title = "LANGUAGE (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#language"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "LANGUAGE (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "LANGUAGE"
+    parent = "data_pcc"
 +++
 
 ## Status

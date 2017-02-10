@@ -4,8 +4,8 @@ title = "RACETYPE (Data: companion_mods.lst)"
 original_url = "/list/data/companionmodifiers.html#racetype"
 categories = [ "all-tag", "companionmodifiers-tag" ]
 [menu.main]
-    name = "RACETYPE (Data: companion_mods.lst)"
-    parent = "companionmodifiers"
+    name = "RACETYPE"
+    parent = "data_companionmodifiers"
 +++
 
 ## Status

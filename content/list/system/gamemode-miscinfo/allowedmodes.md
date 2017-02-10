@@ -4,8 +4,8 @@ title = "ALLOWEDMODES (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#allowedmodes"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "ALLOWEDMODES (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "ALLOWEDMODES"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "MODTOSKILLS (Data: classes.lst)"
 original_url = "/list/data/classes.html#modtoskills"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "MODTOSKILLS (Data: classes.lst)"
-    parent = "classes"
+    name = "MODTOSKILLS"
+    parent = "data_classes"
 +++
 
 ## Status

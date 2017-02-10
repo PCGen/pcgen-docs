@@ -4,8 +4,8 @@ title = "BONUSFEATLEVELSTARTINTERVAL (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#bonusfeatlevelstartinterval"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "BONUSFEATLEVELSTARTINTERVAL (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "BONUSFEATLEVELSTARTINTERVAL"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

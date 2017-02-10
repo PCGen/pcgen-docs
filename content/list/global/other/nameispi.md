@@ -4,8 +4,8 @@ title = "NAMEISPI (Global: OTHER)"
 original_url = "/list/global/other.html#nameispi"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "NAMEISPI (Global: OTHER)"
-    parent = "other"
+    name = "NAMEISPI"
+    parent = "global_other"
 +++
 
 ## Status

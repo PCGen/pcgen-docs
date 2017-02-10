@@ -4,8 +4,8 @@ title = "DEFINEMAXLEVELSTAT (Game Mode: statsandchecks.lst)"
 original_url = "/list/system/gamemode-statsandchecks.html#definemaxlevelstat"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
 [menu.main]
-    name = "DEFINEMAXLEVELSTAT (Game Mode: statsandchecks.lst)"
-    parent = "gamemode-statsandchecks"
+    name = "DEFINEMAXLEVELSTAT"
+    parent = "system_gamemode-statsandchecks"
 +++
 
 ## Status

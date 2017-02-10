@@ -4,8 +4,8 @@ title = "HEIGHTUNIT (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#heightunit"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "HEIGHTUNIT (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "HEIGHTUNIT"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "ALTEQMOD (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#alteqmod"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "ALTEQMOD (Data: equipment.lst)"
-    parent = "equipment"
+    name = "ALTEQMOD"
+    parent = "data_equipment"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "SPELLCASTER (Global: ADD)"
 original_url = "/list/global/add.html#spellcaster"
 categories = [ "all-tag", "add-tag" ]
 [menu.main]
-    name = "SPELLCASTER (Global: ADD)"
-    parent = "add"
+    name = "SPELLCASTER"
+    parent = "global_add"
 +++
 
 ## Status

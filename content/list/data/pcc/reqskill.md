@@ -4,8 +4,8 @@ title = "REQSKILL (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#reqskill"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "REQSKILL (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "REQSKILL"
+    parent = "data_pcc"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "ALIGN (Data: starting_kits.lst)"
 original_url = "/list/data/startingkits.html#align"
 categories = [ "all-tag", "startingkits-tag" ]
 [menu.main]
-    name = "ALIGN (Data: starting_kits.lst)"
-    parent = "startingkits"
+    name = "ALIGN"
+    parent = "data_startingkits"
 +++
 
 ## Status

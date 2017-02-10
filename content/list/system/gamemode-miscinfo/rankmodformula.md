@@ -4,8 +4,8 @@ title = "RANKMODFORMULA (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#rankmodformula"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "RANKMODFORMULA (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "RANKMODFORMULA"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "DEFINEUNLOCK (Global: OTHER)"
 original_url = "/list/global/other.html#defineunlock"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "DEFINEUNLOCK (Global: OTHER)"
-    parent = "other"
+    name = "DEFINEUNLOCK"
+    parent = "global_other"
 +++
 
 ## Status

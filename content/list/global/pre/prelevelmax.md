@@ -4,8 +4,8 @@ title = "PRELEVELMAX (Global: PRErequisite)"
 original_url = "/list/global/pre.html#prelevelmax"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRELEVELMAX (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRELEVELMAX"
+    parent = "global_pre"
 +++
 
 ## Status

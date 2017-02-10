@@ -4,8 +4,8 @@ title = "NOCHOICE (Data: equipment_modifiers.lst)"
 original_url = "/list/data/equipmentmodifiers.html#nochoice"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
-    name = "NOCHOICE (Data: equipment_modifiers.lst)"
-    parent = "equipmentmodifiers"
+    name = "NOCHOICE"
+    parent = "data_equipmentmodifiers"
 +++
 
 ## Status

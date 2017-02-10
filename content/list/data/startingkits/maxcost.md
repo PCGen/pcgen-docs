@@ -4,8 +4,8 @@ title = "MAXCOST (Data: starting_kits.lst)"
 original_url = "/list/data/startingkits.html#maxcost"
 categories = [ "all-tag", "startingkits-tag" ]
 [menu.main]
-    name = "MAXCOST (Data: starting_kits.lst)"
-    parent = "startingkits"
+    name = "MAXCOST"
+    parent = "data_startingkits"
 +++
 
 ## Status

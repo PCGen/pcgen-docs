@@ -4,8 +4,8 @@ title = "PROHIBITSPELL (Data: classes.lst)"
 original_url = "/list/data/classes.html#prohibitspell"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "PROHIBITSPELL (Data: classes.lst)"
-    parent = "classes"
+    name = "PROHIBITSPELL"
+    parent = "data_classes"
 +++
 
 ## Status

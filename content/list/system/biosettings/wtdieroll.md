@@ -4,8 +4,8 @@ title = "WTDIEROLL (System: bio/biosettings.lst)"
 original_url = "/list/system/biosettings.html#wtdieroll"
 categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
-    name = "WTDIEROLL (System: bio/biosettings.lst)"
-    parent = "biosettings"
+    name = "WTDIEROLL"
+    parent = "system_biosettings"
 +++
 
 ## Status

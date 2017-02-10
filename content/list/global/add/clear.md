@@ -4,8 +4,8 @@ title = "CLEAR (Global: ADD)"
 original_url = "/list/global/add.html#clear"
 categories = [ "all-tag", "add-tag" ]
 [menu.main]
-    name = "CLEAR (Global: ADD)"
-    parent = "add"
+    name = "CLEAR"
+    parent = "global_add"
 +++
 
 ## Status

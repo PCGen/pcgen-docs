@@ -4,8 +4,8 @@ title = "PRETEXT (Global: PRErequisite)"
 original_url = "/list/global/pre.html#pretext"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRETEXT (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRETEXT"
+    parent = "global_pre"
 +++
 
 ## Status

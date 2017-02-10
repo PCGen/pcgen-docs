@@ -4,8 +4,8 @@ title = "ISOGL (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#isogl"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "ISOGL (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "ISOGL"
+    parent = "data_pcc"
 +++
 
 ## Status

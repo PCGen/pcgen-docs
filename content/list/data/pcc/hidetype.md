@@ -4,8 +4,8 @@ title = "HIDETYPE (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#hidetype"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "HIDETYPE (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "HIDETYPE"
+    parent = "data_pcc"
 +++
 
 ## Status

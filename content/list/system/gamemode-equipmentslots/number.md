@@ -4,8 +4,8 @@ title = "NUMBER (Game Mode: equipmentslots.lst)"
 original_url = "/list/system/gamemode-equipmentslots.html#number"
 categories = [ "all-tag", "gamemode-equipmentslots-tag" ]
 [menu.main]
-    name = "NUMBER (Game Mode: equipmentslots.lst)"
-    parent = "gamemode-equipmentslots"
+    name = "NUMBER"
+    parent = "system_gamemode-equipmentslots"
 +++
 
 ## Status

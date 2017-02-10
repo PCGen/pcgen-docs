@@ -4,8 +4,8 @@ title = "HANDS (Data: weapon_proficiencies.lst)"
 original_url = "/list/data/weaponproficiencies.html#hands"
 categories = [ "all-tag", "weaponproficiencies-tag" ]
 [menu.main]
-    name = "HANDS (Data: weapon_proficiencies.lst)"
-    parent = "weaponproficiencies"
+    name = "HANDS"
+    parent = "data_weaponproficiencies"
 +++
 
 ## Status

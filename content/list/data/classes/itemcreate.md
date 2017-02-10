@@ -4,8 +4,8 @@ title = "ITEMCREATE (Data: classes.lst)"
 original_url = "/list/data/classes.html#itemcreate"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "ITEMCREATE (Data: classes.lst)"
-    parent = "classes"
+    name = "ITEMCREATE"
+    parent = "data_classes"
 +++
 
 ## Status

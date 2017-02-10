@@ -4,8 +4,8 @@ title = "BONUSMONSKILLPTS (Data: templates.lst)"
 original_url = "/list/data/templates.html#bonusmonskillpts"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "BONUSMONSKILLPTS (Data: templates.lst)"
-    parent = "templates"
+    name = "BONUSMONSKILLPTS"
+    parent = "data_templates"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "PRERACETYPE (Data: classes.lst)"
 original_url = "/list/data/classes.html#preracetype"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "PRERACETYPE (Data: classes.lst)"
-    parent = "classes"
+    name = "PRERACETYPE"
+    parent = "data_classes"
 +++
 
 ## Status

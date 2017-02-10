@@ -4,8 +4,8 @@ title = "PREEQUIPBOTH (Global: PRErequisite)"
 original_url = "/list/global/pre.html#preequipboth"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREEQUIPBOTH (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREEQUIPBOTH"
+    parent = "global_pre"
 +++
 
 ## Status

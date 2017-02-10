@@ -4,8 +4,8 @@ title = "MULT (Data: abilities.lst)"
 original_url = "/list/data/ability.html#mult"
 categories = [ "all-tag", "ability-tag" ]
 [menu.main]
-    name = "MULT (Data: abilities.lst)"
-    parent = "ability"
+    name = "MULT"
+    parent = "data_ability"
 +++
 
 ## Status

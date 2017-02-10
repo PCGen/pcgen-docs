@@ -4,8 +4,8 @@ title = "PREPCLEVEL (Global: PRErequisite)"
 original_url = "/list/global/pre.html#prepclevel"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREPCLEVEL (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREPCLEVEL"
+    parent = "global_pre"
 +++
 
 ## Status

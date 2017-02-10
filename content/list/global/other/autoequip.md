@@ -4,8 +4,8 @@ title = "AUTOEQUIP (Global: OTHER)"
 original_url = "/list/global/other.html#autoequip"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "AUTOEQUIP (Global: OTHER)"
-    parent = "other"
+    name = "AUTOEQUIP"
+    parent = "global_other"
 +++
 
 ## Status

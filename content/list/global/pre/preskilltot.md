@@ -4,8 +4,8 @@ title = "PRESKILLTOT (Global: PRErequisite)"
 original_url = "/list/global/pre.html#preskilltot"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRESKILLTOT (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRESKILLTOT"
+    parent = "global_pre"
 +++
 
 ## Status

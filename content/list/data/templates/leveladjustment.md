@@ -4,8 +4,8 @@ title = "LEVELADJUSTMENT (Data: templates.lst)"
 original_url = "/list/data/templates.html#leveladjustment"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "LEVELADJUSTMENT (Data: templates.lst)"
-    parent = "templates"
+    name = "LEVELADJUSTMENT"
+    parent = "data_templates"
 +++
 
 ## Status

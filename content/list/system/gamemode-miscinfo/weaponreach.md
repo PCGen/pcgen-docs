@@ -4,8 +4,8 @@ title = "WEAPONREACH (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#weaponreach"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "WEAPONREACH (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "WEAPONREACH"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

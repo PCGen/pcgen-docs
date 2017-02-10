@@ -4,8 +4,8 @@ title = "UNENCUMBEREDMOVE (Global: OTHER)"
 original_url = "/list/global/other.html#unencumberedmove"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "UNENCUMBEREDMOVE (Global: OTHER)"
-    parent = "other"
+    name = "UNENCUMBEREDMOVE"
+    parent = "global_other"
 +++
 
 ## Status

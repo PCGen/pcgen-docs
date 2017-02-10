@@ -4,8 +4,8 @@ title = "BONUSSKILLPOOL (Data: classes.lst)"
 original_url = "/list/data/classes.html#bonusskillpool"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "BONUSSKILLPOOL (Data: classes.lst)"
-    parent = "classes"
+    name = "BONUSSKILLPOOL"
+    parent = "data_classes"
 +++
 
 ## Status

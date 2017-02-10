@@ -4,8 +4,8 @@ title = "HPFORMULA (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#hpformula"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "HPFORMULA (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "HPFORMULA"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

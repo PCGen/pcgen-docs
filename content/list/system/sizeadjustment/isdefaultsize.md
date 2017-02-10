@@ -4,8 +4,8 @@ title = "ISDEFAULTSIZE (System: sizeAdjustment.lst)"
 original_url = "/list/system/sizeadjustment.html#isdefaultsize"
 categories = [ "all-tag", "sizeadjustment-tag" ]
 [menu.main]
-    name = "ISDEFAULTSIZE (System: sizeAdjustment.lst)"
-    parent = "sizeadjustment"
+    name = "ISDEFAULTSIZE"
+    parent = "system_sizeadjustment"
 +++
 
 ## Status

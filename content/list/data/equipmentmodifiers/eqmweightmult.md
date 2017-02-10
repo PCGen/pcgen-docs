@@ -4,8 +4,8 @@ title = "EQMWEIGHTMULT (Data: equipment_modifiers.lst)"
 original_url = "/list/data/equipmentmodifiers.html#eqmweightmult"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
-    name = "EQMWEIGHTMULT (Data: equipment_modifiers.lst)"
-    parent = "equipmentmodifiers"
+    name = "EQMWEIGHTMULT"
+    parent = "data_equipmentmodifiers"
 +++
 
 ## Status

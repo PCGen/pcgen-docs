@@ -4,8 +4,8 @@ title = "EDR (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#edr"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "EDR (Data: equipment.lst)"
-    parent = "equipment"
+    name = "EDR"
+    parent = "data_equipment"
 +++
 
 ## Status

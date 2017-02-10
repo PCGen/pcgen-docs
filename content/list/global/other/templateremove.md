@@ -4,8 +4,8 @@ title = "TEMPLATEREMOVE (Global: OTHER)"
 original_url = "/list/global/other.html#templateremove"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "TEMPLATEREMOVE (Global: OTHER)"
-    parent = "other"
+    name = "TEMPLATEREMOVE"
+    parent = "global_other"
 +++
 
 ## Status

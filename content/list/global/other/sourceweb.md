@@ -4,8 +4,8 @@ title = "SOURCEWEB (Global: OTHER)"
 original_url = "/list/global/other.html#sourceweb"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "SOURCEWEB (Global: OTHER)"
-    parent = "other"
+    name = "SOURCEWEB"
+    parent = "global_other"
 +++
 
 ## Status

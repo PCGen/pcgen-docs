@@ -4,8 +4,8 @@ title = "SORTKEY (Global: OTHER)"
 original_url = "/list/global/other.html#sortkey"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "SORTKEY (Global: OTHER)"
-    parent = "other"
+    name = "SORTKEY"
+    parent = "global_other"
 +++
 
 ## Status

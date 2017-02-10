@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-load.html#load"
 categories = [ "all-tag", "gamemode-load-tag" ]
 [menu.main]
     name = "LOAD (Game Mode: load.lst"
-    parent = "gamemode-load"
+    parent = "system_gamemode-load"
 +++
 
 ## Status

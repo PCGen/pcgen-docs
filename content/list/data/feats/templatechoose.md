@@ -4,8 +4,8 @@ title = "TEMPLATECHOOSE (Data: feats.lst)"
 original_url = "/list/data/feats.html#templatechoose"
 categories = [ "all-tag", "feats-tag" ]
 [menu.main]
-    name = "TEMPLATECHOOSE (Data: feats.lst)"
-    parent = "feats"
+    name = "TEMPLATECHOOSE"
+    parent = "data_feats"
 +++
 
 ## Status

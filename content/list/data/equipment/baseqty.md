@@ -4,8 +4,8 @@ title = "BASEQTY (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#baseqty"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "BASEQTY (Data: equipment.lst)"
-    parent = "equipment"
+    name = "BASEQTY"
+    parent = "data_equipment"
 +++
 
 ## Status

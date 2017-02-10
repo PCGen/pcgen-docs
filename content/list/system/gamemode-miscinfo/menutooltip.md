@@ -4,8 +4,8 @@ title = "MENUTOOLTIP (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#menutooltip"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "MENUTOOLTIP (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "MENUTOOLTIP"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "HITDIE (Data: classes.lst)"
 original_url = "/list/data/classes.html#hitdie"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "HITDIE (Data: classes.lst)"
-    parent = "classes"
+    name = "HITDIE"
+    parent = "data_classes"
 +++
 
 ## Status

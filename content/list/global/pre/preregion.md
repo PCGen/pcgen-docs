@@ -4,8 +4,8 @@ title = "PREREGION (Global: PRErequisite)"
 original_url = "/list/global/pre.html#preregion"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREREGION (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREREGION"
+    parent = "global_pre"
 +++
 
 ## Status

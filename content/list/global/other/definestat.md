@@ -4,8 +4,8 @@ title = "DEFINESTAT (Global: OTHER)"
 original_url = "/list/global/other.html#definestat"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "DEFINESTAT (Global: OTHER)"
-    parent = "other"
+    name = "DEFINESTAT"
+    parent = "global_other"
 +++
 
 ## Status

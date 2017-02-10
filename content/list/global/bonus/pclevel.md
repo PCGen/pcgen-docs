@@ -4,8 +4,8 @@ title = "PCLEVEL (Global: BONUS)"
 original_url = "/list/global/bonus.html#pclevel"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "PCLEVEL (Global: BONUS)"
-    parent = "bonus"
+    name = "PCLEVEL"
+    parent = "global_bonus"
 +++
 
 ## Status

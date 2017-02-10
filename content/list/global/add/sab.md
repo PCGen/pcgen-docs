@@ -4,8 +4,8 @@ title = "SAB (Global: ADD)"
 original_url = "/list/global/add.html#sab"
 categories = [ "all-tag", "add-tag" ]
 [menu.main]
-    name = "SAB (Global: ADD)"
-    parent = "add"
+    name = "SAB"
+    parent = "global_add"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "RACE (Game Mode: migration.lst)"
 original_url = "/list/system/gamemode-migration.html#race"
 categories = [ "all-tag", "gamemode-migration-tag" ]
 [menu.main]
-    name = "RACE (Game Mode: migration.lst)"
-    parent = "gamemode-migration"
+    name = "RACE"
+    parent = "system_gamemode-migration"
 +++
 
 ## Status

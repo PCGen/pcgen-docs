@@ -4,8 +4,8 @@ title = "LANGBONUS (Data: templates.lst)"
 original_url = "/list/data/templates.html#langbonus"
 categories = [ "all-tag", "templates-tag" ]
 [menu.main]
-    name = "LANGBONUS (Data: templates.lst)"
-    parent = "templates"
+    name = "LANGBONUS"
+    parent = "data_templates"
 +++
 
 ## Status

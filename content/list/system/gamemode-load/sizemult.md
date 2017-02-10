@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-load.html#sizemult"
 categories = [ "all-tag", "gamemode-load-tag" ]
 [menu.main]
     name = "SIZEMULT (Game Mode: load.lst"
-    parent = "gamemode-load"
+    parent = "system_gamemode-load"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "SOURCEPAGE (Global: OTHER)"
 original_url = "/list/global/other.html#sourcepage"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "SOURCEPAGE (Global: OTHER)"
-    parent = "other"
+    name = "SOURCEPAGE"
+    parent = "global_other"
 +++
 
 ## Status

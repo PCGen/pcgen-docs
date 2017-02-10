@@ -4,8 +4,8 @@ title = "AUTOSHIELDPROF (Global: OTHER)"
 original_url = "/list/global/other.html#autoshieldprof"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "AUTOSHIELDPROF (Global: OTHER)"
-    parent = "other"
+    name = "AUTOSHIELDPROF"
+    parent = "global_other"
 +++
 
 ## Status

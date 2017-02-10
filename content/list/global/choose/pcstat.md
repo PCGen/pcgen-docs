@@ -4,8 +4,8 @@ title = "PCSTAT (Global: CHOOSE)"
 original_url = "/list/global/choose.html#pcstat"
 categories = [ "all-tag", "choose-tag" ]
 [menu.main]
-    name = "PCSTAT (Global: CHOOSE)"
-    parent = "choose"
+    name = "PCSTAT"
+    parent = "global_choose"
 +++
 
 ## Status

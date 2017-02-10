@@ -4,8 +4,8 @@ title = "SPELLLIST (Data: classes.lst)"
 original_url = "/list/data/classes.html#spelllist"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "SPELLLIST (Data: classes.lst)"
-    parent = "classes"
+    name = "SPELLLIST"
+    parent = "data_classes"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "MOVEMULT (Global: BONUS)"
 original_url = "/list/global/bonus.html#movemult"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "MOVEMULT (Global: BONUS)"
-    parent = "bonus"
+    name = "MOVEMULT"
+    parent = "global_bonus"
 +++
 
 ## Status

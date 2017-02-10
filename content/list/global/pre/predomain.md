@@ -4,8 +4,8 @@ title = "PREDOMAIN (Global: PRErequisite)"
 original_url = "/list/global/pre.html#predomain"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREDOMAIN (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREDOMAIN"
+    parent = "global_pre"
 +++
 
 ## Status

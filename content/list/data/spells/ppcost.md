@@ -4,8 +4,8 @@ title = "PPCOST (Data: spells.lst)"
 original_url = "/list/data/spells.html#ppcost"
 categories = [ "all-tag", "spells-tag" ]
 [menu.main]
-    name = "PPCOST (Data: spells.lst)"
-    parent = "spells"
+    name = "PPCOST"
+    parent = "data_spells"
 +++
 
 ## Status

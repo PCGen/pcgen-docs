@@ -4,8 +4,8 @@ title = "SIZENUM (System: sizeAdjustment.lst)"
 original_url = "/list/system/sizeadjustment.html#sizenum"
 categories = [ "all-tag", "sizeadjustment-tag" ]
 [menu.main]
-    name = "SIZENUM (System: sizeAdjustment.lst)"
-    parent = "sizeadjustment"
+    name = "SIZENUM"
+    parent = "system_sizeadjustment"
 +++
 
 ## Status

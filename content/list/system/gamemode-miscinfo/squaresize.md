@@ -4,8 +4,8 @@ title = "SQUARESIZE (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#squaresize"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "SQUARESIZE (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "SQUARESIZE"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

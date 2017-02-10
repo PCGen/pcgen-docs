@@ -4,8 +4,8 @@ title = "BONUSITEMWEIGHT (System: sizeAdjustment.lst)"
 original_url = "/list/system/sizeadjustment.html#bonusitemweight"
 categories = [ "all-tag", "sizeadjustment-tag" ]
 [menu.main]
-    name = "BONUSITEMWEIGHT (System: sizeAdjustment.lst)"
-    parent = "sizeadjustment"
+    name = "BONUSITEMWEIGHT"
+    parent = "system_sizeadjustment"
 +++
 
 ## Status

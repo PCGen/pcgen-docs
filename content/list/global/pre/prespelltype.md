@@ -4,8 +4,8 @@ title = "PRESPELLTYPE (Global: PRErequisite)"
 original_url = "/list/global/pre.html#prespelltype"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRESPELLTYPE (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRESPELLTYPE"
+    parent = "global_pre"
 +++
 
 ## Status

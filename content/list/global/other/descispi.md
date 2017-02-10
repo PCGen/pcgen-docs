@@ -4,8 +4,8 @@ title = "DESCISPI (Global: OTHER)"
 original_url = "/list/global/other.html#descispi"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "DESCISPI (Global: OTHER)"
-    parent = "other"
+    name = "DESCISPI"
+    parent = "global_other"
 +++
 
 ## Status

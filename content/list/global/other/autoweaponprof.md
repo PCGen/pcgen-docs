@@ -4,8 +4,8 @@ title = "AUTOWEAPONPROF (Global: OTHER)"
 original_url = "/list/global/other.html#autoweaponprof"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "AUTOWEAPONPROF (Global: OTHER)"
-    parent = "other"
+    name = "AUTOWEAPONPROF"
+    parent = "global_other"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "WEIGHTFACTOR (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#weightfactor"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "WEIGHTFACTOR (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "WEIGHTFACTOR"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

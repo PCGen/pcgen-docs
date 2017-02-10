@@ -4,8 +4,8 @@ title = "MONNONSKILLHD (Data: classes.lst)"
 original_url = "/list/data/classes.html#monnonskillhd"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "MONNONSKILLHD (Data: classes.lst)"
-    parent = "classes"
+    name = "MONNONSKILLHD"
+    parent = "data_classes"
 +++
 
 ## Status

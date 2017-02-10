@@ -4,8 +4,8 @@ title = "ABILITYADDSPELLLEVEL (Game Mode: statsandchecks.lst)"
 original_url = "/list/system/gamemode-statsandchecks.html#abilityaddspelllevel"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
 [menu.main]
-    name = "ABILITYADDSPELLLEVEL (Game Mode: statsandchecks.lst)"
-    parent = "gamemode-statsandchecks"
+    name = "ABILITYADDSPELLLEVEL"
+    parent = "system_gamemode-statsandchecks"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "FUMBLERANGE (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#fumblerange"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "FUMBLERANGE (Data: equipment.lst)"
-    parent = "equipment"
+    name = "FUMBLERANGE"
+    parent = "data_equipment"
 +++
 
 ## Status

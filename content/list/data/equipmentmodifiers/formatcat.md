@@ -4,8 +4,8 @@ title = "FORMATCAT (Data: equipment_modifiers.lst)"
 original_url = "/list/data/equipmentmodifiers.html#formatcat"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
-    name = "FORMATCAT (Data: equipment_modifiers.lst)"
-    parent = "equipmentmodifiers"
+    name = "FORMATCAT"
+    parent = "data_equipmentmodifiers"
 +++
 
 ## Status

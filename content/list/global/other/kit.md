@@ -4,8 +4,8 @@ title = "KIT (Global: OTHER)"
 original_url = "/list/global/other.html#kit"
 categories = [ "all-tag", "other-tag" ]
 [menu.main]
-    name = "KIT (Global: OTHER)"
-    parent = "other"
+    name = "KIT"
+    parent = "global_other"
 +++
 
 ## Status

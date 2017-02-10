@@ -4,8 +4,8 @@ title = "XTRAFEATS (Data: classes.lst)"
 original_url = "/list/data/classes.html#xtrafeats"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "XTRAFEATS (Data: classes.lst)"
-    parent = "classes"
+    name = "XTRAFEATS"
+    parent = "data_classes"
 +++
 
 ## Status

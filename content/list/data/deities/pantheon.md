@@ -4,8 +4,8 @@ title = "PANTHEON (Data: deities.lst)"
 original_url = "/list/data/deities.html#pantheon"
 categories = [ "all-tag", "deities-tag" ]
 [menu.main]
-    name = "PANTHEON (Data: deities.lst)"
-    parent = "deities"
+    name = "PANTHEON"
+    parent = "data_deities"
 +++
 
 ## Status

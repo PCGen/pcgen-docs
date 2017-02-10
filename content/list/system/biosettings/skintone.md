@@ -4,8 +4,8 @@ title = "SKINTONE (System: bio/biosettings.lst)"
 original_url = "/list/system/biosettings.html#skintone"
 categories = [ "all-tag", "biosettings-tag" ]
 [menu.main]
-    name = "SKINTONE (System: bio/biosettings.lst)"
-    parent = "biosettings"
+    name = "SKINTONE"
+    parent = "system_biosettings"
 +++
 
 ## Status

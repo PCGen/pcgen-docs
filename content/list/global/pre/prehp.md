@@ -4,8 +4,8 @@ title = "PREHP (Global: PRErequisite)"
 original_url = "/list/global/pre.html#prehp"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PREHP (Global: PRErequisite)"
-    parent = "pre"
+    name = "PREHP"
+    parent = "global_pre"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "ALTHPNAME (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#althpname"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "ALTHPNAME (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "ALTHPNAME"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

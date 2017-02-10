@@ -4,8 +4,8 @@ title = "PRETYPE (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#pretype"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "PRETYPE (Data: equipment.lst)"
-    parent = "equipment"
+    name = "PRETYPE"
+    parent = "data_equipment"
 +++
 
 ## Status

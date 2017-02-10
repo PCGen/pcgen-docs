@@ -4,8 +4,8 @@ title = "EXCLASS (Data: classes.lst)"
 original_url = "/list/data/classes.html#exclass"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "EXCLASS (Data: classes.lst)"
-    parent = "classes"
+    name = "EXCLASS"
+    parent = "data_classes"
 +++
 
 ## Status

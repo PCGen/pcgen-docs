@@ -4,8 +4,8 @@ title = "ALLOWAUTORESIZE (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#allowautoresize"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "ALLOWAUTORESIZE (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "ALLOWAUTORESIZE"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

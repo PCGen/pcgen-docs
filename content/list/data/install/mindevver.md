@@ -4,8 +4,8 @@ title = "MINDEVVER (Data: install.lst)"
 original_url = "/list/data/install.html#mindevver"
 categories = [ "all-tag", "install-tag" ]
 [menu.main]
-    name = "MINDEVVER (Data: install.lst)"
-    parent = "install"
+    name = "MINDEVVER"
+    parent = "data_install"
 +++
 
 ## Status

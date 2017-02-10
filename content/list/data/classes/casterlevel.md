@@ -4,8 +4,8 @@ title = "CASTERLEVEL (Data: classes.lst)"
 original_url = "/list/data/classes.html#casterlevel"
 categories = [ "all-tag", "classes-tag" ]
 [menu.main]
-    name = "CASTERLEVEL (Data: classes.lst)"
-    parent = "classes"
+    name = "CASTERLEVEL"
+    parent = "data_classes"
 +++
 
 ## Status

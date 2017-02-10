@@ -4,8 +4,8 @@ title = "ALLOWDUPES (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#allowdupes"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "ALLOWDUPES (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "ALLOWDUPES"
+    parent = "data_pcc"
 +++
 
 ## Status

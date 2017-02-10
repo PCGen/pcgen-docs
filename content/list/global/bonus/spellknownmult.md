@@ -4,8 +4,8 @@ title = "SPELLKNOWNMULT (Global: BONUS)"
 original_url = "/list/global/bonus.html#spellknownmult"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "SPELLKNOWNMULT (Global: BONUS)"
-    parent = "bonus"
+    name = "SPELLKNOWNMULT"
+    parent = "global_bonus"
 +++
 
 ## Status

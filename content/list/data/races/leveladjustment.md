@@ -4,8 +4,8 @@ title = "LEVELADJUSTMENT (Data: races.lst)"
 original_url = "/list/data/races.html#leveladjustment"
 categories = [ "all-tag", "races-tag" ]
 [menu.main]
-    name = "LEVELADJUSTMENT (Data: races.lst)"
-    parent = "races"
+    name = "LEVELADJUSTMENT"
+    parent = "data_races"
 +++
 
 ## Status

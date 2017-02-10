@@ -4,8 +4,8 @@ title = "BONUSSTACKS (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#bonusstacks"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "BONUSSTACKS (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "BONUSSTACKS"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

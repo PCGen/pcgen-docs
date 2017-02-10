@@ -4,8 +4,8 @@ title = "PRESPELLCAST (Global: PRErequisite)"
 original_url = "/list/global/pre.html#prespellcast"
 categories = [ "all-tag", "pre-tag" ]
 [menu.main]
-    name = "PRESPELLCAST (Global: PRErequisite)"
-    parent = "pre"
+    name = "PRESPELLCAST"
+    parent = "global_pre"
 +++
 
 ## Status

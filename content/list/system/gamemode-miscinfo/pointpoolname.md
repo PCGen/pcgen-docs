@@ -4,8 +4,8 @@ title = "POINTPOOLNAME (Game Mode: miscinfo.lst)"
 original_url = "/list/system/gamemode-miscinfo.html#pointpoolname"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
 [menu.main]
-    name = "POINTPOOLNAME (Game Mode: miscinfo.lst)"
-    parent = "gamemode-miscinfo"
+    name = "POINTPOOLNAME"
+    parent = "system_gamemode-miscinfo"
 +++
 
 ## Status

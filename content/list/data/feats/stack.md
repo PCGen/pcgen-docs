@@ -4,8 +4,8 @@ title = "STACK (Data: feats.lst)"
 original_url = "/list/data/feats.html#stack"
 categories = [ "all-tag", "feats-tag" ]
 [menu.main]
-    name = "STACK (Data: feats.lst)"
-    parent = "feats"
+    name = "STACK"
+    parent = "data_feats"
 +++
 
 ## Status

@@ -4,8 +4,8 @@ title = "EQMWEAPONDAMAGESIZE (Data: equipment_modifiers.lst)"
 original_url = "/list/data/equipmentmodifiers.html#eqmweapondamagesize"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
 [menu.main]
-    name = "EQMWEAPONDAMAGESIZE (Data: equipment_modifiers.lst)"
-    parent = "equipmentmodifiers"
+    name = "EQMWEAPONDAMAGESIZE"
+    parent = "data_equipmentmodifiers"
 +++
 
 ## Status

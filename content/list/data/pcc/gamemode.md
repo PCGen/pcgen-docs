@@ -4,8 +4,8 @@ title = "GAMEMODE (Data: campaign.pcc)"
 original_url = "/list/data/pcc.html#gamemode"
 categories = [ "all-tag", "pcc-tag" ]
 [menu.main]
-    name = "GAMEMODE (Data: campaign.pcc)"
-    parent = "pcc"
+    name = "GAMEMODE"
+    parent = "data_pcc"
 +++
 
 ## Status

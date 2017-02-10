@@ -4,8 +4,8 @@ title = "SPROP (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#sprop"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "SPROP (Data: equipment.lst)"
-    parent = "equipment"
+    name = "SPROP"
+    parent = "data_equipment"
 +++
 
 ## Status

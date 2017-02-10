@@ -4,8 +4,8 @@ title = "RANGEMULT (Global: BONUS)"
 original_url = "/list/global/bonus.html#rangemult"
 categories = [ "all-tag", "bonus-tag" ]
 [menu.main]
-    name = "RANGEMULT (Global: BONUS)"
-    parent = "bonus"
+    name = "RANGEMULT"
+    parent = "global_bonus"
 +++
 
 ## Status

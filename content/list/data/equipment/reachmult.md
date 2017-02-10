@@ -4,8 +4,8 @@ title = "REACHMULT (Data: equipment.lst)"
 original_url = "/list/data/equipment.html#reachmult"
 categories = [ "all-tag", "equipment-tag" ]
 [menu.main]
-    name = "REACHMULT (Data: equipment.lst)"
-    parent = "equipment"
+    name = "REACHMULT"
+    parent = "data_equipment"
 +++
 
 ## Status

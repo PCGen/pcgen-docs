@@ -4,8 +4,8 @@ title = "WEAPONFOCUS (Global: CHOOSE)"
 original_url = "/list/global/choose.html#weaponfocus"
 categories = [ "all-tag", "choose-tag" ]
 [menu.main]
-    name = "WEAPONFOCUS (Global: CHOOSE)"
-    parent = "choose"
+    name = "WEAPONFOCUS"
+    parent = "global_choose"
 +++
 
 ## Status
