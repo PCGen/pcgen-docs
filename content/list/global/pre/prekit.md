@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREKIT (Global: PRErequisite)"
-original_url = "list/global/pre.html#prekit"
+original_url = "/list/global/pre.html#prekit"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREKIT"
+    parent = "global_pre"
+    identifier = "global_pre_PREKIT"
 +++
 
 ## Status

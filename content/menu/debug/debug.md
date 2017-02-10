@@ -4,9 +4,9 @@ title = "Debug Menu Options"
 original_url = "/menu/debug/debug.html"
 
 [menu.main]
-    identifier = "debug_debug"
+    identifier = "debug"
     name = "Debug Menu Options"
-    parent = "debug"
+    parent = "menu"
     
 +++
 ![Debug Menu Options](../../images/menus/debug.png)

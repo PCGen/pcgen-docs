@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SPELLLEVEL (Global: CHOOSE)"
-original_url = "list/global/choose.html#spelllevel"
+original_url = "/list/global/choose.html#spelllevel"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "SPELLLEVEL"
+    parent = "global_choose"
+    identifier = "global_choose_SPELLLEVEL"
 +++
 
 ## Status

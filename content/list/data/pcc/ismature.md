@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ISMATURE (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#ismature"
+original_url = "/list/data/pcc.html#ismature"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "ISMATURE"
+    parent = "data_pcc"
+    identifier = "data_pcc_ISMATURE"
 +++
 
 ## Status

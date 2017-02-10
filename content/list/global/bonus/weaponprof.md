@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "WEAPONPROF (Global: BONUS)"
-original_url = "list/global/bonus.html#weaponprof"
+original_url = "/list/global/bonus.html#weaponprof"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "WEAPONPROF"
+    parent = "global_bonus"
+    identifier = "global_bonus_WEAPONPROF"
 +++
 
 ## Status

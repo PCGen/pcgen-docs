@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "WEAPONBONUS (Data: races.lst)"
-original_url = "list/data/races.html#weaponbonus"
+original_url = "/list/data/races.html#weaponbonus"
 categories = [ "all-tag", "races-tag" ]
+[menu.main]
+    name = "WEAPONBONUS"
+    parent = "data_races"
+    identifier = "data_races_WEAPONBONUS"
 +++
 
 ## Status

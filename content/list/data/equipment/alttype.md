@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ALTTYPE (Data: equipment.lst)"
-original_url = "list/data/equipment.html#alttype"
+original_url = "/list/data/equipment.html#alttype"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "ALTTYPE"
+    parent = "data_equipment"
+    identifier = "data_equipment_ALTTYPE"
 +++
 
 ## Status

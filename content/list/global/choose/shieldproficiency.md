@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SHIELDPROFICIENCY (Global: CHOOSE)"
-original_url = "list/global/choose.html#shieldproficiency"
+original_url = "/list/global/choose.html#shieldproficiency"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "SHIELDPROFICIENCY"
+    parent = "global_choose"
+    identifier = "global_choose_SHIELDPROFICIENCY"
 +++
 
 ## Status

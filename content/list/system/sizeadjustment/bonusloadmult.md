@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BONUSLOADMULT (System: sizeAdjustment.lst)"
-original_url = "list/system/sizeadjustment.html#bonusloadmult"
+original_url = "/list/system/sizeadjustment.html#bonusloadmult"
 categories = [ "all-tag", "sizeadjustment-tag" ]
+[menu.main]
+    name = "BONUSLOADMULT"
+    parent = "system_sizeadjustment"
+    identifier = "system_sizeadjustment_BONUSLOADMULT"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SUBSTITUTIONCLASS (Data: classes.lst)"
-original_url = "list/data/classes.html#substitutionclass"
+original_url = "/list/data/classes.html#substitutionclass"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "SUBSTITUTIONCLASS"
+    parent = "data_classes"
+    identifier = "data_classes_SUBSTITUTIONCLASS"
 +++
 
 ## Status

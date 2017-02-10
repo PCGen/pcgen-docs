@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ADDSPELLLEVEL (Data: abilities.lst)"
-original_url = "list/data/ability.html#addspelllevel"
+original_url = "/list/data/ability.html#addspelllevel"
 categories = [ "all-tag", "ability-tag" ]
+[menu.main]
+    name = "ADDSPELLLEVEL"
+    parent = "data_ability"
+    identifier = "data_ability_ADDSPELLLEVEL"
 +++
 
 ## Status

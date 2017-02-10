@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ABILITYADDSPELLLEVEL (Game Mode: statsandchecks.lst)"
-original_url = "list/system/gamemode-statsandchecks.html#abilityaddspelllevel"
+original_url = "/list/system/gamemode-statsandchecks.html#abilityaddspelllevel"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
+[menu.main]
+    name = "ABILITYADDSPELLLEVEL"
+    parent = "system_gamemode-statsandchecks"
+    identifier = "system_gamemode-statsandchecks_ABILITYADDSPELLLEVEL"
 +++
 
 ## Status

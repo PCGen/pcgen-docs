@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "NAMEISPI (Global: OTHER)"
-original_url = "list/global/other.html#nameispi"
+original_url = "/list/global/other.html#nameispi"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "NAMEISPI"
+    parent = "global_other"
+    identifier = "global_other_NAMEISPI"
 +++
 
 ## Status

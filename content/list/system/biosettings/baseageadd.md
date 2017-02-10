@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BASEAGEADD (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#baseageadd"
+original_url = "/list/system/biosettings.html#baseageadd"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "BASEAGEADD"
+    parent = "system_biosettings"
+    identifier = "system_biosettings_BASEAGEADD"
 +++
 
 ## Status

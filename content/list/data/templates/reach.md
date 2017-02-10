@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "REACH (Data: templates.lst)"
-original_url = "list/data/templates.html#reach"
+original_url = "/list/data/templates.html#reach"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "REACH"
+    parent = "data_templates"
+    identifier = "data_templates_REACH"
 +++
 
 ## Status

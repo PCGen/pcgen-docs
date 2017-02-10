@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PLUSCOST (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#pluscost"
+original_url = "/list/system/gamemode-miscinfo.html#pluscost"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "PLUSCOST"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_PLUSCOST"
 +++
 
 ## Status

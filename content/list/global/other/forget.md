@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "FORGET (Global: OTHER)"
-original_url = "list/global/other.html#forget"
+original_url = "/list/global/other.html#forget"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "FORGET"
+    parent = "global_other"
+    identifier = "global_other_FORGET"
 +++
 
 ## Status

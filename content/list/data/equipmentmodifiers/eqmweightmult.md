@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "EQMWEIGHTMULT (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#eqmweightmult"
+original_url = "/list/data/equipmentmodifiers.html#eqmweightmult"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "EQMWEIGHTMULT"
+    parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_EQMWEIGHTMULT"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ALTCRITMULT (Data: equipment.lst)"
-original_url = "list/data/equipment.html#altcritmult"
+original_url = "/list/data/equipment.html#altcritmult"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "ALTCRITMULT"
+    parent = "data_equipment"
+    identifier = "data_equipment_ALTCRITMULT"
 +++
 
 ## Status

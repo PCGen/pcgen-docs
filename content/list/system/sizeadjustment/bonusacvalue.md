@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BONUSACVALUE (System: sizeAdjustment.lst)"
-original_url = "list/system/sizeadjustment.html#bonusacvalue"
+original_url = "/list/system/sizeadjustment.html#bonusacvalue"
 categories = [ "all-tag", "sizeadjustment-tag" ]
+[menu.main]
+    name = "BONUSACVALUE"
+    parent = "system_sizeadjustment"
+    identifier = "system_sizeadjustment_BONUSACVALUE"
 +++
 
 ## Status

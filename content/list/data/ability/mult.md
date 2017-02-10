@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MULT (Data: abilities.lst)"
-original_url = "list/data/ability.html#mult"
+original_url = "/list/data/ability.html#mult"
 categories = [ "all-tag", "ability-tag" ]
+[menu.main]
+    name = "MULT"
+    parent = "data_ability"
+    identifier = "data_ability_MULT"
 +++
 
 ## Status

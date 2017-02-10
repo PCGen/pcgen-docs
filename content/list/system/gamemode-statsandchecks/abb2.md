@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ABB2 (Game Mode: statsandchecks.lst)"
-original_url = "list/system/gamemode-statsandchecks.html#abb2"
+original_url = "/list/system/gamemode-statsandchecks.html#abb2"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
+[menu.main]
+    name = "ABB2"
+    parent = "system_gamemode-statsandchecks"
+    identifier = "system_gamemode-statsandchecks_ABB2"
 +++
 
 ## Status

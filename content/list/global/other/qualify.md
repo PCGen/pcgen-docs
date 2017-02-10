@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "QUALIFY (Global: OTHER)"
-original_url = "list/global/other.html#qualify"
+original_url = "/list/global/other.html#qualify"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "QUALIFY"
+    parent = "global_other"
+    identifier = "global_other_QUALIFY"
 +++
 
 ## Status

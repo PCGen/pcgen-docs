@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREALIGN (Global: PRErequisite)"
-original_url = "list/global/pre.html#prealign"
+original_url = "/list/global/pre.html#prealign"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREALIGN"
+    parent = "global_pre"
+    identifier = "global_pre_PREALIGN"
 +++
 
 ## Status

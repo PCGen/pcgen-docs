@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "POSTRANGEADD (Global: BONUS)"
-original_url = "list/global/bonus.html#postrangeadd"
+original_url = "/list/global/bonus.html#postrangeadd"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "POSTRANGEADD"
+    parent = "global_bonus"
+    identifier = "global_bonus_POSTRANGEADD"
 +++
 
 ## Status

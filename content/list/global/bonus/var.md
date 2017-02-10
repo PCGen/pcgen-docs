@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "VAR (Global: BONUS)"
-original_url = "list/global/bonus.html#var"
+original_url = "/list/global/bonus.html#var"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "VAR"
+    parent = "global_bonus"
+    identifier = "global_bonus_VAR"
 +++
 
 ## Status

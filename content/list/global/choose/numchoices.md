@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "NUMCHOICES (Global: CHOOSE)"
-original_url = "list/global/choose.html#numchoices"
+original_url = "/list/global/choose.html#numchoices"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "NUMCHOICES"
+    parent = "global_choose"
+    identifier = "global_choose_NUMCHOICES"
 +++
 
 ## Status

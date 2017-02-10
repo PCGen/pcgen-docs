@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SPELLSTAT (Data: classes.lst)"
-original_url = "list/data/classes.html#spellstat"
+original_url = "/list/data/classes.html#spellstat"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "SPELLSTAT"
+    parent = "data_classes"
+    identifier = "data_classes_SPELLSTAT"
 +++
 
 ## Status

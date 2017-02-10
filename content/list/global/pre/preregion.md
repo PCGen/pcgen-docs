@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREREGION (Global: PRErequisite)"
-original_url = "list/global/pre.html#preregion"
+original_url = "/list/global/pre.html#preregion"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREREGION"
+    parent = "global_pre"
+    identifier = "global_pre_PREREGION"
 +++
 
 ## Status

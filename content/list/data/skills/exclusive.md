@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "EXCLUSIVE (Data: skills.lst)"
-original_url = "list/data/skills.html#exclusive"
+original_url = "/list/data/skills.html#exclusive"
 categories = [ "all-tag", "skills-tag" ]
+[menu.main]
+    name = "EXCLUSIVE"
+    parent = "data_skills"
+    identifier = "data_skills_EXCLUSIVE"
 +++
 
 ## Status

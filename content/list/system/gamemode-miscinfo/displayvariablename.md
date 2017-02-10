@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "DISPLAYVARIABLENAME (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#displayvariablename"
+original_url = "/list/system/gamemode-miscinfo.html#displayvariablename"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "DISPLAYVARIABLENAME"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_DISPLAYVARIABLENAME"
 +++
 
 ## Status

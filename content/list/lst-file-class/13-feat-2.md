@@ -5,7 +5,7 @@ original_url = "/list/lst-file-class/13-feat-2.html"
 
 [menu.main]
     identifier = "lst-file-class_13-feat-2"
-    name = "Lesson #13: .lst - Feats (Part 2 - prerequisites)"
+    name = "Lesson #13: .lst - Feats"
     parent = "lst-file-class"
     
 +++

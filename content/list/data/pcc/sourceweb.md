@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SOURCEWEB (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#sourceweb"
+original_url = "/list/data/pcc.html#sourceweb"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "SOURCEWEB"
+    parent = "data_pcc"
+    identifier = "data_pcc_SOURCEWEB"
 +++
 
 ## Status

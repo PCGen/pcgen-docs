@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SLOTS (Data: equipment.lst)"
-original_url = "list/data/equipment.html#slots"
+original_url = "/list/data/equipment.html#slots"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "SLOTS"
+    parent = "data_equipment"
+    identifier = "data_equipment_SLOTS"
 +++
 
 ## Status

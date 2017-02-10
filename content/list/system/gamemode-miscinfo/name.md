@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "NAME (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#name"
+original_url = "/list/system/gamemode-miscinfo.html#name"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "NAME"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_NAME"
 +++
 
 ## Status

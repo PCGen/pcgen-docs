@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "VISIBLE (Data: templates.lst)"
-original_url = "list/data/templates.html#visible"
+original_url = "/list/data/templates.html#visible"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "VISIBLE"
+    parent = "data_templates"
+    identifier = "data_templates_VISIBLE"
 +++
 
 ## Status

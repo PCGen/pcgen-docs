@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PRESPELLTYPE (Global: PRErequisite)"
-original_url = "list/global/pre.html#prespelltype"
+original_url = "/list/global/pre.html#prespelltype"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRESPELLTYPE"
+    parent = "global_pre"
+    identifier = "global_pre_PRESPELLTYPE"
 +++
 
 ## Status

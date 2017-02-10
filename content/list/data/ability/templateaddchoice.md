@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "TEMPLATEADDCHOICE (Data: abilities.lst)"
-original_url = "list/data/ability.html#templateaddchoice"
+original_url = "/list/data/ability.html#templateaddchoice"
 categories = [ "all-tag", "ability-tag" ]
+[menu.main]
+    name = "TEMPLATEADDCHOICE"
+    parent = "data_ability"
+    identifier = "data_ability_TEMPLATEADDCHOICE"
 +++
 
 ## Status

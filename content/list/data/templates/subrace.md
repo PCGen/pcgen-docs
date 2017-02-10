@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SUBRACE (Data: templates.lst)"
-original_url = "list/data/templates.html#subrace"
+original_url = "/list/data/templates.html#subrace"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "SUBRACE"
+    parent = "data_templates"
+    identifier = "data_templates_SUBRACE"
 +++
 
 ## Status

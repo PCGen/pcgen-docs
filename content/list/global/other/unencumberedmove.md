@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "UNENCUMBEREDMOVE (Global: OTHER)"
-original_url = "list/global/other.html#unencumberedmove"
+original_url = "/list/global/other.html#unencumberedmove"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "UNENCUMBEREDMOVE"
+    parent = "global_other"
+    identifier = "global_other_UNENCUMBEREDMOVE"
 +++
 
 ## Status

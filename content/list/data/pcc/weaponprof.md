@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "WEAPONPROF (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#weaponprof"
+original_url = "/list/data/pcc.html#weaponprof"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "WEAPONPROF"
+    parent = "data_pcc"
+    identifier = "data_pcc_WEAPONPROF"
 +++
 
 ## Status

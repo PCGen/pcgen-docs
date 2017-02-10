@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "TEMPLATE (Global: ADD)"
-original_url = "list/global/add.html#template"
+original_url = "/list/global/add.html#template"
 categories = [ "all-tag", "add-tag" ]
+[menu.main]
+    name = "TEMPLATE"
+    parent = "global_add"
+    identifier = "global_add_TEMPLATE"
 +++
 
 ## Status

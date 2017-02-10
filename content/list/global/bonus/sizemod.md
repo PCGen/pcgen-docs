@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SIZEMOD (Global: BONUS)"
-original_url = "list/global/bonus.html#sizemod"
+original_url = "/list/global/bonus.html#sizemod"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "SIZEMOD"
+    parent = "global_bonus"
+    identifier = "global_bonus_SIZEMOD"
 +++
 
 ## Status

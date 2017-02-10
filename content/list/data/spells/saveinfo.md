@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SAVEINFO (Data: spells.lst)"
-original_url = "list/data/spells.html#saveinfo"
+original_url = "/list/data/spells.html#saveinfo"
 categories = [ "all-tag", "spells-tag" ]
+[menu.main]
+    name = "SAVEINFO"
+    parent = "data_spells"
+    identifier = "data_spells_SAVEINFO"
 +++
 
 ## Status

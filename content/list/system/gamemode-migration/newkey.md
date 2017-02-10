@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "NEWKEY (Game Mode: migration.lst)"
-original_url = "list/system/gamemode-migration.html#newkey"
+original_url = "/list/system/gamemode-migration.html#newkey"
 categories = [ "all-tag", "gamemode-migration-tag" ]
+[menu.main]
+    name = "NEWKEY"
+    parent = "system_gamemode-migration"
+    identifier = "system_gamemode-migration_NEWKEY"
 +++
 
 ## Status

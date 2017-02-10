@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "STATTABLEHIDDEN (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#stattablehidden"
+original_url = "/list/system/gamemode-miscinfo.html#stattablehidden"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "STATTABLEHIDDEN"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_STATTABLEHIDDEN"
 +++
 
 ## Status

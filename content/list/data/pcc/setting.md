@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SETTING (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#setting"
+original_url = "/list/data/pcc.html#setting"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "SETTING"
+    parent = "data_pcc"
+    identifier = "data_pcc_SETTING"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SPECIALTYSPELLKNOWN (Global: BONUS)"
-original_url = "list/global/bonus.html#specialtyspellknown"
+original_url = "/list/global/bonus.html#specialtyspellknown"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "SPECIALTYSPELLKNOWN"
+    parent = "global_bonus"
+    identifier = "global_bonus_SPECIALTYSPELLKNOWN"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "TEMPLATE (Global: CHOOSE)"
-original_url = "list/global/choose.html#template"
+original_url = "/list/global/choose.html#template"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "TEMPLATE"
+    parent = "global_choose"
+    identifier = "global_choose_TEMPLATE"
 +++
 
 ## Status

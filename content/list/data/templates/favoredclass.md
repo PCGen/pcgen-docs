@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "FAVOREDCLASS (Data: templates.lst)"
-original_url = "list/data/templates.html#favoredclass"
+original_url = "/list/data/templates.html#favoredclass"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "FAVOREDCLASS"
+    parent = "data_templates"
+    identifier = "data_templates_FAVOREDCLASS"
 +++
 
 ## Status

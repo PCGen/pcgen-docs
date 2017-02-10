@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ABILITY (Game Mode: migration.lst)"
-original_url = "list/system/gamemode-migration.html#ability"
+original_url = "/list/system/gamemode-migration.html#ability"
 categories = [ "all-tag", "gamemode-migration-tag" ]
+[menu.main]
+    name = "ABILITY"
+    parent = "system_gamemode-migration"
+    identifier = "system_gamemode-migration_ABILITY"
 +++
 
 ## Status

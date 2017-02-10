@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "LEVELSPERFEAT (Data: classes.lst)"
-original_url = "list/data/classes.html#levelsperfeat"
+original_url = "/list/data/classes.html#levelsperfeat"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "LEVELSPERFEAT"
+    parent = "data_classes"
+    identifier = "data_classes_LEVELSPERFEAT"
 +++
 
 ## Status

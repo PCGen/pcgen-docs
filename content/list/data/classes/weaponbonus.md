@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "WEAPONBONUS (Data: classes.lst)"
-original_url = "list/data/classes.html#weaponbonus"
+original_url = "/list/data/classes.html#weaponbonus"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "WEAPONBONUS"
+    parent = "data_classes"
+    identifier = "data_classes_WEAPONBONUS"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SKILLCOST_EXCLUSIVE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#skillcost_exclusive"
+original_url = "/list/system/gamemode-miscinfo.html#skillcost_exclusive"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "SKILLCOST_EXCLUSIVE"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_SKILLCOST_EXCLUSIVE"
 +++
 
 ## Status

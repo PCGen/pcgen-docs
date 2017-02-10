@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SUBREGION (Data: templates.lst)"
-original_url = "list/data/templates.html#subregion"
+original_url = "/list/data/templates.html#subregion"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "SUBREGION"
+    parent = "data_templates"
+    identifier = "data_templates_SUBREGION"
 +++
 
 ## Status

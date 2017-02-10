@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PRESIZE (Global: PRErequisite)"
-original_url = "list/global/pre.html#presize"
+original_url = "/list/global/pre.html#presize"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRESIZE"
+    parent = "global_pre"
+    identifier = "global_pre_PRESIZE"
 +++
 
 ## Status

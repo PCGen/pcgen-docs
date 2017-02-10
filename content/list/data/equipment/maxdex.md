@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MAXDEX (Data: equipment.lst)"
-original_url = "list/data/equipment.html#maxdex"
+original_url = "/list/data/equipment.html#maxdex"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "MAXDEX"
+    parent = "data_equipment"
+    identifier = "data_equipment_MAXDEX"
 +++
 
 ## Status

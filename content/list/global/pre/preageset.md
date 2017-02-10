@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREAGESET (Global: PRErequisite)"
-original_url = "list/global/pre.html#preageset"
+original_url = "/list/global/pre.html#preageset"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREAGESET"
+    parent = "global_pre"
+    identifier = "global_pre_PREAGESET"
 +++
 
 ## Status

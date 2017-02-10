@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ICON (Data: equipment.lst)"
-original_url = "list/data/equipment.html#icon"
+original_url = "/list/data/equipment.html#icon"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "ICON"
+    parent = "data_equipment"
+    identifier = "data_equipment_ICON"
 +++
 
 ## Status

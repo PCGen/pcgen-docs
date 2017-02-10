@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CLASSES (Data: spells.lst)"
-original_url = "list/data/spells.html#classes"
+original_url = "/list/data/spells.html#classes"
 categories = [ "all-tag", "spells-tag" ]
+[menu.main]
+    name = "CLASSES"
+    parent = "data_spells"
+    identifier = "data_spells_CLASSES"
 +++
 
 ## Status

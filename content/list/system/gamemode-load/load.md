@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "LOAD (Game Mode: load.lst"
-original_url = "list/system/gamemode-load.html#load"
+original_url = "/list/system/gamemode-load.html#load"
 categories = [ "all-tag", "gamemode-load-tag" ]
+[menu.main]
+    name = "LOAD (Game Mode: load.lst"
+    parent = "system_gamemode-load"
+    identifier = "system_gamemode-load_LOAD (Game Mode: load.lst"
 +++
 
 ## Status

@@ -14,16 +14,16 @@ original_url = "/list/data/feats.html"
     \#380](https://github.com/PCGen/pcgen/pull/380)
 -   -   The feat files described below is deprecated. [Use the Ability
         system
-        instead](/list/data/ability.html) .
+        instead](file:///C:/Users/lws/gits/pcgen/docs/list/data/ability.html) .
     -   To implement a feat, write an
-        [ability](/list/data/ability.html)
+        [ability](file:///C:/Users/lws/gits/pcgen/docs/list/data/ability.html)
         belonging to the `FEAT`[ability
-        category](/list/data/abilitycategory.html)
+        category](file:///C:/Users/lws/gits/pcgen/docs/list/data/abilitycategory.html)
         , i.e. `CATEGORY:FEAT` .
     -   The feats may still be contained in a file called `feats.lst`
         (see `/data/35e/wizards_of_the_coast/rsrd/basics/feats.lst` for
         an example.) However this file must use the [`ability.lst`
-        format](/list/data/ability.html)
+        format](file:///C:/Users/lws/gits/pcgen/docs/list/data/ability.html)
         , not the obsolete format described below.
     -   All `FEAT` tags have been **deprecated** and replaced by the
         `ABILITY` system, which is more general. The `ABILITY` system

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "REQSKILL (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#reqskill"
+original_url = "/list/data/pcc.html#reqskill"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "REQSKILL"
+    parent = "data_pcc"
+    identifier = "data_pcc_REQSKILL"
 +++
 
 ## Status

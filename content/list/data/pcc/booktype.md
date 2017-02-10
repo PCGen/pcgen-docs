@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BOOKTYPE (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#booktype"
+original_url = "/list/data/pcc.html#booktype"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "BOOKTYPE"
+    parent = "data_pcc"
+    identifier = "data_pcc_BOOKTYPE"
 +++
 
 ## Status

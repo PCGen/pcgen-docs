@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREREACH (Global: PRErequisite)"
-original_url = "list/global/pre.html#prereach"
+original_url = "/list/global/pre.html#prereach"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREREACH"
+    parent = "global_pre"
+    identifier = "global_pre_PREREACH"
 +++
 
 ## Status

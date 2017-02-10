@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PRELEVEL (Global: PRErequisite)"
-original_url = "list/global/pre.html#prelevel"
+original_url = "/list/global/pre.html#prelevel"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRELEVEL"
+    parent = "global_pre"
+    identifier = "global_pre_PRELEVEL"
 +++
 
 ## Status

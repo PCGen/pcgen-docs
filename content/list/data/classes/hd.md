@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "HD (Data: classes.lst)"
-original_url = "list/data/classes.html#hd"
+original_url = "/list/data/classes.html#hd"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "HD"
+    parent = "data_classes"
+    identifier = "data_classes_HD"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SPELL (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#spell"
+original_url = "/list/data/pcc.html#spell"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "SPELL"
+    parent = "data_pcc"
+    identifier = "data_pcc_SPELL"
 +++
 
 ## Status

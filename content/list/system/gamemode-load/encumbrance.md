@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ENCUMBRANCE (Game Mode: load.lst"
-original_url = "list/system/gamemode-load.html#encumbrance"
+original_url = "/list/system/gamemode-load.html#encumbrance"
 categories = [ "all-tag", "gamemode-load-tag" ]
+[menu.main]
+    name = "ENCUMBRANCE (Game Mode: load.lst"
+    parent = "system_gamemode-load"
+    identifier = "system_gamemode-load_ENCUMBRANCE (Game Mode: load.lst"
 +++
 
 ## Status

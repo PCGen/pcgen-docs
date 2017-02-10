@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CHECKNAME (Game Mode: statsandchecks.lst)"
-original_url = "list/system/gamemode-statsandchecks.html#checkname"
+original_url = "/list/system/gamemode-statsandchecks.html#checkname"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
+[menu.main]
+    name = "CHECKNAME"
+    parent = "system_gamemode-statsandchecks"
+    identifier = "system_gamemode-statsandchecks_CHECKNAME"
 +++
 
 ## Status

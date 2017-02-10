@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MINVER (Data: install.lst)"
-original_url = "list/data/install.html#minver"
+original_url = "/list/data/install.html#minver"
 categories = [ "all-tag", "install-tag" ]
+[menu.main]
+    name = "MINVER"
+    parent = "data_install"
+    identifier = "data_install_MINVER"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "LEVEL (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#level"
+original_url = "/list/data/startingkits.html#level"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "LEVEL"
+    parent = "data_startingkits"
+    identifier = "data_startingkits_LEVEL"
 +++
 
 ## Status

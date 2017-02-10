@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "TEMPDESC (Global: OTHER)"
-original_url = "list/global/other.html#tempdesc"
+original_url = "/list/global/other.html#tempdesc"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "TEMPDESC"
+    parent = "global_other"
+    identifier = "global_other_TEMPDESC"
 +++
 
 ## Status

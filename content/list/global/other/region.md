@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "REGION (Global: OTHER)"
-original_url = "list/global/other.html#region"
+original_url = "/list/global/other.html#region"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "REGION"
+    parent = "global_other"
+    identifier = "global_other_REGION"
 +++
 
 ## Status

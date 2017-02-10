@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "EQMWEAPONDAMAGESIZE (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#eqmweapondamagesize"
+original_url = "/list/data/equipmentmodifiers.html#eqmweapondamagesize"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "EQMWEAPONDAMAGESIZE"
+    parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_EQMWEAPONDAMAGESIZE"
 +++
 
 ## Status

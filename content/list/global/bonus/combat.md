@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "COMBAT (Global: BONUS)"
-original_url = "list/global/bonus.html#combat"
+original_url = "/list/global/bonus.html#combat"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "COMBAT"
+    parent = "global_bonus"
+    identifier = "global_bonus_COMBAT"
 +++
 
 ## Status

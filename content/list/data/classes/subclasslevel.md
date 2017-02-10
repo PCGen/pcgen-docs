@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SUBCLASSLEVEL (Data: classes.lst)"
-original_url = "list/data/classes.html#subclasslevel"
+original_url = "/list/data/classes.html#subclasslevel"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "SUBCLASSLEVEL"
+    parent = "data_classes"
+    identifier = "data_classes_SUBCLASSLEVEL"
 +++
 
 ## Status

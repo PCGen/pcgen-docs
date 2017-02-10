@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BONUSSKILLPOINTS (Data: templates.lst)"
-original_url = "list/data/templates.html#bonusskillpoints"
+original_url = "/list/data/templates.html#bonusskillpoints"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "BONUSSKILLPOINTS"
+    parent = "data_templates"
+    identifier = "data_templates_BONUSSKILLPOINTS"
 +++
 
 ## Status

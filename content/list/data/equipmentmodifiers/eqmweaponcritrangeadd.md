@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "EQMWEAPONCRITRANGEADD (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#eqmweaponcritrangeadd"
+original_url = "/list/data/equipmentmodifiers.html#eqmweaponcritrangeadd"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "EQMWEAPONCRITRANGEADD"
+    parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_EQMWEAPONCRITRANGEADD"
 +++
 
 ## Status

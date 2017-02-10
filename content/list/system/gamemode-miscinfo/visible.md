@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "VISIBLE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#visible"
+original_url = "/list/system/gamemode-miscinfo.html#visible"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "VISIBLE"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_VISIBLE"
 +++
 
 ## Status

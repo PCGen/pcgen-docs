@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "LANG (Global: CHOOSE)"
-original_url = "list/global/choose.html#lang"
+original_url = "/list/global/choose.html#lang"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "LANG"
+    parent = "global_choose"
+    identifier = "global_choose_LANG"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BABMAXLVL (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#babmaxlvl"
+original_url = "/list/system/gamemode-miscinfo.html#babmaxlvl"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "BABMAXLVL"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_BABMAXLVL"
 +++
 
 ## Status

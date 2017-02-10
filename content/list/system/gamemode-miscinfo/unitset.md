@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "UNITSET (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#unitset"
+original_url = "/list/system/gamemode-miscinfo.html#unitset"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "UNITSET"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_UNITSET"
 +++
 
 ## Status

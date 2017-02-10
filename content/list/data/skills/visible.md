@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "VISIBLE (Data: skills.lst)"
-original_url = "list/data/skills.html#visible"
+original_url = "/list/data/skills.html#visible"
 categories = [ "all-tag", "skills-tag" ]
+[menu.main]
+    name = "VISIBLE"
+    parent = "data_skills"
+    identifier = "data_skills_VISIBLE"
 +++
 
 ## Status

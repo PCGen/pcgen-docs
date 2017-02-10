@@ -4,9 +4,9 @@ title = "Spycraft Espionage Handbook for PCGen"
 original_url = "/source/spycraft/spycraft.html"
 
 [menu.main]
-    identifier = "spycraft_spycraft"
+    identifier = "spycraft"
     name = "Spycraft Espionage Handbook for PCGen"
-    parent = "spycraft"
+    parent = "source"
     
 +++
 **Game Mode: Spycraft**

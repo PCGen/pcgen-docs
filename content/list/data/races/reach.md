@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "REACH (Data: races.lst)"
-original_url = "list/data/races.html#reach"
+original_url = "/list/data/races.html#reach"
 categories = [ "all-tag", "races-tag" ]
+[menu.main]
+    name = "REACH"
+    parent = "data_races"
+    identifier = "data_races_REACH"
 +++
 
 ## Status

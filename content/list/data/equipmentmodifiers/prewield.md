@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREWIELD (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#prewield"
+original_url = "/list/data/equipmentmodifiers.html#prewield"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "PREWIELD"
+    parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_PREWIELD"
 +++
 
 ## Status

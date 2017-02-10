@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PRERACETYPE (Data: classes.lst)"
-original_url = "list/data/classes.html#preracetype"
+original_url = "/list/data/classes.html#preracetype"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "PRERACETYPE"
+    parent = "data_classes"
+    identifier = "data_classes_PRERACETYPE"
 +++
 
 ## Status

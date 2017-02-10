@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "FORWARDREF (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#forwardref"
+original_url = "/list/data/pcc.html#forwardref"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "FORWARDREF"
+    parent = "data_pcc"
+    identifier = "data_pcc_FORWARDREF"
 +++
 
 ## Status

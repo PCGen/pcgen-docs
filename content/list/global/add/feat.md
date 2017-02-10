@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "FEAT (Global: ADD)"
-original_url = "list/global/add.html#feat"
+original_url = "/list/global/add.html#feat"
 categories = [ "all-tag", "add-tag" ]
+[menu.main]
+    name = "FEAT"
+    parent = "global_add"
+    identifier = "global_add_FEAT"
 +++
 
 ## Status

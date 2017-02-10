@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "NOCHOICE (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#nochoice"
+original_url = "/list/data/equipmentmodifiers.html#nochoice"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "NOCHOICE"
+    parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_NOCHOICE"
 +++
 
 ## Status

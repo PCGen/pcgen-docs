@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "REGION (Data: templates.lst)"
-original_url = "list/data/templates.html#region"
+original_url = "/list/data/templates.html#region"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "REGION"
+    parent = "data_templates"
+    identifier = "data_templates_REGION"
 +++
 
 ## Status

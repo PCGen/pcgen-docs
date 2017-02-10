@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ASPECT (Data: abilities.lst)"
-original_url = "list/data/ability.html#aspect"
+original_url = "/list/data/ability.html#aspect"
 categories = [ "all-tag", "ability-tag" ]
+[menu.main]
+    name = "ASPECT"
+    parent = "data_ability"
+    identifier = "data_ability_ASPECT"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SIZENUM (System: sizeAdjustment.lst)"
-original_url = "list/system/sizeadjustment.html#sizenum"
+original_url = "/list/system/sizeadjustment.html#sizenum"
 categories = [ "all-tag", "sizeadjustment-tag" ]
+[menu.main]
+    name = "SIZENUM"
+    parent = "system_sizeadjustment"
+    identifier = "system_sizeadjustment_SIZENUM"
 +++
 
 ## Status

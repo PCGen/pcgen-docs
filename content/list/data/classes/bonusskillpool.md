@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BONUSSKILLPOOL (Data: classes.lst)"
-original_url = "list/data/classes.html#bonusskillpool"
+original_url = "/list/data/classes.html#bonusskillpool"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "BONUSSKILLPOOL"
+    parent = "data_classes"
+    identifier = "data_classes_BONUSSKILLPOOL"
 +++
 
 ## Status

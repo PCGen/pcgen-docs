@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BONUSFEATLEVELSTARTINTERVAL (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#bonusfeatlevelstartinterval"
+original_url = "/list/system/gamemode-miscinfo.html#bonusfeatlevelstartinterval"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "BONUSFEATLEVELSTARTINTERVAL"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_BONUSFEATLEVELSTARTINTERVAL"
 +++
 
 ## Status

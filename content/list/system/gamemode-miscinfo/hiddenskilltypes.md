@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "HIDDENSKILLTYPES (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#hiddenskilltypes"
+original_url = "/list/system/gamemode-miscinfo.html#hiddenskilltypes"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "HIDDENSKILLTYPES"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_HIDDENSKILLTYPES"
 +++
 
 ## Status

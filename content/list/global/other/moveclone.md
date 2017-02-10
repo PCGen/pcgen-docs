@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MOVECLONE (Global: OTHER)"
-original_url = "list/global/other.html#moveclone"
+original_url = "/list/global/other.html#moveclone"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "MOVECLONE"
+    parent = "global_other"
+    identifier = "global_other_MOVECLONE"
 +++
 
 ## Status

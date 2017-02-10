@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "KIT (Global: OTHER)"
-original_url = "list/global/other.html#kit"
+original_url = "/list/global/other.html#kit"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "KIT"
+    parent = "global_other"
+    identifier = "global_other_KIT"
 +++
 
 ## Status

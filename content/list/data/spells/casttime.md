@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CASTTIME (Data: spells.lst)"
-original_url = "list/data/spells.html#casttime"
+original_url = "/list/data/spells.html#casttime"
 categories = [ "all-tag", "spells-tag" ]
+[menu.main]
+    name = "CASTTIME"
+    parent = "data_spells"
+    identifier = "data_spells_CASTTIME"
 +++
 
 ## Status

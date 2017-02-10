@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PRECAMPAIGN (Global: PRErequisite)"
-original_url = "list/global/pre.html#precampaign"
+original_url = "/list/global/pre.html#precampaign"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRECAMPAIGN"
+    parent = "global_pre"
+    identifier = "global_pre_PRECAMPAIGN"
 +++
 
 ## Status

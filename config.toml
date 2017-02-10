@@ -1,249 +1,21 @@
 baseurl = "http://docs.pcgen.com/"
 languageCode = "en-us"
 title = "PCGen Documentation"
-theme = "hugo-material-docs"
+theme = "plain-docs"
+#canonifyURLs = "true"
 relativeURLs = "true"
 uglyURLs = "true"
 
+[params]
+    # set to "" if uglyURLs = "false"
+    # set to ".html" if uglyURLs = "true"
+    ugly = ".html"
+    # set to "/" if uglyURLs = "false"
+    # set to "/index.html" if uglyURLs = "true"
+    uglyhome = "/index.html"
 
 # -----------------------------------------------------------------------------
 
-
-[[menu.main]]
-    name = "Installation"
-    identifier = "installation"
-    weight = 10
-
-# -----------------------------------------------------------------------------
-
-
-[[menu.main]]
-    name = "Character Creation Walkthrough"
-    identifier = "walkthrough"
-    weight = 20
-
-# -----------------------------------------------------------------------------
-
-
-[[menu.main]]
-    name = "Source Help"
-    identifier = "source"
-    weight = 30
-[[menu.main]]
-    name = "fantasy"
-    identifier = "fantasy"
-    parent = "source"
-[[menu.main]]
-    name = "modern"
-    identifier = "modern"
-    parent = "source"
-[[menu.main]]
-    name = "fantasy"
-    identifier = "fantasy"
-    parent = "source"
-[[menu.main]]
-    name = "modern"
-    identifier = "modern"
-    parent = "source"
-[[menu.main]]
-    name = "spycraft"
-    identifier = "spycraft"
-    parent = "source"
-[[menu.main]]
-    name = "DnD 4e"
-    identifier = "4e-docs"
-    parent = "source"
-[[menu.main]]
-    name = "Pathfinder"
-    identifier = "pathfinder"
-    parent = "source"
-    
-# -----------------------------------------------------------------------------
-
-[[menu.main]]
-    name = "Menu Items"
-    identifier = "menu"
-    weight = 40
-[[menu.main]]
-    name = "sources"
-    identifier = "sources"
-    parent = "menu"
-[[menu.main]]
-    name = "debug"
-    identifier = "debug"
-    parent = "menu"
-[[menu.main]]
-    name = "help"
-    identifier = "help"
-    parent = "menu"
-[[menu.main]]
-    name = "tools"
-    identifier = "tools"
-    parent = "menu"
-[[menu.main]]
-    name = "settings"
-    identifier = "settings"
-    parent = "menu"
-[[menu.main]]
-    name = "file"
-    identifier = "file"
-    parent = "menu"
-[[menu.main]]
-    name = "edit"
-    identifier = "edit"
-    parent = "menu"
-[[menu.main]]
-    name = "character"
-    identifier = "character"
-    parent = "settings"
-[[menu.main]]
-    name = "appearance"
-    identifier = "appearance"
-    parent = "settings"
-[[menu.main]]
-    name = "pcgen"
-    identifier = "pcgen"
-    parent = "settings"
-[[menu.main]]
-    name = "plugins"
-    identifier = "plugins"
-    parent = "settings"
-
-# -----------------------------------------------------------------------------
-
-[[menu.main]]
-    name = "Class Editor"
-    identifier = "class-editor"
-    parent = "tools"
-[[menu.main]]
-    name = "Deity Editor"
-    identifier = "deity-editor"
-    parent = "tools"
-[[menu.main]]
-    name = "Domain Editor"
-    identifier = "domain-editor"
-    parent = "tools"
-[[menu.main]]
-    name = "Feat Edtior"
-    identifier = "feat-editor"
-    parent = "tools"
-[[menu.main]]
-    name = "Language Editor"
-    identifier = "language-editor"
-    parent = "tools"
-[[menu.main]]
-    name = "Race Editor"
-    identifier = "race-editor"
-    parent = "tools"
-[[menu.main]]
-    name = "Skill Editor"
-    identifier = "skill-editor"
-    parent = "tools"
-[[menu.main]]
-    name = "Source Editor"
-    identifier = "source-editor"
-    parent = "tools"
-[[menu.main]]
-    name = "Spell Editor"
-    identifier = "spell-editor"
-    parent = "tools"
-[[menu.main]]
-    name = "Template"
-    identifier = "template-editor"
-    parent = "tools"
-[[menu.main]]
-    name = "preferences"
-    identifier = "preferences"
-    parent = "tools"
-
-# -----------------------------------------------------------------------------
-
-[[menu.main]]
-    name = "Tabs and Buttons"
-    identifier = "tab"
-    weight = 50
-[[menu.main]]
-    name = "source-tab"
-    identifier = "source-tab"
-    parent = "tab"
-[[menu.main]]
-    name = "players"
-    identifier = "players"
-    parent = "tab"
-[[menu.main]]
-    name = "inventory"
-    identifier = "inventory"
-    parent = "tab"
-# -----------------------------------------------------------------------------
-
-[[menu.main]]
-    name = "List Files"
-    identifier = "list"
-    weight = 60
-
-[[menu.main]]
-    name = "lst-file-class"
-    identifier = "lst-file-class"
-    parent = "list"
-
-[[menu.main]]
-    name = "data"
-    identifier = "data"
-    parent = "list"
-[[menu.main]]
-    name = "system"
-    identifier = "system"
-    parent = "list"
-
-[[menu.main]]
-    name = "Rules Guide"
-    identifier = "rules-guide"
-    parent = "list"
-[[menu.main]]
-    name = "global"
-    identifier = "global"
-    parent = "list"
-
-# -----------------------------------------------------------------------------
-
-[[menu.main]]
-    name = "Output Sheets"
-    identifier = "outputsheet"
-    weight = 70
-
-[[menu.main]]
-    name = "tokens"
-    identifier = "tokens"
-    parent = "outputsheet"
-
-# -----------------------------------------------------------------------------
-
-[[menu.main]]
-    name = "FreeMarker Output"
-    identifier = "freemarker"
-    weight = 80
-
-# -----------------------------------------------------------------------------
-
-[[menu.main]]
-    name = "Frequently Asked Questions"
-    identifier = "faq"
-    weight = 90
-# -----------------------------------------------------------------------------
-
-[[menu.main]]
-    name = "Credits"
-    identifier = "credits"
-    weight = 100
-
-# -----------------------------------------------------------------------------
-
-[[menu.main]]
-    name = "GMGen Documentation"
-    identifier = "gmgen"
-    weight = 110
-
-# -----------------------------------------------------------------------------
 
 
 # -----------------------------------------------------------------------------
@@ -251,275 +23,292 @@ uglyURLs = "true"
 # -----------------------------------------------------------------------------
 
 # Parents
-[[menu.main]]
-    name = "Tag Indexes"
-    identifier = "tag_indexes"
-    weight = 55
-    
-[[menu.main]]
-    name = "Data Files"
-    identifier = "tag_indexes_data"
-    parent = "tag_indexes"
 
-[[menu.main]]
-    name = "Global Files"
-    identifier = "tag_indexes_global"
-    parent = "tag_indexes"
-
-[[menu.main]]
-    name = "Game Mode Files"
-    identifier = "tag_indexes_gamemode"
-    parent = "tag_indexes"
-
-[[menu.main]]
-    name = "System Files"
-    identifier = "tag_indexes_system"
-    parent = "tag_indexes"
-    
 # Special - all tags
 [[menu.main]]
     name = "All Tags"
     URL = "/categories/all-tag.html"
     parent = "tag_indexes"
-    weight = -1
 
-# Generated part
-[[menu.main]]
-    name = "Data File: abilities.lst"
-    URL = "/categories/ability-tag.html"
-    parent = "tag_indexes_data"
-    weight = 10
+# -----------------------------------------------------------------------------
 
-#[[menu.main]]
-#    name = "Data File: ability_categories.lst"
-#    URL = "/categories/abilitycategory-tag.html"
-#    parent = "tag_indexes_data"
-#    weight = 20
 
-#[[menu.main]]
-#    name = "Data File: armor_proficiencies.lst"
-#    URL = "/categories/armorproficiencies-tag.html"
-#    parent = "tag_indexes_data"
-#    weight = 30
+# [[menu.main]]
+#     name = "Data File: abilities.lst"
+#     identifier = "ability"
+#     URL = "/categories/ability-tag.html"
+#     parent = "data"
+#     weight = 10
 
-[[menu.main]]
-    name = "Data File: classes.lst"
-    URL = "/categories/classes-tag.html"
-    parent = "tag_indexes_data"
-    weight = 40
+# [[menu.main]]
+#     name = "Data File: ability_categories.lst"
+#     identifier = "abilitycategory"
+#     URL = "/categories/abilitycategory-tag.html"
+#     parent = "data"
+#     weight = 20
 
-[[menu.main]]
-    name = "Data File: companion_mods.lst"
-    URL = "/categories/companionmodifiers-tag.html"
-    parent = "tag_indexes_data"
-    weight = 50
+# [[menu.main]]
+#     name = "Data File: armor_proficiencies.lst"
+#     identifier = "armorproficiencies"
+#     URL = "/categories/armorproficiencies-tag.html"
+#     parent = "data"
+#     weight = 30
 
-[[menu.main]]
-    name = "Data File: deities.lst"
-    URL = "/categories/deities-tag.html"
-    parent = "tag_indexes_data"
-    weight = 60
+# [[menu.main]]
+#     name = "Data File: classes.lst"
+#     identifier = "classes"
+#     URL = "/categories/classes-tag.html"
+#     parent = "data"
+#     weight = 40
 
-[[menu.main]]
-    name = "Data File: domains.lst"
-    URL = "/categories/domains-tag.html"
-    parent = "tag_indexes_data"
-    weight = 70
+# [[menu.main]]
+#     name = "Data File: companion_mods.lst"
+#     identifier = "companionmodifiers"
+#     URL = "/categories/companionmodifiers-tag.html"
+#     parent = "data"
+#     weight = 50
 
-[[menu.main]]
-    name = "Data File: equipment.lst"
-    URL = "/categories/equipment-tag.html"
-    parent = "tag_indexes_data"
-    weight = 80
+# [[menu.main]]
+#     name = "Data File: deities.lst"
+#     identifier = "deities"
+#     URL = "/categories/deities-tag.html"
+#     parent = "data"
+#     weight = 60
 
-[[menu.main]]
-    name = "Data File: equipment_modifiers.lst"
-    URL = "/categories/equipmentmodifiers-tag.html"
-    parent = "tag_indexes_data"
-    weight = 90
+# [[menu.main]]
+#     name = "Data File: domains.lst"
+#     identifier = "domains"
+#     URL = "/categories/domains-tag.html"
+#     parent = "data"
+#     weight = 70
 
-[[menu.main]]
-    name = "Data File: feats.lst"
-    URL = "/categories/feats-tag.html"
-    parent = "tag_indexes_data"
-    weight = 100
+# [[menu.main]]
+#     name = "Data File: equipment.lst"
+#     identifier = "equipment"
+#     URL = "/categories/equipment-tag.html"
+#     parent = "data"
+#     weight = 80
 
-[[menu.main]]
-    name = "Data File: install.lst"
-    URL = "/categories/install-tag.html"
-    parent = "tag_indexes_data"
-    weight = 110
+# [[menu.main]]
+#     name = "Data File: equipment_modifiers.lst"
+#     identifier = "equipmentmodifiers"
+#     URL = "/categories/equipmentmodifiers-tag.html"
+#     parent = "data"
+#     weight = 90
 
-#[[menu.main]]
-#    name = "Data File: languages.lst"
-#    URL = "/categories/languages-tag.html"
-#    parent = "tag_indexes_data"
-#    weight = 120
+# [[menu.main]]
+#     name = "Data File: feats.lst"
+#     identifier = "feats"
+#     URL = "/categories/feats-tag.html"
+#     parent = "data"
+#     weight = 100
 
-[[menu.main]]
-    name = "Data File: campaign.pcc"
-    URL = "/categories/pcc-tag.html"
-    parent = "tag_indexes_data"
-    weight = 130
+# [[menu.main]]
+#     name = "Data File: install.lst"
+#     identifier = "install"
+#     URL = "/categories/install-tag.html"
+#     parent = "data"
+#     weight = 110
 
-[[menu.main]]
-    name = "Data File: races.lst"
-    URL = "/categories/races-tag.html"
-    parent = "tag_indexes_data"
-    weight = 140
+# [[menu.main]]
+#     name = "Data File: languages.lst"
+#     identifier = "languages"
+#     URL = "/categories/languages-tag.html"
+#     parent = "data"
+#     weight = 120
 
-#[[menu.main]]
-#    name = "Data File: shield_proficiencies.lst"
-#    URL = "/categories/shieldproficiencies-tag.html"
-#    parent = "tag_indexes_data"
-#    weight = 150
+# [[menu.main]]
+#     name = "Data File: campaign.pcc"
+#     identifier = "pcc"
+#     URL = "/categories/pcc-tag.html"
+#     parent = "data"
+#     weight = 130
 
-[[menu.main]]
-    name = "Data File: skills.lst"
-    URL = "/categories/skills-tag.html"
-    parent = "tag_indexes_data"
-    weight = 160
+# [[menu.main]]
+#     name = "Data File: races.lst"
+#     identifier = "races"
+#     URL = "/categories/races-tag.html"
+#     parent = "data"
+#     weight = 140
 
-[[menu.main]]
-    name = "Data File: spells.lst"
-    URL = "/categories/spells-tag.html"
-    parent = "tag_indexes_data"
-    weight = 170
+# [[menu.main]]
+#     name = "Data File: shield_proficiencies.lst"
+#     identifier = "shieldproficiencies"
+#     URL = "/categories/shieldproficiencies-tag.html"
+#     parent = "data"
+#     weight = 150
 
-[[menu.main]]
-    name = "Data File: starting_kits.lst"
-    URL = "/categories/startingkits-tag.html"
-    parent = "tag_indexes_data"
-    weight = 180
+# [[menu.main]]
+#     name = "Data File: skills.lst"
+#     identifier = "skills"
+#     URL = "/categories/skills-tag.html"
+#     parent = "data"
+#     weight = 160
 
-[[menu.main]]
-    name = "Data File: templates.lst"
-    URL = "/categories/templates-tag.html"
-    parent = "tag_indexes_data"
-    weight = 190
+# [[menu.main]]
+#     name = "Data File: spells.lst"
+#     identifier = "spells"
+#     URL = "/categories/spells-tag.html"
+#     parent = "data"
+#     weight = 170
 
-[[menu.main]]
-    name = "Data File: weapon_proficiencies.lst"
-    URL = "/categories/weaponproficiencies-tag.html"
-    parent = "tag_indexes_data"
-    weight = 200
+# [[menu.main]]
+#     name = "Data File: starting_kits.lst"
+#     identifier = "startingkits"
+#     URL = "/categories/startingkits-tag.html"
+#     parent = "data"
+#     weight = 180
 
-[[menu.main]]
-    name = "Global: ADD"
-    URL = "/categories/add-tag.html"
-    parent = "tag_indexes_global"
-    weight = 210
+# [[menu.main]]
+#     name = "Data File: templates.lst"
+#     identifier = "templates"
+#     URL = "/categories/templates-tag.html"
+#     parent = "data"
+#     weight = 190
 
-[[menu.main]]
-    name = "Global: BONUS"
-    URL = "/categories/bonus-tag.html"
-    parent = "tag_indexes_global"
-    weight = 220
+# [[menu.main]]
+#     name = "Data File: weapon_proficiencies.lst"
+#     identifier = "weaponproficiencies"
+#     URL = "/categories/weaponproficiencies-tag.html"
+#     parent = "data"
+#     weight = 200
 
-[[menu.main]]
-    name = "Global: CHOOSE"
-    URL = "/categories/choose-tag.html"
-    parent = "tag_indexes_global"
-    weight = 230
+# [[menu.main]]
+#     name = "Global: ADD"
+#     identifier = "add"
+#     URL = "/categories/add-tag.html"
+#     parent = "global"
+#     weight = 210
 
-#[[menu.main]]
-#    name = "Global: DEFINE"
-#    URL = "/categories/define-tag.html"
-#    parent = "tag_indexes_global"
-#    weight = 240
+# [[menu.main]]
+#     name = "Global: BONUS"
+#     identifier = "bonus"
+#     URL = "/categories/bonus-tag.html"
+#     parent = "global"
+#     weight = 220
 
-[[menu.main]]
-    name = "Global: OTHER"
-    URL = "/categories/other-tag.html"
-    parent = "tag_indexes_global"
-    weight = 250
+# [[menu.main]]
+#     name = "Global: CHOOSE"
+#     identifier = "choose"
+#     URL = "/categories/choose-tag.html"
+#     parent = "global"
+#     weight = 230
 
-[[menu.main]]
-    name = "Global: PRErequisite"
-    URL = "/categories/pre-tag.html"
-    parent = "tag_indexes_global"
-    weight = 260
+# [[menu.main]]
+#     name = "Global: DEFINE"
+#     identifier = "define"
+#     URL = "/categories/define-tag.html"
+#     parent = "global"
+#     weight = 240
 
-[[menu.main]]
-    name = "Game Mode File: equipicons.lst"
-    URL = "/categories/gamemode-equipicons-tag.html"
-    parent = "tag_indexes_gamemode"
-    weight = 270
+# [[menu.main]]
+#     name = "Global: OTHER"
+#     identifier = "other"
+#     URL = "/categories/other-tag.html"
+#     parent = "global"
+#     weight = 250
 
-[[menu.main]]
-    name = "Game Mode File: equipmentslots.lst"
-    URL = "/categories/gamemode-equipmentslots-tag.html"
-    parent = "tag_indexes_gamemode"
-    weight = 280
+# [[menu.main]]
+#     name = "Global: PRErequisite"
+#     identifier = "pre"
+#     URL = "/categories/pre-tag.html"
+#     parent = "global"
+#     weight = 260
 
-[[menu.main]]
-    name = "Game Mode File: level.lst"
-    URL = "/categories/gamemode-level-tag.html"
-    parent = "tag_indexes_gamemode"
-    weight = 290
+# [[menu.main]]
+#     name = "Game Mode File: equipicons.lst"
+#     identifier = "gamemode-equipicons"
+#     URL = "/categories/gamemode-equipicons-tag.html"
+#     parent = "game-mode"
+#     weight = 270
 
-[[menu.main]]
-    name = "Game Mode File: load.lst"
-    URL = "/categories/gamemode-load-tag.html"
-    parent = "tag_indexes_gamemode"
-    weight = 300
+# [[menu.main]]
+#     name = "Game Mode File: equipmentslots.lst"
+#     identifier = "gamemode-equipmentslots"
+#     URL = "/categories/gamemode-equipmentslots-tag.html"
+#     parent = "game-mode"
+#     weight = 280
 
-#[[menu.main]]
-#    name = "Game Mode File: bio/locations.lst"
-#    URL = "/categories/gamemode-locations-tag.html"
-#    parent = "tag_indexes_gamemode"
-#    weight = 310
+# [[menu.main]]
+#     name = "Game Mode File: level.lst"
+#     identifier = "gamemode-level"
+#     URL = "/categories/gamemode-level-tag.html"
+#     parent = "game-mode"
+#     weight = 290
 
-[[menu.main]]
-    name = "Game Mode File: migration.lst"
-    URL = "/categories/gamemode-migration-tag.html"
-    parent = "tag_indexes_gamemode"
-    weight = 320
+# [[menu.main]]
+#     name = "Game Mode File: load.lst"
+#     identifier = "gamemode-load"
+#     URL = "/categories/gamemode-load-tag.html"
+#     parent = "game-mode"
+#     weight = 300
 
-[[menu.main]]
-    name = "Game Mode File: miscinfo.lst"
-    URL = "/categories/gamemode-miscinfo-tag.html"
-    parent = "tag_indexes_gamemode"
-    weight = 330
+# [[menu.main]]
+#     name = "Game Mode File: bio/locations.lst"
+#     identifier = "gamemode-locations"
+#     URL = "/categories/gamemode-locations-tag.html"
+#     parent = "game-mode"
+#     weight = 310
 
-#[[menu.main]]
-#    name = "Game Mode File: pointbuymethods_system."
-#    URL = "/categories/gamemode-pointbuymethod-tag.html"
-#    parent = "tag_indexes_gamemode"
-#    weight = 340
+# [[menu.main]]
+#     name = "Game Mode File: migration.lst"
+#     identifier = "gamemode-migration"
+#     URL = "/categories/gamemode-migration-tag.html"
+#     parent = "game-mode"
+#     weight = 320
 
-#[[menu.main]]
-#    name = "Game Mode File: rules.lst"
-#    URL = "/categories/gamemode-rules-tag.html"
-#    parent = "tag_indexes_gamemode"
-#    weight = 350
+# [[menu.main]]
+#     name = "Game Mode File: miscinfo.lst"
+#     identifier = "gamemode-miscinfo"
+#     URL = "/categories/gamemode-miscinfo-tag.html"
+#     parent = "game-mode"
+#     weight = 330
 
-[[menu.main]]
-    name = "Game Mode File: statsandchecks.lst"
-    URL = "/categories/gamemode-statsandchecks-tag.html"
-    parent = "tag_indexes_gamemode"
-    weight = 360
+# [[menu.main]]
+#     name = "Game Mode File: pointbuymethods_system."
+#     identifier = "gamemode-pointbuymethod"
+#     URL = "/categories/gamemode-pointbuymethod-tag.html"
+#     parent = "game-mode"
+#     weight = 340
 
-#[[menu.main]]
-#    name = "Game Mode File: tips.txt"
-#    URL = "/categories/gamemode-tips-tag.html"
-#    parent = "tag_indexes_gamemode"
-#    weight = 370
+# [[menu.main]]
+#     name = "Game Mode File: rules.lst"
+#     identifier = "gamemode-rules"
+#     URL = "/categories/gamemode-rules-tag.html"
+#     parent = "game-mode"
+#     weight = 350
 
-[[menu.main]]
-    name = "System File: bio/biosettings.lst"
-    URL = "/categories/biosettings-tag.html"
-    parent = "tag_indexes_system"
-    weight = 380
+# [[menu.main]]
+#     name = "Game Mode File: statsandchecks.lst"
+#     identifier = "gamemode-statsandchecks"
+#     URL = "/categories/gamemode-statsandchecks-tag.html"
+#     parent = "game-mode"
+#     weight = 360
 
-[[menu.main]]
-    name = "System File: sizeAdjustment.lst"
-    URL = "/categories/sizeadjustment-tag.html"
-    parent = "tag_indexes_system"
-    weight = 390
+# [[menu.main]]
+#     name = "Game Mode File: tips.txt"
+#     identifier = "gamemode-tips"
+#     URL = "/categories/gamemode-tips-tag.html"
+#     parent = "game-mode"
+#     weight = 370
 
-#[[menu.main]]
-#    name = "System File: bio/traits.lst"
-#    URL = "/categories/traits-tag.html"
-#    parent = "tag_indexes_system"
-#    weight = 400
+# [[menu.main]]
+#     name = "System File: bio/biosettings.lst"
+#     identifier = "biosettings"
+#     URL = "/categories/biosettings-tag.html"
+#     parent = "system"
+#     weight = 380
+
+# [[menu.main]]
+#     name = "System File: sizeAdjustment.lst"
+#     identifier = "sizeadjustment"
+#     URL = "/categories/sizeadjustment-tag.html"
+#     parent = "system"
+#     weight = 390
+
+# [[menu.main]]
+#     name = "System File: bio/traits.lst"
+#     identifier = "traits"
+#     URL = "/categories/traits-tag.html"
+#     parent = "system"
+#     weight = 400

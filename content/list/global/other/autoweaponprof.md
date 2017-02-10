@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "AUTOWEAPONPROF (Global: OTHER)"
-original_url = "list/global/other.html#autoweaponprof"
+original_url = "/list/global/other.html#autoweaponprof"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "AUTOWEAPONPROF"
+    parent = "global_other"
+    identifier = "global_other_AUTOWEAPONPROF"
 +++
 
 ## Status

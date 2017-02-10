@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CHECKSMAXLEVEL (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#checksmaxlevel"
+original_url = "/list/system/gamemode-miscinfo.html#checksmaxlevel"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "CHECKSMAXLEVEL"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_CHECKSMAXLEVEL"
 +++
 
 ## Status

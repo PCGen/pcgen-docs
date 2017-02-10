@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PLURAL (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#plural"
+original_url = "/list/system/gamemode-miscinfo.html#plural"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "PLURAL"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_PLURAL"
 +++
 
 ## Status

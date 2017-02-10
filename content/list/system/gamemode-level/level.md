@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "LEVEL (Game Mode: level.lst)"
-original_url = "list/system/gamemode-level.html#level"
+original_url = "/list/system/gamemode-level.html#level"
 categories = [ "all-tag", "gamemode-level-tag" ]
+[menu.main]
+    name = "LEVEL"
+    parent = "system_gamemode-level"
+    identifier = "system_gamemode-level_LEVEL"
 +++
 
 ## Status

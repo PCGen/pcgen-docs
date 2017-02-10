@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "LANGUAGES (Global: BONUS)"
-original_url = "list/global/bonus.html#languages"
+original_url = "/list/global/bonus.html#languages"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "LANGUAGES"
+    parent = "global_bonus"
+    identifier = "global_bonus_LANGUAGES"
 +++
 
 ## Status

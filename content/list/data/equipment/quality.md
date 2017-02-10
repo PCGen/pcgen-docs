@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "QUALITY (Data: equipment.lst)"
-original_url = "list/data/equipment.html#quality"
+original_url = "/list/data/equipment.html#quality"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "QUALITY"
+    parent = "data_equipment"
+    identifier = "data_equipment_QUALITY"
 +++
 
 ## Status

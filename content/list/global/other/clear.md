@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CLEAR (Global: OTHER)"
-original_url = "list/global/other.html#clear"
+original_url = "/list/global/other.html#clear"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "CLEAR"
+    parent = "global_other"
+    identifier = "global_other_CLEAR"
 +++
 
 ## Status
