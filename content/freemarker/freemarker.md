@@ -5,7 +5,7 @@ original_url = "/freemarker/index.html"
 
 [menu.main]
     identifier = "freemarker"
-    name = "FreeMarker Output Support"
+    name = "FreeMarker"
     parent = ""
     weight = 100
 +++

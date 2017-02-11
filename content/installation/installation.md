@@ -5,7 +5,7 @@ original_url = "/installation/index.html"
 
 [menu.main]
     identifier = "installation"
-    name = "Installation of Java and PCGen"
+    name = "Installation"
     parent = ""
     weight = 30
 +++

@@ -1,11 +1,11 @@
 +++
 date = "2016-08-01"
-title = "Character Creation Walkthrough"
+title = "Getting Started: Character Creation Walkthrough"
 original_url = "/walkthrough/index.html"
 
 [menu.main]
     identifier = "walkthrough"
-    name = "Character Creation Walkthrough"
+    name = "Get Started"
     parent = ""
     weight = 40
 +++

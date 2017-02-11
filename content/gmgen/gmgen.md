@@ -1,11 +1,11 @@
 +++
 date = "2016-08-01"
-title = "GMGen Documentation"
+title = "GMGen"
 original_url = "/gmgen/gmgen.html"
 
 [menu.main]
     identifier = "gmgen"
-    name = "GMGen Documentation"
+    name = "GMGen"
     parent = ""
     weight = 130
     
