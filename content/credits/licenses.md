@@ -1,5 +1,5 @@
 +++
-date = "2016-08-01"
+date = "2017-02-11T16:13:27+08:00"
 title = "Licenses"
 original_url = "/credits/licenses.html"
 
