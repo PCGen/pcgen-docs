@@ -1,9 +1,31 @@
-baseurl = "http://docs.pcgen.com/"
 languageCode = "en-us"
+
 title = "PCGen Documentation"
 theme = "plain-docs"
+
+# copyright is shown in footer
+# It can include links - just remember to escape your backslashes.
+# Example: "&copy; 2017 <a href=\"//penwatch.net\">Li-aung Yip</a>"
+copyright = ""
+
+# If your base url is not the site root, you must set canonifyURLs = "true"
+# Example 1:
+#   baseurl = "https://xyz.com/"
+#   canonifyURLs = "false"
+# Example 2:
+#   baseurl = "https://xyz.com/spqr/"
+#   canonifyURLs = "true"
+baseurl = "http://docs.pcgen.com/"
+canonifyURLs = "false"
+
+# To make website browseable offline, i.e. from local disk,
+# set relativeURLs and uglyURLs to "true"
+# see also params.ugly and params.uglyhome, below
 relativeURLs = "true"
 uglyURLs = "true"
+
+[author]
+    name = "Li-aung Yip"
 
 [params]
     # set to "" if uglyURLs = "false"
@@ -13,9 +35,34 @@ uglyURLs = "true"
     # set to "/index.html" if uglyURLs = "true"
     uglyhome = "/index.html"
 
+[params.menu]
+    # Shown when a manu item has children.
+    # Some symbols you could use, depending on taste:
+    #   + Plus symbol
+    #   → Rightwards Arrow
+    #   ➔ Wide-Headed Rightwards Arrow
+    #   ➟ Dashed Rightwards Arrow
+    #   ➤ Black Rightwards Arrowhead
+    #   » Right Angle Quotation Mark
+    #   ► Right Black Pointer
+    more_icon = "»"
+
+[params.header]
+    # foreground colour for header
+    # example: "white", "#ff8800"
+    fg_color = "white"
+    # background colour for header
+    # example: "black", "#ff8800"
+    bg_color = "maroon"
+    # Shown in the header, under your site's title
+    tagline = ""
+
 [params.footer]
-    # Show hugo version in footer: "Generated with ♥ by Hugo 0.19-DEV"
+    # Show hugo version in footer
+    # i.e. "Generated with ♥ by Hugo 0.19-DEV"
     show_hugo = true
+    # Show a link to edit this file on GitHub.
+    # Example: https://github.com/YOUR_USER_NAME/YOUR_REPOSITORY_NAME/edit/master/content/
     edit_url_base = "https://github.com/LiaungYip/pcgen-docs/edit/master/content/"
 
 # -----------------------------------------------------------------------------
@@ -30,3 +77,4 @@ uglyURLs = "true"
     name = "All Tags"
     URL = "/categories/all-tag.html"
     parent = "tag_indexes"
+
