@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-migration.html"
 
 [menu.main]
     identifier = "system_gamemode-migration"
-    name = "Game Mode: migration.lst"
+    name = "migration.lst"
     parent = "gamemode"
     
 +++

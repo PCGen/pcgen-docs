@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-statsandchecks.html"
 
 [menu.main]
     identifier = "system_gamemode-statsandchecks"
-    name = "Game Mode: statsandchecks.lst"
+    name = "statsandchecks.lst"
     parent = "gamemode"
     
 +++

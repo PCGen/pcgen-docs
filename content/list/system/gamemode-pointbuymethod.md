@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-pointbuymethod.html"
 
 [menu.main]
     identifier = "system_gamemode-pointbuymethod"
-    name = "Game Mode: pointbuymethods_system.lst"
+    name = "pointbuymethods_system.lst"
     parent = "gamemode"
     
 +++

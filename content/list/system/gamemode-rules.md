@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-rules.html"
 
 [menu.main]
     identifier = "system_gamemode-rules"
-    name = "Game Mode: rules.lst"
+    name = "rules.lst"
     parent = "gamemode"
     
 +++

@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-equipmentslots.html"
 
 [menu.main]
     identifier = "system_gamemode-equipmentslots"
-    name = "Game Mode: equipmentslots.lst"
+    name = "equipmentslots.lst"
     parent = "gamemode"
     
 +++

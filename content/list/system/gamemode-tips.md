@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-tips.html"
 
 [menu.main]
     identifier = "system_gamemode-tips"
-    name = "Game Mode: tips.txt"
+    name = "tips.txt"
     parent = "gamemode"
     
 +++

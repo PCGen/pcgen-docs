@@ -5,7 +5,7 @@ original_url = "/list/system/biosettings.html"
 
 [menu.main]
     identifier = "system_biosettings"
-    name = "Game Mode: biosettings.lst"
+    name = "biosettings.lst"
     parent = "gamemode"
     
 +++

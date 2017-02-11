@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-equipicons.html"
 
 [menu.main]
     identifier = "system_gamemode-equipicons"
-    name = "Game Mode: equipicons.lst"
+    name = "equipicons.lst"
     parent = "gamemode"
     
 +++

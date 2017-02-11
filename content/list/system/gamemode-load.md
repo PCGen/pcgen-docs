@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-load.html"
 
 [menu.main]
     identifier = "system_gamemode-load"
-    name = "Game Mode: load.lst"
+    name = "load.lst"
     parent = "gamemode"
     
 +++

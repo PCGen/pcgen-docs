@@ -5,7 +5,7 @@ original_url = "/list/system/gamemode-level.html"
 
 [menu.main]
     identifier = "system_gamemode-level"
-    name = "Game Mode: level.lst"
+    name = "level.lst"
     parent = "gamemode"
     
 +++
