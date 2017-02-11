@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ABILITYCATEGORY (Data: ability_categories.lst)"
-original_url = "list/data/abilitycategory.html#abilitycategory"
+original_url = "/list/data/abilitycategory.html#abilitycategory"
 categories = [ "all-tag", "abilitycategory-tag" ]
+[menu.main]
+    name = "ABILITYCATEGORY"
+    parent = "data_abilitycategory"
+    identifier = "data_abilitycategory_ABILITYCATEGORY"
 +++
 
 ## Status

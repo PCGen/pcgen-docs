@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SPELLKNOWNMULT (Global: BONUS)"
-original_url = "list/global/bonus.html#spellknownmult"
+original_url = "/list/global/bonus.html#spellknownmult"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "SPELLKNOWNMULT"
+    parent = "global_bonus"
+    identifier = "global_bonus_SPELLKNOWNMULT"
 +++
 
 ## Status

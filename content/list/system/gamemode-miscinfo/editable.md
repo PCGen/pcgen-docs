@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "EDITABLE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#editable"
+original_url = "/list/system/gamemode-miscinfo.html#editable"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "EDITABLE"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_EDITABLE"
 +++
 
 ## Status

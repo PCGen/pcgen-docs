@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MOD (Global: OTHER)"
-original_url = "list/global/other.html#mod"
+original_url = "/list/global/other.html#mod"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "MOD"
+    parent = "global_other"
+    identifier = "global_other_MOD"
 +++
 
 ## Status

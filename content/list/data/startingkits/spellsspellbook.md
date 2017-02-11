@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SPELLSSPELLBOOK (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#spellsspellbook"
+original_url = "/list/data/startingkits.html#spellsspellbook"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "SPELLSSPELLBOOK"
+    parent = "data_startingkits"
+    identifier = "data_startingkits_SPELLSSPELLBOOK"
 +++
 
 ## Status

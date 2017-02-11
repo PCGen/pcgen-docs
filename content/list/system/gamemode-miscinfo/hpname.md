@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "HPNAME (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#hpname"
+original_url = "/list/system/gamemode-miscinfo.html#hpname"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "HPNAME"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_HPNAME"
 +++
 
 ## Status

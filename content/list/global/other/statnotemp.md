@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "STATNOTEMP (Global: OTHER)"
-original_url = "list/global/other.html#statnotemp"
+original_url = "/list/global/other.html#statnotemp"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "STATNOTEMP"
+    parent = "global_other"
+    identifier = "global_other_STATNOTEMP"
 +++
 
 ## Status

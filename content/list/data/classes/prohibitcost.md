@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PROHIBITCOST (Data: classes.lst)"
-original_url = "list/data/classes.html#prohibitcost"
+original_url = "/list/data/classes.html#prohibitcost"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "PROHIBITCOST"
+    parent = "data_classes"
+    identifier = "data_classes_PROHIBITCOST"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SHIELDPROF (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#shieldprof"
+original_url = "/list/data/pcc.html#shieldprof"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "SHIELDPROF"
+    parent = "data_pcc"
+    identifier = "data_pcc_SHIELDPROF"
 +++
 
 ## Status

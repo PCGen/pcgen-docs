@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "DOMAIN (Global: CHOOSE)"
-original_url = "list/global/choose.html#domain"
+original_url = "/list/global/choose.html#domain"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "DOMAIN"
+    parent = "global_choose"
+    identifier = "global_choose_DOMAIN"
 +++
 
 ## Status

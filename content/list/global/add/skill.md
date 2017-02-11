@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SKILL (Global: ADD)"
-original_url = "list/global/add.html#skill"
+original_url = "/list/global/add.html#skill"
 categories = [ "all-tag", "add-tag" ]
+[menu.main]
+    name = "SKILL"
+    parent = "global_add"
+    identifier = "global_add_SKILL"
 +++
 
 ## Status

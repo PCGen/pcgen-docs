@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREFEAT (Global: PRErequisite)"
-original_url = "list/global/pre.html#prefeat"
+original_url = "/list/global/pre.html#prefeat"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREFEAT"
+    parent = "global_pre"
+    identifier = "global_pre_PREFEAT"
 +++
 
 ## Status

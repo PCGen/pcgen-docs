@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREFIX (Global: CHOOSE)"
-original_url = "list/global/choose.html#prefix"
+original_url = "/list/global/choose.html#prefix"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "PREFIX"
+    parent = "global_choose"
+    identifier = "global_choose_PREFIX"
 +++
 
 ## Status

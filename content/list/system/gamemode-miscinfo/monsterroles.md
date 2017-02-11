@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MONSTERROLES (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#monsterroles"
+original_url = "/list/system/gamemode-miscinfo.html#monsterroles"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "MONSTERROLES"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_MONSTERROLES"
 +++
 
 ## Status

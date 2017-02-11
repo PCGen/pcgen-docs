@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREMULT (Global: PRErequisite)"
-original_url = "list/global/pre.html#premult"
+original_url = "/list/global/pre.html#premult"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREMULT"
+    parent = "global_pre"
+    identifier = "global_pre_PREMULT"
 +++
 
 ## Status

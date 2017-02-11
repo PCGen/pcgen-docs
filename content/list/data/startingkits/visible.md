@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "VISIBLE (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#visible"
+original_url = "/list/data/startingkits.html#visible"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "VISIBLE"
+    parent = "data_startingkits"
+    identifier = "data_startingkits_VISIBLE"
 +++
 
 ## Status

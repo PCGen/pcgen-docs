@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SPELLCAST (Global: BONUS)"
-original_url = "list/global/bonus.html#spellcast"
+original_url = "/list/global/bonus.html#spellcast"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "SPELLCAST"
+    parent = "global_bonus"
+    identifier = "global_bonus_SPELLCAST"
 +++
 
 ## Status

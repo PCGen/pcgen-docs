@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "AUTOEQUIP (Global: OTHER)"
-original_url = "list/global/other.html#autoequip"
+original_url = "/list/global/other.html#autoequip"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "AUTOEQUIP"
+    parent = "global_other"
+    identifier = "global_other_AUTOEQUIP"
 +++
 
 ## Status

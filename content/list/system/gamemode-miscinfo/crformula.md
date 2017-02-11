@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CRFORMULA (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#crformula"
+original_url = "/list/system/gamemode-miscinfo.html#crformula"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "CRFORMULA"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_CRFORMULA"
 +++
 
 ## Status

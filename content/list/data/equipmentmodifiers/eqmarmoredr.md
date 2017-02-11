@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "EQMARMOREDR (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#eqmarmoredr"
+original_url = "/list/data/equipmentmodifiers.html#eqmarmoredr"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "EQMARMOREDR"
+    parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_EQMARMOREDR"
 +++
 
 ## Status

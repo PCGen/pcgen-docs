@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ITEMCOST (Global: BONUS)"
-original_url = "list/global/bonus.html#itemcost"
+original_url = "/list/global/bonus.html#itemcost"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "ITEMCOST"
+    parent = "global_bonus"
+    identifier = "global_bonus_ITEMCOST"
 +++
 
 ## Status

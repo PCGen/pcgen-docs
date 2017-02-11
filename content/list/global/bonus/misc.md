@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MISC (Global: BONUS)"
-original_url = "list/global/bonus.html#misc"
+original_url = "/list/global/bonus.html#misc"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "MISC"
+    parent = "global_bonus"
+    identifier = "global_bonus_MISC"
 +++
 
 ## Status

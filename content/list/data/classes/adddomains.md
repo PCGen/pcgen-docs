@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ADDDOMAINS (Data: classes.lst)"
-original_url = "list/data/classes.html#adddomains"
+original_url = "/list/data/classes.html#adddomains"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "ADDDOMAINS"
+    parent = "data_classes"
+    identifier = "data_classes_ADDDOMAINS"
 +++
 
 ## Status

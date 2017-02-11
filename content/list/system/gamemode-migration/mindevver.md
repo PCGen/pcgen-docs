@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MINDEVVER (Game Mode: migration.lst)"
-original_url = "list/system/gamemode-migration.html#mindevver"
+original_url = "/list/system/gamemode-migration.html#mindevver"
 categories = [ "all-tag", "gamemode-migration-tag" ]
+[menu.main]
+    name = "MINDEVVER"
+    parent = "system_gamemode-migration"
+    identifier = "system_gamemode-migration_MINDEVVER"
 +++
 
 ## Status

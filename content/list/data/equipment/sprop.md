@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SPROP (Data: equipment.lst)"
-original_url = "list/data/equipment.html#sprop"
+original_url = "/list/data/equipment.html#sprop"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "SPROP"
+    parent = "data_equipment"
+    identifier = "data_equipment_SPROP"
 +++
 
 ## Status

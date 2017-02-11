@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "TEMPLATECHOOSE (Data: abilities.lst)"
-original_url = "list/data/ability.html#templatechoose"
+original_url = "/list/data/ability.html#templatechoose"
 categories = [ "all-tag", "ability-tag" ]
+[menu.main]
+    name = "TEMPLATECHOOSE"
+    parent = "data_ability"
+    identifier = "data_ability_TEMPLATECHOOSE"
 +++
 
 ## Status

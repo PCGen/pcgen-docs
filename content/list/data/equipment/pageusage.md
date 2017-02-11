@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PAGEUSAGE (Data: equipment.lst)"
-original_url = "list/data/equipment.html#pageusage"
+original_url = "/list/data/equipment.html#pageusage"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "PAGEUSAGE"
+    parent = "data_equipment"
+    identifier = "data_equipment_PAGEUSAGE"
 +++
 
 ## Status

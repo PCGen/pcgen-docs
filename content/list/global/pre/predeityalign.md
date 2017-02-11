@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREDEITYALIGN (Global: PRErequisite)"
-original_url = "list/global/pre.html#predeityalign"
+original_url = "/list/global/pre.html#predeityalign"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREDEITYALIGN"
+    parent = "global_pre"
+    identifier = "global_pre_PREDEITYALIGN"
 +++
 
 ## Status

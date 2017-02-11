@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CRMOD (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#crmod"
+original_url = "/list/system/gamemode-miscinfo.html#crmod"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "CRMOD"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_CRMOD"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SOURCESHORT (Global: OTHER)"
-original_url = "list/global/other.html#sourceshort"
+original_url = "/list/global/other.html#sourceshort"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "SOURCESHORT"
+    parent = "global_other"
+    identifier = "global_other_SOURCESHORT"
 +++
 
 ## Status

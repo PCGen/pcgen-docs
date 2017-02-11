@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CHOOSELANGAUTO (Data: templates.lst)"
-original_url = "list/data/templates.html#chooselangauto"
+original_url = "/list/data/templates.html#chooselangauto"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "CHOOSELANGAUTO"
+    parent = "data_templates"
+    identifier = "data_templates_CHOOSELANGAUTO"
 +++
 
 ## Status

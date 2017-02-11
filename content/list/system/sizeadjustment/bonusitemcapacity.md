@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BONUSITEMCAPACITY (System: sizeAdjustment.lst)"
-original_url = "list/system/sizeadjustment.html#bonusitemcapacity"
+original_url = "/list/system/sizeadjustment.html#bonusitemcapacity"
 categories = [ "all-tag", "sizeadjustment-tag" ]
+[menu.main]
+    name = "BONUSITEMCAPACITY"
+    parent = "system_sizeadjustment"
+    identifier = "system_sizeadjustment_BONUSITEMCAPACITY"
 +++
 
 ## Status

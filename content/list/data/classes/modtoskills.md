@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MODTOSKILLS (Data: classes.lst)"
-original_url = "list/data/classes.html#modtoskills"
+original_url = "/list/data/classes.html#modtoskills"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "MODTOSKILLS"
+    parent = "data_classes"
+    identifier = "data_classes_MODTOSKILLS"
 +++
 
 ## Status

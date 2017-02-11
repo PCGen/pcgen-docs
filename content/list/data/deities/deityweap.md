@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "DEITYWEAP (Data: deities.lst)"
-original_url = "list/data/deities.html#deityweap"
+original_url = "/list/data/deities.html#deityweap"
 categories = [ "all-tag", "deities-tag" ]
+[menu.main]
+    name = "DEITYWEAP"
+    parent = "data_deities"
+    identifier = "data_deities_DEITYWEAP"
 +++
 
 ## Status

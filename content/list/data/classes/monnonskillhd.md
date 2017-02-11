@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MONNONSKILLHD (Data: classes.lst)"
-original_url = "list/data/classes.html#monnonskillhd"
+original_url = "/list/data/classes.html#monnonskillhd"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "MONNONSKILLHD"
+    parent = "data_classes"
+    identifier = "data_classes_MONNONSKILLHD"
 +++
 
 ## Status

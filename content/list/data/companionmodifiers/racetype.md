@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "RACETYPE (Data: companion_mods.lst)"
-original_url = "list/data/companionmodifiers.html#racetype"
+original_url = "/list/data/companionmodifiers.html#racetype"
 categories = [ "all-tag", "companionmodifiers-tag" ]
+[menu.main]
+    name = "RACETYPE"
+    parent = "data_companionmodifiers"
+    identifier = "data_companionmodifiers_RACETYPE"
 +++
 
 ## Status

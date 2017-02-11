@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "XPAWARD (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#xpaward"
+original_url = "/list/system/gamemode-miscinfo.html#xpaward"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "XPAWARD"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_XPAWARD"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "AGESET (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#ageset"
+original_url = "/list/system/biosettings.html#ageset"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "AGESET"
+    parent = "system_biosettings"
+    identifier = "system_biosettings_AGESET"
 +++
 
 ## Status

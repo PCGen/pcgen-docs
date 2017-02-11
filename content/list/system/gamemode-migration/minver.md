@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MINVER (Game Mode: migration.lst)"
-original_url = "list/system/gamemode-migration.html#minver"
+original_url = "/list/system/gamemode-migration.html#minver"
 categories = [ "all-tag", "gamemode-migration-tag" ]
+[menu.main]
+    name = "MINVER"
+    parent = "system_gamemode-migration"
+    identifier = "system_gamemode-migration_MINVER"
 +++
 
 ## Status

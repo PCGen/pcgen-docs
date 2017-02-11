@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "DOMAIN (Data: classes.lst)"
-original_url = "list/data/classes.html#domain"
+original_url = "/list/data/classes.html#domain"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "DOMAIN"
+    parent = "data_classes"
+    identifier = "data_classes_DOMAIN"
 +++
 
 ## Status

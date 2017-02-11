@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "LANGUAGE (Global: ADD)"
-original_url = "list/global/add.html#language"
+original_url = "/list/global/add.html#language"
 categories = [ "all-tag", "add-tag" ]
+[menu.main]
+    name = "LANGUAGE"
+    parent = "global_add"
+    identifier = "global_add_LANGUAGE"
 +++
 
 ## Status

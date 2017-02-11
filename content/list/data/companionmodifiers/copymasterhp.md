@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "COPYMASTERHP (Data: companion_mods.lst)"
-original_url = "list/data/companionmodifiers.html#copymasterhp"
+original_url = "/list/data/companionmodifiers.html#copymasterhp"
 categories = [ "all-tag", "companionmodifiers-tag" ]
+[menu.main]
+    name = "COPYMASTERHP"
+    parent = "data_companionmodifiers"
+    identifier = "data_companionmodifiers_COPYMASTERHP"
 +++
 
 ## Status

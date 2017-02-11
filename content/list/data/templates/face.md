@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "FACE (Data: templates.lst)"
-original_url = "list/data/templates.html#face"
+original_url = "/list/data/templates.html#face"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "FACE"
+    parent = "data_templates"
+    identifier = "data_templates_FACE"
 +++
 
 ## Status

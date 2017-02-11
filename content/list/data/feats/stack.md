@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "STACK (Data: feats.lst)"
-original_url = "list/data/feats.html#stack"
+original_url = "/list/data/feats.html#stack"
 categories = [ "all-tag", "feats-tag" ]
+[menu.main]
+    name = "STACK"
+    parent = "data_feats"
+    identifier = "data_feats_STACK"
 +++
 
 ## Status

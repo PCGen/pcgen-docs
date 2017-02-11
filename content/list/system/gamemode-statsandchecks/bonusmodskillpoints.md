@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BONUSMODSKILLPOINTS (Game Mode: statsandchecks.lst)"
-original_url = "list/system/gamemode-statsandchecks.html#bonusmodskillpoints"
+original_url = "/list/system/gamemode-statsandchecks.html#bonusmodskillpoints"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
+[menu.main]
+    name = "BONUSMODSKILLPOINTS"
+    parent = "system_gamemode-statsandchecks"
+    identifier = "system_gamemode-statsandchecks_BONUSMODSKILLPOINTS"
 +++
 
 ## Status

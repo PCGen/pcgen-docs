@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "GENDER (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#gender"
+original_url = "/list/data/startingkits.html#gender"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "GENDER"
+    parent = "data_startingkits"
+    identifier = "data_startingkits_GENDER"
 +++
 
 ## Status

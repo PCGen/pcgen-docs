@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "FOLLOWERS (Global: BONUS)"
-original_url = "list/global/bonus.html#followers"
+original_url = "/list/global/bonus.html#followers"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "FOLLOWERS"
+    parent = "global_bonus"
+    identifier = "global_bonus_FOLLOWERS"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "REACHMULT (Data: equipment.lst)"
-original_url = "list/data/equipment.html#reachmult"
+original_url = "/list/data/equipment.html#reachmult"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "REACHMULT"
+    parent = "data_equipment"
+    identifier = "data_equipment_REACHMULT"
 +++
 
 ## Status

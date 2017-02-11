@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BASEQTY (Data: equipment.lst)"
-original_url = "list/data/equipment.html#baseqty"
+original_url = "/list/data/equipment.html#baseqty"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "BASEQTY"
+    parent = "data_equipment"
+    identifier = "data_equipment_BASEQTY"
 +++
 
 ## Status

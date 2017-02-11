@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "POINTPOOLNAME (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#pointpoolname"
+original_url = "/list/system/gamemode-miscinfo.html#pointpoolname"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "POINTPOOLNAME"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_POINTPOOLNAME"
 +++
 
 ## Status

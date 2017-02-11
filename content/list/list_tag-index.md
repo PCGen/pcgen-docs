@@ -1,11 +1,11 @@
 +++
 date = "2016-08-01"
-title = "Index : List File Tag Index"
+title = "List File Tag Index"
 original_url = "/list/tag-index.html"
 
 [menu.main]
     identifier = "list_tag-index"
-    name = "Index : List File Tag Index"
+    name = "List File Tag Index"
     parent = "list"
         weight = -1
 +++

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ROLE (Data: classes.lst)"
-original_url = "list/data/classes.html#role"
+original_url = "/list/data/classes.html#role"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "ROLE"
+    parent = "data_classes"
+    identifier = "data_classes_ROLE"
 +++
 
 ## Status

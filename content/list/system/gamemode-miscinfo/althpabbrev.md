@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ALTHPABBREV (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#althpabbrev"
+original_url = "/list/system/gamemode-miscinfo.html#althpabbrev"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "ALTHPABBREV"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_ALTHPABBREV"
 +++
 
 ## Status

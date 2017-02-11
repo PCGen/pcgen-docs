@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "HANDS (Data: weapon_proficiencies.lst)"
-original_url = "list/data/weaponproficiencies.html#hands"
+original_url = "/list/data/weaponproficiencies.html#hands"
 categories = [ "all-tag", "weaponproficiencies-tag" ]
+[menu.main]
+    name = "HANDS"
+    parent = "data_weaponproficiencies"
+    identifier = "data_weaponproficiencies_HANDS"
 +++
 
 ## Status

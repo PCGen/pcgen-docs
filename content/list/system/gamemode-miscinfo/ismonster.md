@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ISMONSTER (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#ismonster"
+original_url = "/list/system/gamemode-miscinfo.html#ismonster"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "ISMONSTER"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_ISMONSTER"
 +++
 
 ## Status

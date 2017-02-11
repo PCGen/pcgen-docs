@@ -7,6 +7,7 @@ original_url = "/standards.html"
     identifier = "_standards"
     name = "Documentation Standards"
     parent = ""
+    weight = 20
     
 +++
 This page will be used to provide standards to follow in the creation of

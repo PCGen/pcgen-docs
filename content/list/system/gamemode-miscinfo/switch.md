@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SWITCH (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#switch"
+original_url = "/list/system/gamemode-miscinfo.html#switch"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "SWITCH"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_SWITCH"
 +++
 
 ## Status

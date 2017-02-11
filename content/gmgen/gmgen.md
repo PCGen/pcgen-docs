@@ -4,9 +4,10 @@ title = "GMGen Documentation"
 original_url = "/gmgen/gmgen.html"
 
 [menu.main]
-    identifier = "gmgen_gmgen"
+    identifier = "gmgen"
     name = "GMGen Documentation"
-    parent = "gmgen"
+    parent = ""
+    weight = 130
     
 +++
 PCGen now includes the game master aid GMGen. GMGen has been developed

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREPOINTBUYMETHOD (Global: PRErequisite)"
-original_url = "list/global/pre.html#prepointbuymethod"
+original_url = "/list/global/pre.html#prepointbuymethod"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREPOINTBUYMETHOD"
+    parent = "global_pre"
+    identifier = "global_pre_PREPOINTBUYMETHOD"
 +++
 
 ## Status

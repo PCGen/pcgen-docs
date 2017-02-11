@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CAST (Data: classes.lst)"
-original_url = "list/data/classes.html#cast"
+original_url = "/list/data/classes.html#cast"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "CAST"
+    parent = "data_classes"
+    identifier = "data_classes_CAST"
 +++
 
 ## Status

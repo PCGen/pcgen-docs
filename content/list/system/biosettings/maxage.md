@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MAXAGE (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#maxage"
+original_url = "/list/system/biosettings.html#maxage"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "MAXAGE"
+    parent = "system_biosettings"
+    identifier = "system_biosettings_MAXAGE"
 +++
 
 ## Status

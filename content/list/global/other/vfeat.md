@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "VFEAT (Global: OTHER)"
-original_url = "list/global/other.html#vfeat"
+original_url = "/list/global/other.html#vfeat"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "VFEAT"
+    parent = "global_other"
+    identifier = "global_other_VFEAT"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "DEITY (Data: campaign.pcc)"
-original_url = "list/data/pcc.html#deity"
+original_url = "/list/data/pcc.html#deity"
 categories = [ "all-tag", "pcc-tag" ]
+[menu.main]
+    name = "DEITY"
+    parent = "data_pcc"
+    identifier = "data_pcc_DEITY"
 +++
 
 ## Status

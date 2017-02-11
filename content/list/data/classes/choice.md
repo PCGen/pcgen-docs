@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CHOICE (Data: classes.lst)"
-original_url = "list/data/classes.html#choice"
+original_url = "/list/data/classes.html#choice"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "CHOICE"
+    parent = "data_classes"
+    identifier = "data_classes_CHOICE"
 +++
 
 ## Status

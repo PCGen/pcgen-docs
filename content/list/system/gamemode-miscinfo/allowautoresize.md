@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ALLOWAUTORESIZE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#allowautoresize"
+original_url = "/list/system/gamemode-miscinfo.html#allowautoresize"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "ALLOWAUTORESIZE"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_ALLOWAUTORESIZE"
 +++
 
 ## Status

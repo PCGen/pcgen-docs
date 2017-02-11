@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "VISION (Global: OTHER)"
-original_url = "list/global/other.html#vision"
+original_url = "/list/global/other.html#vision"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "VISION"
+    parent = "global_other"
+    identifier = "global_other_VISION"
 +++
 
 ## Status

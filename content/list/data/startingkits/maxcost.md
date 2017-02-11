@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MAXCOST (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#maxcost"
+original_url = "/list/data/startingkits.html#maxcost"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "MAXCOST"
+    parent = "data_startingkits"
+    identifier = "data_startingkits_MAXCOST"
 +++
 
 ## Status

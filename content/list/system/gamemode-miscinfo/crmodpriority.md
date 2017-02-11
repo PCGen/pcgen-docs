@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CRMODPRIORITY (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#crmodpriority"
+original_url = "/list/system/gamemode-miscinfo.html#crmodpriority"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "CRMODPRIORITY"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_CRMODPRIORITY"
 +++
 
 ## Status

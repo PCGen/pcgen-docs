@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "RANGEMULT (Global: BONUS)"
-original_url = "list/global/bonus.html#rangemult"
+original_url = "/list/global/bonus.html#rangemult"
 categories = [ "all-tag", "bonus-tag" ]
+[menu.main]
+    name = "RANGEMULT"
+    parent = "global_bonus"
+    identifier = "global_bonus_RANGEMULT"
 +++
 
 ## Status

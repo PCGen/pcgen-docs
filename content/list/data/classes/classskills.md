@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CLASSSKILLS (Data: classes.lst)"
-original_url = "list/data/classes.html#classskills"
+original_url = "/list/data/classes.html#classskills"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "CLASSSKILLS"
+    parent = "data_classes"
+    identifier = "data_classes_CLASSSKILLS"
 +++
 
 ## Status

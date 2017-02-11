@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "EYES (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#eyes"
+original_url = "/list/system/biosettings.html#eyes"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "EYES"
+    parent = "system_biosettings"
+    identifier = "system_biosettings_EYES"
 +++
 
 ## Status

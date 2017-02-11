@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "AUTOLANG (Global: OTHER)"
-original_url = "list/global/other.html#autolang"
+original_url = "/list/global/other.html#autolang"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "AUTOLANG"
+    parent = "global_other"
+    identifier = "global_other_AUTOLANG"
 +++
 
 ## Status

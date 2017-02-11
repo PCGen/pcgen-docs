@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "ITYPE (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#itype"
+original_url = "/list/data/equipmentmodifiers.html#itype"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "ITYPE"
+    parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_ITYPE"
 +++
 
 ## Status

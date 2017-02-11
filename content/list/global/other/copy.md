@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "COPY (Global: OTHER)"
-original_url = "list/global/other.html#copy"
+original_url = "/list/global/other.html#copy"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "COPY"
+    parent = "global_other"
+    identifier = "global_other_COPY"
 +++
 
 ## Status

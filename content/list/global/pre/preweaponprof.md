@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PREWEAPONPROF (Global: PRErequisite)"
-original_url = "list/global/pre.html#preweaponprof"
+original_url = "/list/global/pre.html#preweaponprof"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PREWEAPONPROF"
+    parent = "global_pre"
+    identifier = "global_pre_PREWEAPONPROF"
 +++
 
 ## Status

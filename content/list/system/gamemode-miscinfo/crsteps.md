@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CRSTEPS (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#crsteps"
+original_url = "/list/system/gamemode-miscinfo.html#crsteps"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "CRSTEPS"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_CRSTEPS"
 +++
 
 ## Status

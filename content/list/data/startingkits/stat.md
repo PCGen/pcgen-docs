@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "STAT (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#stat"
+original_url = "/list/data/startingkits.html#stat"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "STAT"
+    parent = "data_startingkits"
+    identifier = "data_startingkits_STAT"
 +++
 
 ## Status

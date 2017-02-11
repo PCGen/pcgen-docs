@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "PRESPELLDESCRIPTOR (Global: PRErequisite)"
-original_url = "list/global/pre.html#prespelldescriptor"
+original_url = "/list/global/pre.html#prespelldescriptor"
 categories = [ "all-tag", "pre-tag" ]
+[menu.main]
+    name = "PRESPELLDESCRIPTOR"
+    parent = "global_pre"
+    identifier = "global_pre_PRESPELLDESCRIPTOR"
 +++
 
 ## Status

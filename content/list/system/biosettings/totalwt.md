@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "TOTALWT (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#totalwt"
+original_url = "/list/system/biosettings.html#totalwt"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "TOTALWT"
+    parent = "system_biosettings"
+    identifier = "system_biosettings_TOTALWT"
 +++
 
 ## Status

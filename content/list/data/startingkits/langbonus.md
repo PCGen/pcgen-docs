@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "LANGBONUS (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#langbonus"
+original_url = "/list/data/startingkits.html#langbonus"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "LANGBONUS"
+    parent = "data_startingkits"
+    identifier = "data_startingkits_LANGBONUS"
 +++
 
 ## Status

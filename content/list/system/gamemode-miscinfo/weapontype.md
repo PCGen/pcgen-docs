@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "WEAPONTYPE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#weapontype"
+original_url = "/list/system/gamemode-miscinfo.html#weapontype"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "WEAPONTYPE"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_WEAPONTYPE"
 +++
 
 ## Status

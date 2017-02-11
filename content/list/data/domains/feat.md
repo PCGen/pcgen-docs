@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "FEAT (Data: domains.lst)"
-original_url = "list/data/domains.html#feat"
+original_url = "/list/data/domains.html#feat"
 categories = [ "all-tag", "domains-tag" ]
+[menu.main]
+    name = "FEAT"
+    parent = "data_domains"
+    identifier = "data_domains_FEAT"
 +++
 
 ## Status

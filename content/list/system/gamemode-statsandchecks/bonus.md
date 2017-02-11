@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BONUS (Game Mode: statsandchecks.lst)"
-original_url = "list/system/gamemode-statsandchecks.html#bonus"
+original_url = "/list/system/gamemode-statsandchecks.html#bonus"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
+[menu.main]
+    name = "BONUS"
+    parent = "system_gamemode-statsandchecks"
+    identifier = "system_gamemode-statsandchecks_BONUS"
 +++
 
 ## Status

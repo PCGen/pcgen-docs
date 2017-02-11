@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "WEAPONFOCUS (Global: CHOOSE)"
-original_url = "list/global/choose.html#weaponfocus"
+original_url = "/list/global/choose.html#weaponfocus"
 categories = [ "all-tag", "choose-tag" ]
+[menu.main]
+    name = "WEAPONFOCUS"
+    parent = "global_choose"
+    identifier = "global_choose_WEAPONFOCUS"
 +++
 
 ## Status

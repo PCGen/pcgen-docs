@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "CASTERLEVEL (Data: classes.lst)"
-original_url = "list/data/classes.html#casterlevel"
+original_url = "/list/data/classes.html#casterlevel"
 categories = [ "all-tag", "classes-tag" ]
+[menu.main]
+    name = "CASTERLEVEL"
+    parent = "data_classes"
+    identifier = "data_classes_CASTERLEVEL"
 +++
 
 ## Status

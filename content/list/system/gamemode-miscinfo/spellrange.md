@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "SPELLRANGE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#spellrange"
+original_url = "/list/system/gamemode-miscinfo.html#spellrange"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "SPELLRANGE"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_SPELLRANGE"
 +++
 
 ## Status

@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "USEMASTERSKILL (Data: companion_mods.lst)"
-original_url = "list/data/companionmodifiers.html#usemasterskill"
+original_url = "/list/data/companionmodifiers.html#usemasterskill"
 categories = [ "all-tag", "companionmodifiers-tag" ]
+[menu.main]
+    name = "USEMASTERSKILL"
+    parent = "data_companionmodifiers"
+    identifier = "data_companionmodifiers_USEMASTERSKILL"
 +++
 
 ## Status

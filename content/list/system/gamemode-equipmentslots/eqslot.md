@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "EQSLOT (Game Mode: equipmentslots.lst)"
-original_url = "list/system/gamemode-equipmentslots.html#eqslot"
+original_url = "/list/system/gamemode-equipmentslots.html#eqslot"
 categories = [ "all-tag", "gamemode-equipmentslots-tag" ]
+[menu.main]
+    name = "EQSLOT"
+    parent = "system_gamemode-equipmentslots"
+    identifier = "system_gamemode-equipmentslots_EQSLOT"
 +++
 
 ## Status

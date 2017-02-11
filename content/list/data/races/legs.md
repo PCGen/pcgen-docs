@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "LEGS (Data: races.lst)"
-original_url = "list/data/races.html#legs"
+original_url = "/list/data/races.html#legs"
 categories = [ "all-tag", "races-tag" ]
+[menu.main]
+    name = "LEGS"
+    parent = "data_races"
+    identifier = "data_races_LEGS"
 +++
 
 ## Status

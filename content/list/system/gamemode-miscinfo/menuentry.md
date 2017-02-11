@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MENUENTRY (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#menuentry"
+original_url = "/list/system/gamemode-miscinfo.html#menuentry"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "MENUENTRY"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_MENUENTRY"
 +++
 
 ## Status

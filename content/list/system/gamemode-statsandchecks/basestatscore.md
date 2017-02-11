@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BASESTATSCORE (Game Mode: statsandchecks.lst)"
-original_url = "list/system/gamemode-statsandchecks.html#basestatscore"
+original_url = "/list/system/gamemode-statsandchecks.html#basestatscore"
 categories = [ "all-tag", "gamemode-statsandchecks-tag" ]
+[menu.main]
+    name = "BASESTATSCORE"
+    parent = "system_gamemode-statsandchecks"
+    identifier = "system_gamemode-statsandchecks_BASESTATSCORE"
 +++
 
 ## Status

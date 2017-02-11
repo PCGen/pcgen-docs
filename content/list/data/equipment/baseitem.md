@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BASEITEM (Data: equipment.lst)"
-original_url = "list/data/equipment.html#baseitem"
+original_url = "/list/data/equipment.html#baseitem"
 categories = [ "all-tag", "equipment-tag" ]
+[menu.main]
+    name = "BASEITEM"
+    parent = "data_equipment"
+    identifier = "data_equipment_BASEITEM"
 +++
 
 ## Status

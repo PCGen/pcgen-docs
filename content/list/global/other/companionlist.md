@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "COMPANIONLIST (Global: OTHER)"
-original_url = "list/global/other.html#companionlist"
+original_url = "/list/global/other.html#companionlist"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "COMPANIONLIST"
+    parent = "global_other"
+    identifier = "global_other_COMPANIONLIST"
 +++
 
 ## Status

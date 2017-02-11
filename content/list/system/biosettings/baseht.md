@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "BASEHT (System: bio/biosettings.lst)"
-original_url = "list/system/biosettings.html#baseht"
+original_url = "/list/system/biosettings.html#baseht"
 categories = [ "all-tag", "biosettings-tag" ]
+[menu.main]
+    name = "BASEHT"
+    parent = "system_biosettings"
+    identifier = "system_biosettings_BASEHT"
 +++
 
 ## Status

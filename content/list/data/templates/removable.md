@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "REMOVABLE (Data: templates.lst)"
-original_url = "list/data/templates.html#removable"
+original_url = "/list/data/templates.html#removable"
 categories = [ "all-tag", "templates-tag" ]
+[menu.main]
+    name = "REMOVABLE"
+    parent = "data_templates"
+    identifier = "data_templates_REMOVABLE"
 +++
 
 ## Status

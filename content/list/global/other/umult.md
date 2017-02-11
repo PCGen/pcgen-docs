@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "UMULT (Global: OTHER)"
-original_url = "list/global/other.html#umult"
+original_url = "/list/global/other.html#umult"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "UMULT"
+    parent = "global_other"
+    identifier = "global_other_UMULT"
 +++
 
 ## Status

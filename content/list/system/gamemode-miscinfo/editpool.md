@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "EDITPOOL (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#editpool"
+original_url = "/list/system/gamemode-miscinfo.html#editpool"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "EDITPOOL"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_EDITPOOL"
 +++
 
 ## Status

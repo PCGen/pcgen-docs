@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "AUTOFEAT (Global: OTHER)"
-original_url = "list/global/other.html#autofeat"
+original_url = "/list/global/other.html#autofeat"
 categories = [ "all-tag", "other-tag" ]
+[menu.main]
+    name = "AUTOFEAT"
+    parent = "global_other"
+    identifier = "global_other_AUTOFEAT"
 +++
 
 ## Status

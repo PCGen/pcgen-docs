@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "FUMBLERANGE (Data: equipment_modifiers.lst)"
-original_url = "list/data/equipmentmodifiers.html#fumblerange"
+original_url = "/list/data/equipmentmodifiers.html#fumblerange"
 categories = [ "all-tag", "equipmentmodifiers-tag" ]
+[menu.main]
+    name = "FUMBLERANGE"
+    parent = "data_equipmentmodifiers"
+    identifier = "data_equipmentmodifiers_FUMBLERANGE"
 +++
 
 ## Status

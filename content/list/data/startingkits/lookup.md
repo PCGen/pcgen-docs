@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "LOOKUP (Data: starting_kits.lst)"
-original_url = "list/data/startingkits.html#lookup"
+original_url = "/list/data/startingkits.html#lookup"
 categories = [ "all-tag", "startingkits-tag" ]
+[menu.main]
+    name = "LOOKUP"
+    parent = "data_startingkits"
+    identifier = "data_startingkits_LOOKUP"
 +++
 
 ## Status

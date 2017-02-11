@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "MINXP (Game Mode: level.lst)"
-original_url = "list/system/gamemode-level.html#minxp"
+original_url = "/list/system/gamemode-level.html#minxp"
 categories = [ "all-tag", "gamemode-level-tag" ]
+[menu.main]
+    name = "MINXP"
+    parent = "system_gamemode-level"
+    identifier = "system_gamemode-level_MINXP"
 +++
 
 ## Status

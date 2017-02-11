@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "RESIZABLEEQUIPTYPE (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#resizableequiptype"
+original_url = "/list/system/gamemode-miscinfo.html#resizableequiptype"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "RESIZABLEEQUIPTYPE"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_RESIZABLEEQUIPTYPE"
 +++
 
 ## Status

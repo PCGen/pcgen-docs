@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "COPYMASTERCHECK (Data: companion_mods.lst)"
-original_url = "list/data/companionmodifiers.html#copymastercheck"
+original_url = "/list/data/companionmodifiers.html#copymastercheck"
 categories = [ "all-tag", "companionmodifiers-tag" ]
+[menu.main]
+    name = "COPYMASTERCHECK"
+    parent = "data_companionmodifiers"
+    identifier = "data_companionmodifiers_COPYMASTERCHECK"
 +++
 
 ## Status

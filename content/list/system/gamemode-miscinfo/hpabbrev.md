@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "HPABBREV (Game Mode: miscinfo.lst)"
-original_url = "list/system/gamemode-miscinfo.html#hpabbrev"
+original_url = "/list/system/gamemode-miscinfo.html#hpabbrev"
 categories = [ "all-tag", "gamemode-miscinfo-tag" ]
+[menu.main]
+    name = "HPABBREV"
+    parent = "system_gamemode-miscinfo"
+    identifier = "system_gamemode-miscinfo_HPABBREV"
 +++
 
 ## Status

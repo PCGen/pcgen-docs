@@ -1,8 +1,12 @@
 +++
 date = "2016-08-01"
 title = "KEYSTAT (Data: skills.lst)"
-original_url = "list/data/skills.html#keystat"
+original_url = "/list/data/skills.html#keystat"
 categories = [ "all-tag", "skills-tag" ]
+[menu.main]
+    name = "KEYSTAT"
+    parent = "data_skills"
+    identifier = "data_skills_KEYSTAT"
 +++
 
 ## Status
