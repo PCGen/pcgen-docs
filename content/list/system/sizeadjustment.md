@@ -6,7 +6,7 @@ original_url = "/list/system/sizeadjustment.html"
 [menu.main]
     identifier = "system_sizeadjustment"
     name = "Game Mode: sizeAdjustment.lst"
-    parent = "system"
+    parent = "gamemode"
     
 +++
 The `sizeAdjustment.lst` is a part of the "game mode".

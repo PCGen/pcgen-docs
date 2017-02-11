@@ -6,7 +6,7 @@ original_url = "/list/system/gamemode-load.html"
 [menu.main]
     identifier = "system_gamemode-load"
     name = "Game Mode: load.lst"
-    parent = "system"
+    parent = "gamemode"
     
 +++
 The first line is a list of Size letters with a pipe-delimiter (|)

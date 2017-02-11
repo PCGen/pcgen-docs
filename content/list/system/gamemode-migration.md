@@ -6,7 +6,7 @@ original_url = "/list/system/gamemode-migration.html"
 [menu.main]
     identifier = "system_gamemode-migration"
     name = "Game Mode: migration.lst"
-    parent = "system"
+    parent = "gamemode"
     
 +++
 This file contains information on the tags used in, and how to build, a

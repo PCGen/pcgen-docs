@@ -6,7 +6,7 @@ original_url = "/list/system/traits.html"
 [menu.main]
     identifier = "system_traits"
     name = "Game Mode: traits.lst"
-    parent = "system"
+    parent = "gamemode"
     
 +++
 This is a list of traits.

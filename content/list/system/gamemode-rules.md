@@ -6,7 +6,7 @@ original_url = "/list/system/gamemode-rules.html"
 [menu.main]
     identifier = "system_gamemode-rules"
     name = "Game Mode: rules.lst"
-    parent = "system"
+    parent = "gamemode"
     
 +++
 This file contains Rule Checks that the user can turn on/off in the GUI.

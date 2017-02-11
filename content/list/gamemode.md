@@ -4,53 +4,36 @@ title = "Game Mode List Files"
 original_url = "/list/gamemode.html"
 
 [menu.main]
-    identifier = "list_gamemode"
-    name = "Game Mode List Files"
-    parent = "list"
-    
+    identifier = "gamemode"
+    name = "Game Mode"
+    parent = "tag_indexes"
 +++
-Game System files are specific to the rules for a gaming system, such as
-3e, Unisystem, D6, etc. These files define what rules apply for that
-system, such as Hit Points, vs Vitality Points, Armor Class vs Damage
-Reduction, etc.
+
+## Game Mode files
+
+Game Mode files, found in the `pcgen/system/gameModes/` directory, define the rules of each game system. For example:
+
+* What the statistics are called, i.e. "hit points" or "vitality points"
+* What different sizes of creatures exist, and the bonuses / penalties due to size.
+
+These are specific for each game system, i.e. 3rd Edition, Pathfinder, 5th Edition.
 
 Each Game Mode consists of the following files:
 
-**bio/biosettings.lst** \*
+  * `bio/biosettings.lst` (optional)
+  * `bio/locations.lst` (optional)
+  * `bio/traits.lst` (optional)
+  * `equipicons.lst` (optional)
+  * `equipmentslots.lst`
+  * `level.lst`
+  * `load.lst`
+  * `migration.lst`
+  * `miscinfo.lst`
+  * `pointbuymethods\_system.lst` (optional)
+  * `rules.lst`
+  * `sizeAdjustment.lst` (optional)
+  * `statsandchecks.lst`
+  * `tips.txt` (optional)
 
-**bio/locations.lst** \*
-
-**bio/traits.lst** \*
-
-**equipicons.lst** \*
-
-**equipmentslots.lst**
-
-**level.lst**
-
-**load.lst**
-
-**migration.lst**
-
-**miscinfo.lst**
-
-**pointbuymethods\_system.lst** \*
-
-**rules.lst**
-
-**sizeAdjustment.lst** \*
-
-**statsandchecks.lst**
-
-**tips.txt** \*
-
-**\* NOTE:** These files are optional files for the individual
-gamemodes. Default versions of these files can be found in a directory
-named "default" in the gameModes directory. If a gameMode is loaded
-which does not contain one or more of these files then the files from
-the default directory are loaded in their place.
-
-------------------------------------------------------------------------
-
-
+Files marked (optional) may be omitted; the defaults from the `pcgen/system/gameModes/default/` directory will be used instead.
 

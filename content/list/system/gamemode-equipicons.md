@@ -6,7 +6,7 @@ original_url = "/list/system/gamemode-equipicons.html"
 [menu.main]
     identifier = "system_gamemode-equipicons"
     name = "Game Mode: equipicons.lst"
-    parent = "system"
+    parent = "gamemode"
     
 +++
 The <span class="lstfile"> equipicons.lst </span> sets the icon used for
