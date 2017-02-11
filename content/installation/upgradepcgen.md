@@ -2,7 +2,7 @@
 date = "2016-08-01"
 title = "Upgrading PCGen"
 original_url = "/installation/upgradepcgen.html"
-
+categories = ["needs-revision",]
 [menu.main]
     identifier = "installation_upgradepcgen"
     name = "Upgrading PCGen"
