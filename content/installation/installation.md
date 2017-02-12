@@ -1,40 +1,79 @@
 +++
-date = "2016-08-01"
-title = "Installation of Java and PCGen"
+date = "2017-02-11T16:12:05+08:00"
+title = "Installation"
 original_url = "/installation/index.html"
 
 [menu.main]
     identifier = "installation"
-    name = "Installation of Java and PCGen"
+    name = "Installation"
     parent = ""
     weight = 30
 +++
-The following sections describe how to install Java and PCGen Manually
-for PC, Macintosh, and the UNIX and Linux varieties.
 
-The first section describes the steps for manually installing Java on
-your specific OS and how to determine what version you may have and
-which version to install.
+On this page:
 
-The later sections describes how to install PCGen directly from the zip
-files, and how to upgrade from a previous version.
+* [System Requirements](#system-requirements)
+* [Installing Java](#installing-java)
+* [Installing PCGen](#installing-pcgen)
+* [Upgrading PCGen](#upgrading-pcgen)
 
-PCGen is distributed in 4 different versions:
+---
 
-1.  pcgenXXX\_full.zip : everything including GMGen and PDF, best
-    installed in new directory.
-2.  pcgenXXX\_partial.zip : everything except the GMGen plugins.
-3.  pcgenXXX\_win\_install.exe : A Windows specific installer.
-4.  pcgenXXX\_mac\_install.dmg : A Macintosh specific installer.
+## System requirements
 
-Where XXX is the version number of PCGen (e.g. 5140 for version 5.14.0.)
+PCGen can be installed on most desktop and laptop computers made in the last ten years.
 
-The platform specific installers are the same PCGen version everyone
-else is using, just packaged with installers which target Windows and
-Mac OSX users specifically. Typically there is a gap between when the
-official release is done and when these special installers are ready.
+PCGen supports the Windows, Mac OS X, and Linux operating systems.
 
-------------------------------------------------------------------------
+You will need:
 
+* A recent version of Java (free - see below for instructions)
+* 300 MB of hard drive space
+* A PDF viewer, such as [Adobe Acrobat Reader](https://get.adobe.com/reader/) (free)
 
+----
 
+## Installing Java
+
+PCGen requires Java to run.
+
+You probably already have Java installed.
+
+If you don't have Java installed, or if your Java version is too old, you can [download and install the latest version](https://java.com/en/download/).
+
+### More help with Java
+
+If PCGen doesn't work for you, a good first step is to 1) uninstall all versions of Java from your computer, then 2) re-install the latest version.
+
+  * [Troubleshooting Java](https://java.com/en/download/help/troubleshoot_java.xml)
+
+  * [Find out what version(s) of Java you have](https://java.com/en/download/help/version_manual.xml)
+
+  * Remove old versions of Java:
+      * [Instructions for Windows](https://java.com/en/download/faq/remove_olderversions.xml)
+      * [Instructions for Mac OS X](https://java.com/en/download/help/mac_uninstall_java.xml)
+      * [Instructions for Linux](https://java.com/en/download/help/linux_uninstall.xml)
+
+----
+
+## Installing PCGen
+
+You can get PCGen from the [downloads page](http://pcgen.org/download/).
+
+* Windows users:
+    * Get the "Windows Download".
+    * Wait for the file to finish downloading.
+    * Open the file and follow the install wizard.
+    * Start the program from the PCGen entry in your Start Menu.
+
+* If you are a Mac OS X or Linux user:
+	* Get the "Zip Download (Universal)".
+	* Wait for the file to finish downloading.
+	* Extract the zip file into a folder. (It's best to do this in a new, empty folder.)
+	* Navigate into the `pcgen` folder and double-click `pcgen.sh` to start the program.
+
+----
+
+## Upgrading PCGen
+
+See [Upgrading PCGen](./upgradepcgen.html).

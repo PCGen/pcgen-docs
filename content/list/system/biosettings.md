@@ -5,8 +5,8 @@ original_url = "/list/system/biosettings.html"
 
 [menu.main]
     identifier = "system_biosettings"
-    name = "Game Mode: biosettings.lst"
-    parent = "system"
+    name = "biosettings.lst"
+    parent = "gamemode"
     
 +++
 Bio Settings list files can now be included in datasets using the

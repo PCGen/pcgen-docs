@@ -1,11 +1,11 @@
 +++
 date = "2016-08-01"
-title = "Acknowledgments"
+title = "Credits"
 original_url = "/credits/index.html"
 
 [menu.main]
     identifier = "credits"
-    name = "Acknowledgments"
+    name = "Credits"
     parent = ""
     weight = 120
 +++

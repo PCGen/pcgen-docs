@@ -8,3 +8,5 @@ original_url = "NIL"
     name = "Data Files"
     parent = "tag_indexes"
 +++
+
+This section documents all tags that can be used in data files.

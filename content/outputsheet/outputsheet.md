@@ -5,7 +5,7 @@ original_url = "/outputsheet/index.html"
 
 [menu.main]
     identifier = "outputsheet"
-    name = "Character Output Sheets"
+    name = "Output Sheets"
     parent = ""
     weight = 90
 +++

@@ -5,8 +5,8 @@ original_url = "/list/system/gamemode-locations.html"
 
 [menu.main]
     identifier = "system_gamemode-locations"
-    name = "Game Mode: locations.lst"
-    parent = "system"
+    name = "locations.lst"
+    parent = "gamemode"
     
 +++
 This is a list of locations.

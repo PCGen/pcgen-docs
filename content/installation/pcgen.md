@@ -2,7 +2,7 @@
 date = "2016-08-01"
 title = "Installing PCGen Manually"
 original_url = "/installation/pcgen.html"
-
+categories = ["needs-revision",]
 [menu.main]
     identifier = "installation_pcgen"
     name = "Installing PCGen Manually"

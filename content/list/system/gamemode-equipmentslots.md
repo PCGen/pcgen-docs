@@ -5,8 +5,8 @@ original_url = "/list/system/gamemode-equipmentslots.html"
 
 [menu.main]
     identifier = "system_gamemode-equipmentslots"
-    name = "Game Mode: equipmentslots.lst"
-    parent = "system"
+    name = "equipmentslots.lst"
+    parent = "gamemode"
     
 +++
 The equipmentslots.lst sets the name of locations on the character to
