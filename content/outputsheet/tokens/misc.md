@@ -1057,8 +1057,8 @@ effect.
         -   "\_\_RP\_\_" as the substitute for "}"
         -   "\_\_PLUS\_\_" as the substitute for "+"
         -   Note: Help on regular expressions can be found at the [Java
-            Platform SE6
-            Pattern](http://docs.oracle.com/javase/6/docs/api/java/util/regex/Pattern.html) page.
+            Platform 
+            Pattern](https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html) page.
 -   `SENTENCE` , `SENTENCECASE` - Output the tag result in
     sentence case. e.g. The vitamins are in my fresh brussels sprouts
 -   `TITLE` , `TITLECASE` - Output the tag result in title case. e.g.

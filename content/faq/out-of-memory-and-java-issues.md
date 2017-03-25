@@ -19,9 +19,9 @@ You increase the memory allotment by editing the *pcgen.bet* file.
 -   Open the *pcgen.bat* file
 -   Find and change the following code:
     -   **From:**
-        `java -Dswing.aatext=true -Xms128m -Xmx256m -jar pcgen.jar`
+        `java -Xms128m -Xmx256m -jar pcgen.jar`
     -   **To:**
-        `java -Dswing.aatext=true -Xms256m -Xmx512m -jar pcgen.jar`
+        `java -Xms256m -Xmx512m -jar pcgen.jar`
 -   **Note:** `-Xms256` assigns starting memory for PCGen to 256Mb of
     RAM and should be enough memory for pcgen to run with lots of
     sources loaded.
@@ -85,17 +85,8 @@ What Java do I need?
 The following are the versions of Java required for PCGen (by PCGen
 version)
 
- PCGen 5.12.x and above 
-:   Java 1.5.x or Java 1.6.0\_01 (and above)
-
- PCGen 5.10.2 and below 
-:   Java 1.5.x
-
- PCGen 5.8.1 and below 
-:   Java 1.4.x
-
- PCGen 5.6.1 and below 
-:   Java 1.3.x
+ PCGen 6.x.x and above 
+:   Java 8 or above
 
 ------------------------------------------------------------------------
 
@@ -110,11 +101,9 @@ Go the command prompt and type:
 
 You should get some kind of a response like:
 
-`java version "1.5.0_06"`
-
-`Java(TM) 2 Runtime Environment, Standard Edition (build 1.5.0_06-b05)`
-
-`Java HotSpot(TM) Client VM (build 1.5.0_06-b05, mixed mode, sharing)`
+`java version "1.8.0_112"
+`Java(TM) SE Runtime Environment (build 1.8.0_112-b16)
+`Java HotSpot(TM) 64-Bit Server VM (build 25.112-b16, mixed mode)
 
 #### For Windows Vista Users:
 
@@ -130,13 +119,13 @@ Open "Java Application Runtime Setting"
 
 Open "User"
 
-Click the Enabled button on any Java version other than 1.6.0\_00
+Click the Enabled button on any Java version other than 1.8.0\_00
 
 Open "System"
 
 Only have one in mine and its not selectable
 
-#### For Mac Users:
+#### For Unix/Mac Users:
 
 Open a terminal window and enter:
 
@@ -144,15 +133,9 @@ Open a terminal window and enter:
 
 You should get some kind of a response like:
 
-`java version "1.5.0_06"`
-
-`Java(TM) 2 Runtime Environment, Standard Edition (build 1.5.0_06-b05)`
-
-`Java HotSpot(TM) Client VM (build 1.5.0_06-b05, mixed mode, sharing)`
-
-#### For Unix Users:
-
-Refer to the Mac instructions.
+`java version "1.8.0_112"
+`Java(TM) SE Runtime Environment (build 1.8.0_112-b16)
+`Java HotSpot(TM) 64-Bit Server VM (build 25.112-b16, mixed mode)
 
 ------------------------------------------------------------------------
 
@@ -162,7 +145,7 @@ Miscelaneous Error Messages
  **Bad command or file name** 
 :   A common cause for this error is not having java installed. Go to
     <http://java.sun.com/> and download and install the latest java
-    1.5.x JRE. You'll then be able to run PCGen.
+    8 JRE. You'll then be able to run PCGen.
 
 ------------------------------------------------------------------------
 
