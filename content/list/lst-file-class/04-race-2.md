@@ -268,7 +268,7 @@ Monster" setting.  Default Monster Kits are being used instead.
 When a racial entry lists weapons (other than natural) or armor the race
 is considered to come with the mentioned equipment.  To grant equipment
 automatically we use the `AUTO:EQUIP` tag.  Despite it's name, it
-doesn't actually equip the gear, it only puts in in the "owned gear"
+doesn't actually equip the gear, it only puts in the "owned gear"
 list (for lack of a better term).  The user creating the creature will
 have to go to the gear tab and actually equip it.
 

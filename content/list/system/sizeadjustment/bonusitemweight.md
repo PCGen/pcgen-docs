@@ -26,7 +26,7 @@ None
 
 ### BONUS:ITEMWEIGHT
 
-Modifies the weight of of items based on the item's size category, i.e.
+Modifies the weight of items based on the item's size category, i.e.
 the size of the creature the item was made for.
 
 For example, in 3.5e, armour for small-size creatures [weighs half as

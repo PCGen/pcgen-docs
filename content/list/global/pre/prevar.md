@@ -48,7 +48,7 @@ operators](/list/global/pre.html#comparison-operators) for more details.
 
 1.  `PREVARGT:Rage,4`
 
-    Character must must have a variable 'Rage' with a value greater
+    Character must have a variable 'Rage' with a value greater
     than four.
 
 2.  `PREVARGT:SneakAttack,5`

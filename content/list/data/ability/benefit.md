@@ -73,7 +73,7 @@ What it does
     allows for pattern matching in strings. You can create fairly
     powerful match structures using things like character groups
     "\[a-zA-Z\]" match any alphabetic character or groupings
-    "(bat|super)man" match batman or superman and many many more. So,
+    "(bat|super)man" match batman or superman and many more. So,
     for example, you could clear all benefits by doing
     `BENEFIT:.CLEAR..*` , or clear all exceptional abilities by doing
     `BENEFIT:.CLEAR.\(Ex\)` , or clear everything that's non-numeric

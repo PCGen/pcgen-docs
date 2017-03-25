@@ -12,7 +12,7 @@ original_url = "/tab/temporary-bonuses.html"
 The Temporary Bonus Tab is used to apply conditional bonuses to your
 character such as Spell effects, bonuses due to Rage, having a familiar
 within 5 feet of your character and more. Normally PCGen will only apply
-absolute bonuses to your character, for example if you you equip your
+absolute bonuses to your character, for example if you equip your
 character with a Belt of Giant Strength he gets a bonus to his strength
 score because wearing the belt is the only condition that needs to be
 met. If however your character is of a class that gets a +2 to Hide but

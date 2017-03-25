@@ -43,7 +43,7 @@ Character must have both Normal and Darkvision.
 
 `PREVISION:1,Blindsight=30,Darkvision=30`
 
-Character must have either Blindsight or Darkvision at at least 30.
+Character must have either Blindsight or Darkvision at least 30.
 
 `PREVISION:1,Low-Light=ANY`
 

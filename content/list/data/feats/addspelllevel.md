@@ -28,7 +28,7 @@ What it does
 
 -   This tag is used in metamagic feats to denote how much higher the
     spell level slot requires.
--   **.MOD Behavior:** When modifying a a feat with the `.MOD` tag,
+-   **.MOD Behavior:** When modifying a feat with the `.MOD` tag,
     given an existing `ADDSPELLLEVEL` tag, the data included in a new
     `ADDSPELLLEVEL` tag will overwrite the existing tag data.
 
