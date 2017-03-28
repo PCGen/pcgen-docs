@@ -74,7 +74,7 @@ original_url = "/faq/yahooandhelping.html"
 
     If you want to get the attention of a tracker monkey, please put
     '\[TM\]' in your subject line. If you think it is a bug, put
-    '\[BUG\]'; a freq, '\[FREQ\]'; it it relates to code, '\[CODE\]';
+    '\[BUG\]'; a freq, '\[FREQ\]'; it relates to code, '\[CODE\]';
     data, '\[DATA\]'; output sheets, '\[OS\]'.
 
     If you enter a issue off of a request made on any of the boards,

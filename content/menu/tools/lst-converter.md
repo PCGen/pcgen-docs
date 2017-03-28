@@ -12,7 +12,7 @@ original_url = "/menu/tools/lst-converter.html"
 ![Tools Menu Options](../../images/menus/tools.png)
 
 The **Lst Converter** is meant to aid anyone who creates their own
-custom list files. Its main purpose to to keep custom LST files created
+custom list files. Its main purpose to keep custom LST files created
 in previous versions current by updating them to the current code. Its
 functions are limited and will not fix bugs or convert really old files
 to the current version. You cannot, for example, convert files from

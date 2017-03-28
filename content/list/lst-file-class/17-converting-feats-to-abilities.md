@@ -330,7 +330,7 @@ ability category, we will start with an ability pool of zero (0).
 
 #### `VISIBLE:NO`
 
-Defines whether this category is visible on the UI or it it is hidden.
+Defines whether this category is visible on the UI or it is hidden.
 This tag is useful for hidden abilities and class abilities that require
 no interaction from the user. Available options are - `YES` , `NO` , or
 `QUALIFY` .

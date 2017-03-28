@@ -164,7 +164,7 @@ tags used to do this are explained below:
 
 > **Tag Used:** `EDITABLE:YES`
 >
-> **What it Does:** This establishes that that a user can select
+> **What it Does:** This establishes that a user can select
 > abilities in this category.
 
 > **Tag Used:** `EDITPOOL:NO`

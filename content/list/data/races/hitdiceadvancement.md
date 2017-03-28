@@ -31,7 +31,7 @@ What it does
     advancement is indicated by using an asterisk (\*) in place of the
     final number.
 -   All the numbers preceding the last number each indicate the highest
-    number of HD the creature can have before before its size increases
+    number of HD the creature can have before its size increases
     by one category.
 -   **.MOD Behavior:** When modifying a race with the `.MOD` tag, given
     an existing `HITDICEADVANCMENT` tag, the data included in a new

@@ -365,7 +365,7 @@ races will be " `LEGS:2` ".
 The HANDS tag is used to denote the number of hands a creature has. This
 is used to determine how many weapons it can hold. When you go to the
 equipping screen it will offer to let you equip weapons to your primary
-hand and and also show a location for each secondary hand. So a creature
+hand and also show a location for each secondary hand. So a creature
 with four hands could equip one weapon as primary and three as
 secondary. This tag has no affect on a race's natural attacks.
 

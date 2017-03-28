@@ -206,7 +206,7 @@ you can check the correctness, but there is no way to enforce this. If
 you build a custom **Mecha** , you should do this outside of **PCGen**
 and then customize the basic **Mecha** entries according to the built up
 that you already determined. **PCGen** is not the proper tool to do that
-planning, it will just allow to to record your results.
+planning, it will just allow to record your results.
 
 Equipping Mecha Weapons
 -----------------------

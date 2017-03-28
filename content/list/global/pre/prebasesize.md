@@ -32,7 +32,7 @@ particular range of size categories.
 #### Status
 
 Changed: `size` used to be specified as the size name in words, i.e.
-`Small` . Now is is specified as the `SIZENAME` , i.e. `S` .
+`Small` . Now it is specified as the `SIZENAME` , i.e. `S` .
 
 #### Syntax
 
