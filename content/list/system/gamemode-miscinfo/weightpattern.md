@@ -30,8 +30,7 @@ Used in UNITSET lines to define the weight unit pattern. The 'pattern'
 string is a pattern for formatting the output of the value, so you can
 specify e.g. how many decimal digits are printed. The pattern follows
 the definition of the Java class DecimaFormat and can be found
-[here](http://java.sun.com/j2se/1.3/docs/api/java/text/DecimalFormat.html)
-.
+[here](https://docs.oracle.com/javase/8/docs/api/java/text/DecimalFormat.html).
 
 Example
 -------

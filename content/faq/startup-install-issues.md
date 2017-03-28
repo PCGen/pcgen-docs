@@ -58,39 +58,27 @@ original_url = "/faq/startup-install-issues.html"
     Glad you asked, because for many of you the instructions failed
     didn't they? Well here's why.
 
-    Make sure that have the Java 2 v1.6.x or above Runtime Environment
+    Make sure that have the Java 8 or above Runtime Environment
     (or the SDK) installed on your machine. It's available from:
     <http://java.com/en/download/> .
-
-    Mac users should note that Apple does not, and will not, support
-    Java 2 v1.7.x or greater for Mac OSX 10.6.8 or earlier.
 
 5.  <span class="underline"> Will PCGen run on my machine? </span>
 
     That depends. The one thing that decides if you can run PCGen or
-    not, is whether you have at least JAVA 1.6+ installed. If you do,
+    not, is whether you have at least JAVA 8+ installed. If you do,
     then it should run. If not, it won't. It really is that simple.
 
     However, some might want to check here, so here is a small list:
 
       -------------------------- --------------------------------------------------------------------------------------------------------------
       **OS**                     **Does it Work?**
-      Mac OS 7.x - 9.x           No. (Actually, it might. As a work-around, you can install VirtualPC (or some such) and run PCGen in there.)
-      Mac OSX 10 to 10.4         No
-      Mac OSX 10.5+              Yes (Running Windows XP, Vista, or 7 on Boot Camp)
-      Mac OSX 10.5.2 to 10.6.8   Yes (64bit Only)
-      Mac OSX 10.7+              Yes (JRE 1.7+ required)
-      Win 98                     No
-      Win 98 SE                  No
-      Win NT                     No
-      Win 2000                   Yes (32bit Only)
+      Mac OSX 10+	         Yes
       Win XP                     Yes
       Win Vista                  Yes
       Unix                       Yes
       Linux                      Yes
+      FreeBSD                    Yes
       -------------------------- --------------------------------------------------------------------------------------------------------------
-
-    Not all of these configurations have been tested.
 
 6.  <span class="underline"> Mac OSX telling me "PCGen can't be opened
     because . . . " </span>
