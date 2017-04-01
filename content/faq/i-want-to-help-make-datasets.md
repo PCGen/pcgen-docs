@@ -19,14 +19,9 @@ original_url = "/faq/i-want-to-help-make-datasets.html"
 
     And you should get something like:
 
-    `java version "1.5.0_06"`
+    `java version "1.8.0_121"
 
-    `Java(TM) 2 Runtime Environment, Standard Edition (build 1.5.0_06-b05)`
-
-    `Java HotSpot(TM) Client VM (build 1.5.0_06-b05, mixed mode, sharing)`
-
-    If you don't, you need to get it from Sun Systems.
-    [**http://www.sun.com/java/**](http://www.sun.com/java/)
+    If you don't, you need to [get it from Oracle](https://java.com/en/download/).
 
     If you're having problems with the operation of PCGen you likely
     have a "less-than-complete" version of Java and need to replace it,
@@ -588,7 +583,3 @@ original_url = "/faq/i-want-to-help-make-datasets.html"
     Whereever you go we're already there.
 
 ------------------------------------------------------------------------
-
-[![Valid HTML 4.01
-Strict](../images/system/valid-html401.png)](http://validator.w3.org/check?uri=referer)
-
