@@ -16,7 +16,7 @@ The Markdown-formatted text is compiled using Hugo, an excellent "static site ge
  3. Download a copy ("clone") of the `pcgen-docs` repository to your computer.
       * i.e. to make a copy to C:/pcgen-docs/, you would do:
  
-        `git clone --recursive https://github.com/LiaungYip/pcgen-docs G:/pcgen-docs/`
+        `git clone --recursive https://github.com/PCGen/pcgen-docs.git C:/pcgen-docs/`
  
         Note the `--recursive` option is required to download the website theme, which is a "sub-module" of the main repository.
  
